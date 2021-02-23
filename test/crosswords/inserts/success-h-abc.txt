@@ -1,0 +1,60 @@
+--- crossword
+
+. | . | .
+. | ■ | .
+. | . | .
+
+--- data
+
+{"word": "abc", "type": "horizontal", "x": 0, "y": 0}
+
+--- result
+
+1
+
+--- output
+
+a | b | c
+. | ■ | .
+. | . | .
+
+--- horizontals
+
+[
+    {
+        "x": 0,
+        "y": 0,
+        "length": 3,
+        "word": "abc",
+        "type": "horizontal"
+
+    },
+    {
+        "x": 2,
+        "y": 0,
+        "length": 3,
+        "word": null,
+        "type": "horizontal"
+
+    }
+]
+
+--- verticals
+
+[
+    {
+        "x": 0,
+        "y": 0,
+        "length": 3,
+        "word": null,
+        "type": "vertical"
+
+    },
+    {
+        "x": 0,
+        "y": 2,
+        "length": 3,
+        "word": null,
+        "type": "vertical"
+    }
+]

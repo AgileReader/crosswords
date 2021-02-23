@@ -1,0 +1,52 @@
+--- hint for debugging only: 1
+
+f | o | o
+
+--- input cr: 2
+
+{
+  "a": [
+    [
+      "f",
+      "o",
+      "o"
+    ]
+  ],
+  "rows": 1,
+  "columns": 3,
+  "horizontals": [
+    {
+      "x": 0,
+      "y": 0,
+      "length": 3,
+      "word": "foo",
+      "type": "horizontal"
+    }
+  ],
+  "verticals": [
+  ]
+}
+
+--- input  clues: 3
+[
+    {"q": "foo", "a": "this is foo"}
+]
+
+--- expected final html: 4
+
+<table>
+<tr>
+<td class="empty"><span>1</span>&nbsp;</td>
+<td class="empty">&nbsp;</td>
+<td class="empty">&nbsp;</td>
+</tr>
+</table>
+
+<h2>across</h2>
+<ol>
+<li>1] this is foo</li>
+</ol>
+
+<h2>down</h2>
+<ol>
+</ol>

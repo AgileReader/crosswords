@@ -1,0 +1,17 @@
+--- crossword
+
+. | . | .
+
+--- words
+
+lo
+ip
+fo
+
+--- result
+
+0
+
+--- output
+
+. | . | .

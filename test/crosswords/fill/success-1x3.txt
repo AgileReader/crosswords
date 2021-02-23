@@ -1,0 +1,18 @@
+--- crossword
+
+. | . | .
+
+--- words
+
+lorem
+ipsum
+foo
+
+--- result
+
+1
+
+--- output
+
+f | o | o
+

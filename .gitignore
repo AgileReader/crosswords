@@ -1,0 +1,11 @@
+node_modules
+*.aux
+*.log
+*.out
+*.toc
+
+crosswords/*.html
+
+
+tmp/*
+!tmp/.gitkeep

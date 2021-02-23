@@ -1,0 +1,43 @@
+{
+  "root": true,
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
+  },
+  "extends": ["eslint:recommended", "eslint-config-prettier"],
+  "rules": {
+    "no-undef": "error",
+    "no-unexpected-multiline": "error",
+    "no-unsafe-negation": "error",
+    "no-unused-vars": "error",
+    "semi": ["error", "always"],
+    "strict": ["error", "never"],
+    "quotes": ["error", "single"],
+    "valid-typeof": "error"
+  },
+  "env": {
+    "browser": true,
+    "es2020": true,
+    "es6": true,
+    "node": true
+  },
+  "overrides": [
+    {
+      "files": "**/*.+(ts|tsx)",
+      "parser": "@typescript-eslint/parser",
+      "parserOptions": {
+        "project": "./tsconfig.json"
+      },
+      "plugins": ["@typescript-eslint/eslint-plugin"],
+      "extends": [
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "eslint-config-prettier/@typescript-eslint"
+      ]
+    }
+  ]
+}

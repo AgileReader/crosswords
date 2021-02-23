@@ -1,0 +1,12 @@
+--- crossword
+
+a | b | c
+
+--- result Q
+
+1 | . | .
+
+--- result A
+
+a | b | c
+
