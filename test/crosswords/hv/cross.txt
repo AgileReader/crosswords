@@ -1,0 +1,28 @@
+--- crossword
+
+■ | . | ■
+. | . | .
+■ | . | ■
+
+--- output
+
+{
+    "horizontals": [
+        {
+            "x": 1,
+            "y": 0,
+            "length": 3,
+            "word": null,
+            "type": "horizontal"
+        }
+    ],
+    "verticals": [
+        {
+            "x": 0,
+            "y": 1,
+            "length": 3,
+            "word": null,
+            "type": "vertical"
+        }
+    ]
+}

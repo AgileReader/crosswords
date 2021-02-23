@@ -1,0 +1,23 @@
+--- crossword
+
+. | . | .
+■ | ■ | ■
+. | . | .
+
+
+--- words
+
+foo
+abcd
+bar
+
+--- result
+
+1
+
+--- output
+
+f | o | o
+■ | ■ | ■
+b | a | r
+

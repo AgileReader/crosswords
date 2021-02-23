@@ -1,0 +1,11 @@
+--- crossword
+
+. | . | .
+
+--- result Q
+
+1 | . | .
+
+--- result A
+
+. | . | .

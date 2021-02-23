@@ -1,0 +1,26 @@
+--- crossword
+
+a | b | c
+. | ■ | .
+. | . | .
+
+--- data
+
+{"word": "def", "type": "vertical", "x": 0, "y": 2}
+
+--- result
+
+0
+
+--- output
+
+a | b | c
+. | ■ | .
+. | . | .
+
+--- horizontals
+
+[]
+
+--- verticals
+[]

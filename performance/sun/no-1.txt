@@ -1,0 +1,44 @@
+--- crossword
+
+■ | A | ■ | B | ■ | S | ■ | P | ■ | C | ■ | F | ■
+■ | C | H | E | E | K | T | O | C | H | E | E | K
+■ | C | ■ | N | ■ | Y | ■ | N | ■ | E | ■ | T | ■
+H | U | N | T | E | D | ■ | G | A | M | M | A | ■
+■ | R | ■ | ■ | ■ | I | ■ | ■ | ■ | I | ■ | ■ | ■
+H | A | N | D | O | V | E | R | ■ | C | U | F | F
+■ | T | ■ | E | ■ | E | ■ | E | ■ | A | ■ | O | ■
+D | E | E | P | ■ | R | A | M | B | L | E | R | S
+■ | ■ | ■ | U | ■ | ■ | ■ | I | ■ | ■ | ■ | K | ■
+■ | A | C | T | O | R | ■ | N | I | B | B | L | E
+■ | N | ■ | I | ■ | O | ■ | D | ■ | I | ■ | I | ■
+S | T | E | E | R | C | L | E | A | R | O | F | ■
+■ | I | ■ | S | ■ | K | ■ | R | ■ | D | ■ | T | ■
+
+
+--- words
+
+ACCURATE
+BENT
+SKYDIVER
+PONG
+CHEMICAL
+FEAT
+ANTI
+DEPUTIES
+REMINDER
+BIRD
+FORKLIFT
+CHEEKTOCHEEK
+HUNTED
+GAMMA
+HANDOVER
+CUFF
+DEEP
+RAMBLERS
+ACTOR
+NIBBLE
+STEARCLEAROF
+
+
+
+

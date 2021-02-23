@@ -1,0 +1,31 @@
+--- crossword
+
+. | . | . | . | .
+. | ■ | ■ | ■ | .
+. | ■ | ■ | ■ | .
+. | . | . | . | .
+
+--- words
+
+aaaaa
+xxxxx
+ff
+bbbbb
+xxxxxxx
+accb
+oo
+ppppppppp
+addb
+zzzzz
+
+--- result
+
+1
+
+
+--- output
+
+a | a | a | a | a
+c | ■ | ■ | ■ | d
+c | ■ | ■ | ■ | d
+b | b | b | b | b

@@ -1,0 +1,26 @@
+--- crossword
+
+f | . | .
+f | ■ | .
+f | . | .
+
+--- data
+
+{"word": "foo", "type": "horizontal", "x": 0, "y": 0}
+
+--- result
+
+0
+
+--- output
+
+
+--- horizontals
+
+[
+]
+
+--- verticals
+
+[
+]

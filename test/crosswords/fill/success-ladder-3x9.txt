@@ -1,0 +1,37 @@
+--- crossword
+
+. | . | . | . | . | . | . | . | .
+. | ■ | . | ■ | . | ■ | . | ■ | .
+. | . | . | . | . | . | . | . | .
+
+
+
+
+--- words
+
+qqq
+aaa
+ppp
+bbb
+sss
+ccc
+zzz
+ddd
+mmm
+eee
+ooo
+ooooooooo
+aXbXcXdXe
+iiiiiiiii
+aYbYcYdYe
+ttttttttt
+
+--- result
+
+1
+
+
+--- output
+a | X | b | X | c | X | d | X | e
+a | ■ | b | ■ | c | ■ | d | ■ | e
+a | Y | b | Y | c | Y | d | Y | e

@@ -1,0 +1,34 @@
+--- crossword
+
+. | . | . | . | .
+. | ■ | . | ■ | .
+. | . | . | . | .
+. | ■ | . | ■ | .
+. | . | . | . | .
+
+
+
+
+--- words
+
+aaaaa
+azzzz
+abbbb
+bcccc
+adcdd
+bedee
+afcfe
+
+
+--- result
+
+1
+
+
+--- output
+
+a | a | a | a | a
+b | ■ | d | ■ | f
+b | c | c | c | c
+b | ■ | d | ■ | f
+b | e | d | e | e

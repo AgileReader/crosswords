@@ -1,0 +1,22 @@
+--- crossword
+
+■ | . | ■
+. | . | .
+■ | . | ■
+
+--- words
+
+aaa
+bab
+
+--- result
+
+1
+
+--- output
+
+■ | b | ■
+a | a | a
+■ | b | ■
+
+

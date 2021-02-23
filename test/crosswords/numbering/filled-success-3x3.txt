@@ -1,0 +1,19 @@
+--- crossword
+
+a | b | c
+■ | ■ | ■
+d | e | f
+
+
+--- result Q
+
+1 | . | .
+■ | ■ | ■
+2 | . | .
+
+--- result A
+
+a | b | c
+■ | ■ | ■
+d | e | f
+

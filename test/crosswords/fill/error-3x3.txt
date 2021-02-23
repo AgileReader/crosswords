@@ -1,0 +1,20 @@
+--- crossword
+
+. | . | .
+. | . | .
+■ | ■ | ■
+
+--- words
+
+foo
+xxxxx
+
+--- result
+
+0
+
+--- output
+
+f | o | o
+. | . | .
+■ | ■ | ■

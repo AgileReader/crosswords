@@ -1,0 +1,217 @@
+--- hint for debugging only: 1
+
+p | u | s
+a | ■ | e
+t | i | n
+
+--- input cr: 2
+
+{
+  "a": [
+    [
+      "p",
+      "u",
+      "s"
+    ],
+    [
+      "a",
+      "■",
+      "e"
+    ],
+    [
+      "t",
+      "i",
+      "n"
+    ]
+  ],
+  "rows": 3,
+  "columns": 3,
+  "horizontals": [
+    {
+      "x": 0,
+      "y": 0,
+      "length": 3,
+      "word": "pus",
+      "type": "horizontal"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "length": 3,
+      "word": "tin",
+      "type": "horizontal"
+    }
+  ],
+  "verticals": [
+    {
+      "x": 0,
+      "y": 0,
+      "length": 3,
+      "word": "pat",
+      "type": "vertical"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "length": 3,
+      "word": "sen",
+      "type": "vertical"
+    }
+  ]
+}
+
+--- input clues dict: 3
+[
+    {"q": "pus", "a": "this is pus"},
+    {"q": "pat", "a": "this is pat"},
+    {"q": "foo", "a": "this is foo"}
+]
+
+--- expected cr: 4
+
+. | . | .
+. | ■ | .
+. | . | .
+
+--- expected clues: 5
+
+[
+    {"type": "horizontal", "x": 0, "y": 0, "clue": "this is pus", "word": "pus", "length": 3},
+    {"type": "horizontal", "x": 2, "y": 0, "clue": null, "word": "tin", "length": 3},
+    {"type": "vertical", "x": 0, "y": 0, "clue": "this is pat", "word": "pat", "length": 3},
+    {"type": "vertical", "x": 0, "y": 2, "clue": null, "word": "sen", "length": 3}
+]
+
+--- expected to print dumped: 6
+
+
+. | . | s
+. | ■ | e
+t | i | n
+
+
+--- expected to print : 7
+
+{
+  "a": [
+    [
+      ".",
+      ".",
+      "s"
+    ],
+    [
+      ".",
+      "■",
+      "e"
+    ],
+    [
+      "t",
+      "i",
+      "n"
+    ]
+  ],
+  "rows": 3,
+  "columns": 3,
+  "horizontals": [
+    {
+      "x": 0,
+      "y": 0,
+      "length": 3,
+      "number": 1,
+      "word": null,
+      "type": "horizontal"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "length": 3,
+      "number": 3,
+      "word": "tin",
+      "type": "horizontal"
+    }
+  ],
+  "verticals": [
+    {
+      "x": 0,
+      "y": 0,
+      "length": 3,
+      "number": 1,
+      "word": null,
+      "type": "vertical"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "length": 3,
+      "number": 2,
+      "word": "sen",
+      "type": "vertical"
+    }
+  ],
+  "printA": [
+    [
+      1,
+      "",
+      "s"
+    ],
+    [
+      ".",
+      "■",
+      "e"
+    ],
+    [
+      "3",
+      "i",
+      "n"
+    ]
+  ],
+  "a": [
+    [
+      "p",
+      "u",
+      "s"
+    ],
+    [
+      "a",
+      "■",
+      "e"
+    ],
+    [
+      "t",
+      "i",
+      "n"
+    ]
+
+}
+
+--- expected html for crossword: 8
+
+<table>
+<tr>
+<td class="empty">&nbsp;</td>
+<td class="empty">&nbsp;</td>
+<td class="letter">S</td>
+</tr>
+<tr>
+<td class="empty">&nbsp;</td>
+<td class="forbidden"></td>
+<td class="letter">E</td>
+</tr>
+<tr>
+<td class="letter">T</td>
+<td class="letter">I</td>
+<td class="letter">N</td>
+</tr>
+</table>
+
+--- expected ol/horizontals for crossword: 9
+
+<ol>
+<li>this is pus</li>
+</ol>
+
+--- expected ol/verticals for crossword: 10
+
+<ol>
+<li>this is pat</li>
+</ol>

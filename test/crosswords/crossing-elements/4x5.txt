@@ -1,0 +1,66 @@
+--- crossword 1 - not used - view only
+
+. | . | . | . | .
+. | ■ | ■ | . | ■
+. | . | . | . | ■
+. | ■ | ■ | ■ | ■
+
+--- horizontals & verticals 2
+
+[
+    {
+        "x": 0,
+        "y": 0,
+        "length": 5,
+        "word": null,
+        "type": "horizontal"
+    },
+    {
+        "x": 2,
+        "y": 0,
+        "length": 4,
+        "word": null,
+        "type": "horizontal"
+    },
+    {
+        "x": 0,
+        "y": 0,
+        "length": 4,
+        "word": null,
+        "type": "vertical"
+    },
+    {
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "word": null,
+        "type": "vertical"
+    }
+]
+
+--- toFill 3: for the first element of AllToFill
+
+[
+    {
+        "x": 0,
+        "y": 0,
+        "length": 4,
+        "word": null,
+        "type": "vertical"
+    },
+    {
+        "x": 0,
+        "y": 3,
+        "length": 3,
+        "word": null,
+        "type": "vertical"
+    },
+    {
+        "x": 2,
+        "y": 0,
+        "length": 4,
+        "word": null,
+        "type": "horizontal"
+    }
+]
+

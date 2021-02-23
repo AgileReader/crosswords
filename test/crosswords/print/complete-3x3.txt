@@ -1,0 +1,132 @@
+--- hint for debugging only: 1
+
+. | . | .
+. | ■ | .
+. | . | .
+
+--- input cr JSON: 2
+
+{
+  "a": [
+    [
+      ".",
+      ".",
+      "."
+    ],
+    [
+      ".",
+      "■",
+      "."
+    ],
+    [
+      ".",
+      ".",
+      "."
+    ]
+  ],
+  "rows": 3,
+  "columns": 3,
+  "horizontals": [
+    {
+      "x": 0,
+      "y": 0,
+      "length": 3,
+      "word": null,
+      "type": "horizontal"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "length": 3,
+      "word": null,
+      "type": "horizontal"
+    }
+  ],
+  "verticals": [
+    {
+      "x": 0,
+      "y": 0,
+      "length": 3,
+      "word": null,
+      "type": "vertical"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "length": 3,
+      "word": null,
+      "type": "vertical"
+    }
+  ]
+}
+
+
+--- words JSON: 3
+
+[
+    "pus",
+    "pat",
+    "tin",
+    "sen"
+]
+
+
+--- input clues JSON: 4
+[
+    {"q": "pus", "a": "this is pus"},
+    {"q": "pat", "a": "this is pat"},
+    {"q": "foo", "a": "this is foo"}
+]
+
+
+
+--- expected final html Q: 5
+
+<table>
+<tr>
+<td class="empty"><span>1</span>&nbsp;</td>
+<td class="empty">&nbsp;</td>
+<td class="empty"><span>2</span>&nbsp;</td>
+</tr>
+<tr>
+<td class="empty">&nbsp;</td>
+<td class="forbidden"></td>
+<td class="letter">E</td>
+</tr>
+<tr>
+<td class="empty"><span>3</span>&nbsp;</td>
+<td class="letter">I</td>
+<td class="letter">N</td>
+</tr>
+</table>
+
+<h2>across</h2>
+<ol>
+<li>1] this is pus</li>
+</ol>
+
+<h2>down</h2>
+<ol>
+<li>1] this is pat</li>
+</ol>
+
+--- expected final html A: 6
+
+<table>
+<tr>
+<td class="letter">P</td>
+<td class="letter">U</td>
+<td class="letter">S</td>
+</tr>
+<tr>
+<td class="letter">A</td>
+<td class="forbidden"></td>
+<td class="letter">E</td>
+</tr>
+<tr>
+<td class="letter">T</td>
+<td class="letter">I</td>
+<td class="letter">N</td>
+</tr>
+</table>
+
