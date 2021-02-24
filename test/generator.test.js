@@ -14,7 +14,7 @@ test('generateShape: outline', () => {
   ];
 
   dataFilenames.map(item => {
-    let inputFile = fs.readFileSync('./test/crosswords/generators/' + item).toString();
+    let inputFile = fs.readFileSync('./test/crosswords/generator/' + item).toString();
     let chunks = inputFile.trim().split(RegExp('^---.*?$', 'gms'));
 
     let type = chunks[1].trim();

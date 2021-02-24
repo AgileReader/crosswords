@@ -12,7 +12,7 @@ test('parse, dump: outline', () => {
 
   dataFilenames.map(item => {
     // console.log(item);
-    let inputFile = fs.readFileSync('./test/crosswords/inserts/' + item).toString();
+    let inputFile = fs.readFileSync('./test/crosswords/insert/' + item).toString();
     let chunks = inputFile.trim().split(RegExp('^---.*?$', 'gms'));
 
     let inputCrossword =  chunks[1].trim();
