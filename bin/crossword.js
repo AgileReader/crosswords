@@ -7,7 +7,6 @@ const YAML = require('js-yaml');
 const nunjucks = require('nunjucks');
 const { aolib, datelib, brandlib, datasource, configProcessor } = require('private-libs');
 const crossword = require('./../src/crossword');
-const stat = require('./../src/stat');
 
 const config = datasource.getConfig();
 
@@ -106,7 +105,7 @@ function generateCrossword(shapes) {
       fs.readFileSync(configProcessor.getLibraryPath() + 'output/crosswords-clues.yaml').toString(),
     );
   } else {
-    unknownWordsToMemorize = stat.objToArray(datasource.getCorpus(), (k, v) => {
+    unknownWordsToMemorize = aolib.objToArray(datasource.getCorpus(), (k, v) => {
       return { q: k, a: v };
     });
   }
