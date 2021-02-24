@@ -5,11 +5,9 @@ require('colors');
 const fs = require('fs');
 const YAML = require('js-yaml');
 const nunjucks = require('nunjucks');
-const { aolib, datelib, brandlib } = require('private-libs');
+const { aolib, datelib, brandlib, datasource, configProcessor } = require('private-libs');
 const crossword = require('./../src/crossword');
-const datasource = require('./../src/datasource');
 const stat = require('./../src/stat');
-const cfg = require('./../src/configProcessor');
 
 const config = datasource.getConfig();
 
@@ -105,7 +103,7 @@ function generateCrossword(shapes) {
   let unknownWordsToMemorize = null;
   if (!DEBUG) {
     unknownWordsToMemorize = YAML.load(
-      fs.readFileSync(cfg.getLibraryPath() + 'output/crosswords-clues.yaml').toString(),
+      fs.readFileSync(configProcessor.getLibraryPath() + 'output/crosswords-clues.yaml').toString(),
     );
   } else {
     unknownWordsToMemorize = stat.objToArray(datasource.getCorpus(), (k, v) => {
@@ -166,7 +164,7 @@ function generateCrossword(shapes) {
     .render('templates/cr-page-n.html.tpl', { items: crosswordsA, title: dateAsFilename + '-a' })
     .trim();
 
-  let filename = cfg.getLibraryPath() + 'crosswords/' + dateAsFilename;
+  let filename = configProcessor.getLibraryPath() + 'crosswords/' + dateAsFilename;
   fs.writeFileSync(filename + '-q.html', pageQ);
   fs.writeFileSync(filename + '-a.html', pageA);
 }
