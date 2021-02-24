@@ -5,9 +5,7 @@ require('colors');
 const fs = require('fs');
 const YAML = require('js-yaml');
 const crossword = require('./../src/crossword');
-const datasource = require('./../src/datasource');
-const cfg = require('./../src/configProcessor');
-const { brandlib } = require('private-libs');
+const { brandlib, datasource, configProcessor } = require('private-libs');
 
 const config = datasource.getConfig();
 
@@ -17,7 +15,7 @@ generateCrossword();
 
 function generateCrossword() {
   let unknownWordsToMemorize = YAML.load(
-    fs.readFileSync(cfg.getLibraryPath() + 'output/crosswords-clues.yaml').toString(),
+    fs.readFileSync(configProcessor.getLibraryPath() + 'output/crosswords-clues.yaml').toString(),
   );
 
   let wordsForCrossword = unknownWordsToMemorize.map(v => {
