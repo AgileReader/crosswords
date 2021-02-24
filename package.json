@@ -20,7 +20,8 @@
   "dependencies": {
     "colors": "1.4.0",
     "js-yaml": "^3.14.1",
-    "nunjucks": "^3.2.2"
+    "nunjucks": "^3.2.2",
+    "private-libs": "github:gajdaw/private-libs"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^3.10.1",

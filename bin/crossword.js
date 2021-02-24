@@ -6,6 +6,7 @@ const fs = require('fs');
 const YAML = require('js-yaml');
 const nunjucks = require('nunjucks');
 const tools = require('./../src/tools');
+const { aolib, datelib } = require('private-libs');
 const crossword = require('./../src/crossword');
 const datasource = require('./../src/datasource');
 const stat = require('./../src/stat');
@@ -121,7 +122,7 @@ function generateCrossword(shapes) {
   for (let i = 0; i < 100; i++) {
     console.log('===> ' + i);
 
-    tools.shuffle(unknownWordsToMemorize);
+    aolib.shuffle(unknownWordsToMemorize);
     let wordsForCrossword = unknownWordsToMemorize.map(v => {
       return v.q;
     });
@@ -157,7 +158,7 @@ function generateCrossword(shapes) {
     }
   }
 
-  let dateAsFilename = tools.getCurrentFilename();
+  let dateAsFilename = datelib.getCurrentFilename();
 
   let pageQ = nunjucks
     .render('templates/cr-page-n.html.tpl', { items: crosswordsQ, title: dateAsFilename + '-q' })

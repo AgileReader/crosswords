@@ -1,6 +1,6 @@
 const fs = require('fs');
 const crossword = require('./../src/crossword');
-const tools = require('./../src/tools');
+const { aolib } = require('private-libs');
 
 test('parse, dump: outline', () => {
   let dataFilenames = [
@@ -16,7 +16,7 @@ test('parse, dump: outline', () => {
 
     let receivedAllWords = crossword.reverse(parsedCrossword);
     receivedAllWords = receivedAllWords.concat(crossword.noise(1000));
-    tools.shuffle(receivedAllWords);
+    aolib.shuffle(receivedAllWords);
     let listOfWords = crossword.wordsByLength(receivedAllWords);
 
     let toFill = crossword.getAllToFill(parsedCrossword);

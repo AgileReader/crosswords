@@ -1,4 +1,4 @@
-const tools = require('./../src/tools.js');
+const { aolib } = require('private-libs');
 const nunjucks = require('nunjucks');
 const fs = require('fs');
 
@@ -440,7 +440,7 @@ function getMaxCrossword() {
  */
 function fill(cr, toFill, words, level = 0, reset = false) {
   if (toFill.length < minRemainingToFill) {
-    maxCrossword = tools.deepCopy(cr);
+    maxCrossword = aolib.deepCopy(cr);
     minRemainingToFill = toFill.length;
   }
 
@@ -471,7 +471,7 @@ function fill(cr, toFill, words, level = 0, reset = false) {
   for (let i = 0; i < matchingWords.length; i++) {
     let word = matchingWords[i];
 
-    let currentCr = tools.deepCopy(cr);
+    let currentCr = aolib.deepCopy(cr);
 
     let fillData = {
       word: word,
@@ -925,7 +925,7 @@ function moveCrossingElementsToFront(toFillElements, toFillElement) {
 
 function sortToFillByEn(crossword, toFill) {
   // console.log(crossword);
-  let crosswordForCrossings = tools.deepCopy(crossword);
+  let crosswordForCrossings = aolib.deepCopy(crossword);
   for (let i = 0; i < crosswordForCrossings.rows; i++) {
     for (let j = 0; j < crosswordForCrossings.columns; j++) {
       crosswordForCrossings.a[i][j] = 0;
@@ -972,6 +972,45 @@ function sortToFillByEn(crossword, toFill) {
   });
 }
 
+function clearStringForCrossword(s, isExplanation = false) {
+  if (s === '') {
+    return {
+      word: '',
+      xy: '',
+    };
+  }
+
+  let word = s
+    .replace(/\([0-9]+\)/, '')
+    .replace(/ +/, ' ')
+    .trim();
+
+  if (!isExplanation) {
+    return {
+      word: word,
+      xy: '',
+    };
+  }
+
+  let chunks = word.split(' ');
+  if (chunks.length < 2) {
+    return {
+      word: chunks[0],
+      xy: '',
+    };
+  }
+
+  let digits = [];
+  chunks.map(v => {
+    digits.push(v.length);
+  });
+
+  return {
+    word: chunks.join(''),
+    xy: ' (' + digits.join('-') + ')',
+  };
+}
+
 module.exports = {
   parse,
   dump,
@@ -996,4 +1035,5 @@ module.exports = {
   elementsCross,
   resetMinMax,
   getMaxCrossword,
+  clearStringForCrossword,
 };
