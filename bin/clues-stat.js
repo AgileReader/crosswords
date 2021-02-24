@@ -4,14 +4,14 @@ require('colors');
 
 const fs = require('fs');
 const YAML = require('js-yaml');
-const tools = require('./../src/tools');
 const crossword = require('./../src/crossword');
 const datasource = require('./../src/datasource');
 const cfg = require('./../src/configProcessor');
+const { brandlib } = require('private-libs');
 
 const config = datasource.getConfig();
 
-console.log(tools.brand('Crossword', config.config.version).yellow);
+console.log(brandlib.brand('Crossword', config.config.version).yellow);
 
 generateCrossword();
 
