@@ -11,7 +11,7 @@ test('parse, dump: typical', () => {
   ];
 
   dataFilenames.map(item => {
-    let inputFile = fs.readFileSync('./test/crosswords/parsers/' + item).toString();
+    let inputFile = fs.readFileSync('./test/crosswords/parser/' + item).toString();
     let chunks = inputFile.trim().split(RegExp('^---.*?$', 'gms'));
 
     let inputCrossword = chunks[1].trim();
@@ -30,7 +30,7 @@ test('parse, dump: begin, end bar', () => {
   ];
 
   dataFilenames.map(item => {
-    let inputFile = fs.readFileSync('./test/crosswords/parsers/' + item).toString();
+    let inputFile = fs.readFileSync('./test/crosswords/parser/' + item).toString();
     let chunks = inputFile.trim().split(RegExp('^---.*?$', 'gms'));
 
     let inputCrossword = crossword.parse(chunks[1].trim());
