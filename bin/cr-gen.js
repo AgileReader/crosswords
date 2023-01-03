@@ -8,7 +8,7 @@ const nunjucks = require('nunjucks');
 const { aolib, datelib, brandlib, datasource} = require('private-libs');
 const crossword = require('./../src/crossword');
 
-console.log(brandlib.brand('Crosswords', '0.0.0').yellow);
+console.log(brandlib.brand('Crosswords Generator', '0.0.0').yellow);
 
 const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
