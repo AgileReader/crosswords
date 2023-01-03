@@ -102,7 +102,7 @@ function generateCrossword(shapes) {
   let unknownWordsToMemorize = null;
   if (!DEBUG) {
     unknownWordsToMemorize = YAML.load(
-      fs.readFileSync(configProcessor.getLibraryPath() + 'output/crosswords-clues.yaml').toString(),
+      fs.readFileSync('example-data/crosswords-clues.yaml').toString(),
     );
   } else {
     unknownWordsToMemorize = aolib.objToArray(datasource.getCorpus(), (k, v) => {
@@ -163,7 +163,7 @@ function generateCrossword(shapes) {
     .render('templates/cr-page-n.html.tpl', { items: crosswordsA, title: dateAsFilename + '-a' })
     .trim();
 
-  let filename = configProcessor.getLibraryPath() + 'crosswords/' + dateAsFilename;
+  let filename = 'crosswords/' + dateAsFilename;
   fs.writeFileSync(filename + '-q.html', pageQ);
   fs.writeFileSync(filename + '-a.html', pageA);
 }

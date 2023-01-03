@@ -1,0 +1,74 @@
+body {
+    font-family: "Andale Mono";
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+tr {
+    margin: 0;
+    padding: 0;
+}
+
+.forbidden {
+    background: black;
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 10pt;
+    margin-bottom: 0;
+}
+
+div {
+    float: left;
+    /*border: 1px solid black;*/
+    margin: 0;
+    padding: 10px 20px 0 20px;
+    /*height: 300px;*/
+    width: 320px;
+    /*border: 1px solid black;*/
+}
+
+span {
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+    display: block;
+    width: 10px;
+}
+
+
+@media print {
+    .pagebreak { page-break-before: always; page-break-after: always; clear: both; } /* page-break-after works, as well */
+}
+
+.clear {
+    clear: both;
+}
