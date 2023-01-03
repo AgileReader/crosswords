@@ -5,12 +5,10 @@ require('colors');
 const fs = require('fs');
 const YAML = require('js-yaml');
 const nunjucks = require('nunjucks');
-const { aolib, datelib, brandlib, datasource, configProcessor } = require('private-libs');
+const { aolib, datelib, brandlib, datasource} = require('private-libs');
 const crossword = require('./../src/crossword');
 
-const config = datasource.getConfig();
-
-console.log(brandlib.brand('Crossword', config.config.version).yellow);
+console.log(brandlib.brand('Crosswords', '0.0.0').yellow);
 
 const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
