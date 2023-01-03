@@ -5,17 +5,15 @@ require('colors');
 const fs = require('fs');
 const YAML = require('js-yaml');
 const crossword = require('./../src/crossword');
-const { brandlib, datasource, configProcessor } = require('private-libs');
+const { brandlib } = require('private-libs');
 
-const config = datasource.getConfig();
-
-console.log(brandlib.brand('Crossword', config.config.version).yellow);
+console.log(brandlib.brand('Crosswords Clues Stat', '0.0.0').yellow);
 
 generateCrossword();
 
 function generateCrossword() {
   let unknownWordsToMemorize = YAML.load(
-    fs.readFileSync(configProcessor.getLibraryPath() + 'output/crosswords-clues.yaml').toString(),
+    fs.readFileSync('example-data/crosswords-clues.yaml').toString(),
   );
 
   let wordsForCrossword = unknownWordsToMemorize.map(v => {

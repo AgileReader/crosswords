@@ -1,1 +1,1 @@
-# Agile Reader / Crosswords
+# Crosswords
