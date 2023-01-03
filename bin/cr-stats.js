@@ -12,9 +12,7 @@ console.log(brandlib.brand('Crosswords Clues Stat', '0.0.0').yellow);
 generateCrossword();
 
 function generateCrossword() {
-  let unknownWordsToMemorize = YAML.load(
-    fs.readFileSync('example-data/crosswords-clues.yaml').toString(),
-  );
+  let unknownWordsToMemorize = YAML.load(fs.readFileSync('example-data/crosswords-clues.yaml').toString());
 
   let wordsForCrossword = unknownWordsToMemorize.map(v => {
     return v.q;
