@@ -2,7 +2,7 @@
 
 set -e
 
-function runCi() {
+_runCi() {
     npm test
 
     npx prettier --write bin/
@@ -12,4 +12,4 @@ function runCi() {
     npx eslint src/
 }
 
-runCi $@
+_runCi
