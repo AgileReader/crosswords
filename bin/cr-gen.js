@@ -11,7 +11,7 @@ const crossword = require('./../src/crossword');
 
 const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
-const VERBOSITY = 4;
+const VERBOSITY = 2;
 
 if (VERBOSITY > 0) {
   console.log(brandlib.brand('Crosswords Generator', '0.0.0').yellow);
