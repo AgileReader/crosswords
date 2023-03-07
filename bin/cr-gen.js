@@ -9,7 +9,7 @@ const { aolib, datelib, brandlib, datasource } = require('private-libs');
 const crossword = require('./../src/crossword');
 
 
-const NUMBER_OF_CROSSWORDS = 32;
+const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
 const VERBOSITY = 4;
 
