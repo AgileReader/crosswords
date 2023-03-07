@@ -43,10 +43,10 @@ const predefinedShapes = [
     type: 'template',
     filename: '7x5.txt',
   },
-  // {
-  //   type: 'template',
-  //   filename: '8x5.txt',
-  // },
+  {
+    type: 'template',
+    filename: '8x5.txt',
+  },
   {
     type: 'crate',
     rows: 4,
@@ -63,6 +63,16 @@ const predefinedShapes = [
     columns: 5,
   },
   {
+    type: 'crate',
+    rows: 5,
+    columns: 5,
+  },
+  // {
+  //   type: 'crate',
+  //   rows: 7,
+  //   columns: 7,
+  // },
+  {
     type: 'track',
     rows: 5,
     columns: 9,
@@ -70,6 +80,11 @@ const predefinedShapes = [
   {
     type: 'track',
     rows: 5,
+    columns: 7,
+  },
+  {
+    type: 'track',
+    rows: 7,
     columns: 7,
   },
   {
