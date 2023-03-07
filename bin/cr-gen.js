@@ -9,7 +9,7 @@ const { aolib, datelib, brandlib, datasource } = require('private-libs');
 const crossword = require('./../src/crossword');
 
 
-const NUMBER_OF_CROSSWORDS = 16;
+const NUMBER_OF_CROSSWORDS = 32;
 const DEBUG = false;
 const VERBOSITY = 4;
 
@@ -120,7 +120,7 @@ function generateCrossword(shapes, verbosity = 0) {
   if (!DEBUG) {
     unknownWordsToMemorize = YAML.load(fs.readFileSync('example-data/crosswords-clues.yaml').toString());
   } else {
-    unknownWordsToMemorize = aolib.objToArray(datasource.getCorpus('example-data/corpus.json'), (k, v) => {
+    unknownWordsToMemorize = aolib.objToArray(datasource.getCorpus(), (k, v) => {
       return { q: k, a: v };
     });
   }
