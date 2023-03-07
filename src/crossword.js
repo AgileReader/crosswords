@@ -438,7 +438,14 @@ function getMaxCrossword() {
  * @param reset
  * @returns {boolean|any|(boolean|any)}
  */
-function fill(cr, toFill, words, level = 0, reset = false) {
+function fill(
+    cr,
+    toFill,
+    words,
+    level = 0,
+    reset = false,
+    verbosity = 0
+) {
   if (toFill.length < minRemainingToFill) {
     maxCrossword = aolib.deepCopy(cr);
     minRemainingToFill = toFill.length;
@@ -449,8 +456,10 @@ function fill(cr, toFill, words, level = 0, reset = false) {
   }
   combination++;
   if (combination % 1000 === 0) {
-    console.log('    ------> level = ' + level);
-    console.log('    ------> combination = ' + combination);
+    if (verbosity > 3) {
+      console.log('    ------> level = ' + level);
+      console.log('    ------> combination = ' + combination);
+    }
   }
 
   let currentElementToFill = toFill[0];
@@ -495,7 +504,7 @@ function fill(cr, toFill, words, level = 0, reset = false) {
     let currentWords = deepCopyWords(words, word);
 
     // next level of recursion
-    let recursiveResult = fill(currentCr, currentToFill, currentWords, level + 1);
+    let recursiveResult = fill(currentCr, currentToFill, currentWords, level + 1, reset, verbosity);
 
     if (false !== recursiveResult) {
       return recursiveResult;
@@ -773,11 +782,11 @@ function htmlBody(inputCrossword, inputCluesDict) {
   };
 }
 
-function toPrint(inputCrossword, inputWords) {
+function toPrint(inputCrossword, inputWords, verbosity = 0) {
   let toFill = getAllToFill(inputCrossword);
   let listOfWords = wordsByLength(inputWords);
   toFill = sortToFillByEn(inputCrossword, toFill);
-  return fill(inputCrossword, toFill, listOfWords);
+  return fill(inputCrossword, toFill, listOfWords, 0, false, verbosity);
 }
 
 function findNumbers(cr) {
