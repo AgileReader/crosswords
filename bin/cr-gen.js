@@ -8,10 +8,14 @@ const nunjucks = require('nunjucks');
 const { aolib, datelib, brandlib, datasource } = require('private-libs');
 const crossword = require('./../src/crossword');
 
-console.log(brandlib.brand('Crosswords Generator', '0.0.0').yellow);
 
-const NUMBER_OF_CROSSWORDS = 32;
+const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
+const VERBOSITY = 4;
+
+if (VERBOSITY > 0) {
+  console.log(brandlib.brand('Crosswords Generator', '0.0.0').yellow);
+}
 
 const predefinedShapes = [
   // {
@@ -109,14 +113,14 @@ const predefinedShapes = [
   // },
 ];
 
-generateCrossword(predefinedShapes);
+generateCrossword(predefinedShapes, VERBOSITY);
 
-function generateCrossword(shapes) {
+function generateCrossword(shapes, verbosity = 0) {
   let unknownWordsToMemorize = null;
   if (!DEBUG) {
     unknownWordsToMemorize = YAML.load(fs.readFileSync('example-data/crosswords-clues.yaml').toString());
   } else {
-    unknownWordsToMemorize = aolib.objToArray(datasource.getCorpus(), (k, v) => {
+    unknownWordsToMemorize = aolib.objToArray(datasource.getCorpus('example-data/corpus.json'), (k, v) => {
       return { q: k, a: v };
     });
   }
@@ -126,8 +130,13 @@ function generateCrossword(shapes) {
   let crosswordsQ = [];
   let crosswordsA = [];
 
-  for (let i = 0; i < 100; i++) {
-    console.log('===> ' + i);
+  /*
+   * We run the iteration until we have NUMBER_OF_CROSSWORDS filled crosswords.
+   */
+  for (let i = 0; i < 1000; i++) {
+    if (verbosity > 1) {
+      console.log('===> ' + (i + 1) + '/' + NUMBER_OF_CROSSWORDS);
+    }
 
     aolib.shuffle(unknownWordsToMemorize);
     let wordsForCrossword = unknownWordsToMemorize.map(v => {
@@ -136,7 +145,9 @@ function generateCrossword(shapes) {
     const numberOfShapes = shapes.length;
     const shape = shapes[i % numberOfShapes];
 
-    console.log(JSON.stringify(shape));
+    if (verbosity > 2) {
+      console.log(JSON.stringify(shape));
+    }
 
     let inputCrossword = crossword.generateShape(shape);
     crossword.findHV(inputCrossword);
@@ -152,7 +163,8 @@ function generateCrossword(shapes) {
      *    .toPrint()
      *    .fill()
      */
-    let filledCrossword = crossword.toPrint(inputCrossword, wordsForCrossword, unknownWordsToMemorize);
+    // let filledCrossword = crossword.toPrint(inputCrossword, wordsForCrossword, unknownWordsToMemorize, debug);
+    let filledCrossword = crossword.toPrint(inputCrossword, wordsForCrossword, verbosity);
 
     if (!filledCrossword) {
       console.log('ERROR'.red);
