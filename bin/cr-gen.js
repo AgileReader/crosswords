@@ -5,13 +5,14 @@ require('colors');
 const fs = require('fs');
 const YAML = require('js-yaml');
 const nunjucks = require('nunjucks');
-const { aolib, datelib, brandlib, datasource } = require('private-libs');
+const { aolib, datelib, brandlib } = require('private-libs');
 const crossword = require('./../src/crossword');
+const fileTools = require('./../src/file-tools');
 
 
 const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
-const VERBOSITY = 2;
+const VERBOSITY = 5;
 
 if (VERBOSITY > 0) {
   console.log(brandlib.brand('Crosswords Generator', '0.0.0').yellow);
@@ -120,7 +121,8 @@ function generateCrossword(shapes, verbosity = 0) {
   if (!DEBUG) {
     unknownWordsToMemorize = YAML.load(fs.readFileSync('example-data/crosswords-clues.yaml').toString());
   } else {
-    unknownWordsToMemorize = aolib.objToArray(datasource.getCorpus(), (k, v) => {
+    let corpus = fileTools.getOneJsonFileParsed('example-data/corpus.json');
+    unknownWordsToMemorize = aolib.objToArray(corpus, (k, v) => {
       return { q: k, a: v };
     });
   }
