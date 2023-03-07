@@ -1,7 +1,92 @@
+- q: '(o)tak[skrót.,pot.]'
+  a: ayuh (3-3-8-5)
+- q: (po)pchnięcie
+  a: shove
+- q: (po)pchnąć
+  a: shove
+- q: '(s)pieprzyć/pierdolić[alt."fuck"]'
+  a: frig (21-5-7)
+- q: (za)sznurowany
+  a: laced
+- q: (zakład)karny
+  a: penitentiary (8-5)
+- q: (zakład)poprawczy
+  a: penitentiary (8-9)
+- q: '2os.lp.czas.teraźniejszegood"todo"[arch.]'
+  a: dost (1-3-3-5-14-2-3-3-7)
+- q: '[+hold]dzierżyćwładzę'
+  a: sway (2-5-8-6)
+- q: '[dosłownie]ktośmieszkającynabagnach'
+  a: swamper (11-4-11-2-7)
+- q: '[dosłownie]ponowneoprawieniewramy'
+  a: reframing (11-7-10-1-4)
+- q: '[dosłownie]ponownieoprawiaćwramy'
+  a: reframe (11-8-8-1-4)
+- q: '[dosłownie]rezerwuar,zbiornik'
+  a: reservoir (11-10-8)
+- q: '[formaprzeszłaod]dzwonić'
+  a: rung (6-8-3-7)
+- q: '[formaprzeszłaod]nabijaćnakasęfiskalną[+up]'
+  a: rung (6-8-3-7-2-4-8-2-3)
+- q: '[nazwawłasna-ciasteczkazkremem]'
+  a: twinkies (6-6-1-10-1-7)
+- q: >-
+    [prawdopodobniechodzioslangową/regionalnąformęsłowa'push'oznaczającegoremiswgrzewblackjacka]
+  a: poosh (15-6-1-19-5-5-6-13-5-1-4-1-11)
+- q: '[prawdopodobniewkontekściezcytatów-chłostanie/laniepasem]'
+  a: stropping (15-1-10-1-7-1-16-6)
+- q: '[skrótod]walkie-talkie'
+  a: walkie (6-3-13)
+- q: '[slang]'
+  a: graft
+- q: '[slang]'
+  a: grafts
+- q: '[wcytatach-imiębohatera,właśc.popé]'
+  a: pope (2-8-1-4-9-6-5)
+- q: '[wcytatach-imiębohatera]'
+  a: blaze (2-8-1-4-9)
+- q: '[wcytatach-imiębohaterki]'
+  a: daisy (2-8-1-4-10)
+- q: '[wcytatach-imięosoby]'
+  a: naval (2-8-1-4-6)
+- q: '[wcytatach-nazwasamochodu]'
+  a: civic (2-8-1-5-10)
+- q: '[wcytatach-nazwawydawnictwa]'
+  a: vintage (2-8-1-5-12)
+- q: '[wcytatach-nazwawłasna]'
+  a: tensor (2-8-1-5-7)
+- q: '[wcytatach-nazwawłasna]'
+  a: apex (2-8-1-5-7)
+- q: '[wcytatach-nazwawłasna]'
+  a: crouch (2-8-1-5-7)
+- q: '[wcytatach-nazwiskobohatera]'
+  a: foster (2-8-1-8-9)
+- q: '[wcytatach-nazwiskobohatera]'
+  a: rand (2-8-1-8-9)
+- q: '[wcytatach-nazwiskobohaterów]'
+  a: rands (2-8-1-8-10)
+- q: '[wcytatach-odniesieniedogrupykabaretowej]'
+  a: stooges (2-8-1-11-2-5-12)
 - q: acollectionofthingsthatappeartohavelittleconnectionwitheachother
   a: ragbag (1-10-2-6-4-6-2-4-6-10-4-4-5)
 - q: 'ahelperorsupporterofapowerfulperson,forexampleapoliticalleaderorcriminal'
   a: henchmen (1-6-2-9-2-1-8-7-3-7-1-9-6-2-8)
+- q: abbess
+  a: ksieni
+- q: abbess
+  a: matka przełożona
+- q: abbot
+  a: opat
+- q: abject
+  a: żałosny
+- q: abject
+  a: nędzny
+- q: abject
+  a: opłakany
+- q: abject
+  a: podły
+- q: abject
+  a: służalczy
 - q: abominable
   a: wstrętny
 - q: abominable
@@ -12,6 +97,20 @@
   a: ramię w ramię
 - q: abreast
   a: na bieżąco
+- q: accordion
+  a: akordeon
+- q: accordion
+  a: harmonia
+- q: accordion
+  a: harmonijkowy
+- q: accordion
+  a: plisowany
+- q: accourse
+  a: 'oczywiście [skrót., pot.]'
+- q: acetate
+  a: octan
+- q: acne
+  a: trądzik
 - q: acre
   a: zagon
 - q: acre
@@ -50,12 +149,26 @@
   a: robić przerwę
 - q: adjourned
   a: ulec odroczeniu
+- q: administrator
+  a: provost
+- q: adolescent
+  a: nastoletni
+- q: adolescent
+  a: młodociany
+- q: adolescent
+  a: młodzieńczy
+- q: adolescent
+  a: dojrzewający
 - q: adorn
   a: zdobić
 - q: adornment
   a: ozdoba
 - q: adornment
   a: zdobienie
+- q: aerial
+  a: antena
+- q: aerial
+  a: powietrzny
 - q: affidavit
   a: pisemne oświadczenie złożone pod przysięgą
 - q: afflict
@@ -94,8 +207,16 @@
   a: zamożny
 - q: affluent
   a: majętny
+- q: aficionado
+  a: miłośnik
+- q: aficionado
+  a: amator
 - q: afront
   a: snub
+- q: agreeableness
+  a: ugodowość
+- q: agreeableness
+  a: przychylne nastawienie
 - q: aide
   a: doradca
 - q: aide
@@ -122,18 +243,32 @@
   a: nawy
 - q: aisles
   a: korytarze
+- q: akademik
+  a: dorm
+- q: akademiki
+  a: dorms
+- q: akordeon
+  a: accordion
 - q: akr
   a: acre
 - q: aktoskarżenia
   a: indictment (3-10)
 - q: aktoskarżenia
   a: indictments (3-10)
+- q: akuszerka
+  a: midwife
 - q: akwaforta
   a: etching
 - q: akwalung
   a: scuba
+- q: ale
+  a: ale (piwo)
+- q: ale(piwo)
+  a: ale (3-6)
 - q: alejka
   a: aisle
+- q: alfalfa
+  a: lucerna
 - q: alga
   a: algae
 - q: algae
@@ -158,20 +293,60 @@
   a: rzekomy
 - q: alleged
   a: przypuszczalny
+- q: alpenstock
+  a: alpensztok
+- q: alpenstock
+  a: czekan
+- q: alpenstock
+  a: laska
+- q: alpensztok
+  a: alpenstock
+- q: amator
+  a: aficionado
 - q: ambona
   a: pulpit
+- q: amiable
+  a: życzliwy
+- q: amiable
+  a: przyjazny
+- q: amiable
+  a: uprzejmy
 - q: amid
   a: pomiędzy
+- q: ampułka
+  a: phial
+- q: anguish
+  a: cierpienie
+- q: anguish
+  a: ból
+- q: anguish
+  a: udręka
 - q: animalism
   a: zwierzęcość
 - q: anisette
   a: anyżówka
+- q: anorak
+  a: anorak
+- q: anorak
+  a: anorak
+- q: anorak
+  a: parka
+- q: anorak
+  a: skafander
+- q: antałek
+  a: keg
+- q: antena
+  a: aerial
 - q: antivenin
   a: antytoksyna
 - q: antivenin
   a: surowica
 - q: anturaż
   a: entourage
+- q: antykoncepcja
+  a: contraception
+- q: antykoncepcyjny
+  a: contraceptive
 - q: antytoksyna
   a: antivenin
 - q: anyżówka
@@ -180,14 +355,62 @@
   a: brace (6-10)
 - q: aparattlenowy
   a: scuba (6-7)
+- q: apex
+  a: wierzchołek
+- q: apex
+  a: najwyższa pozycja
+- q: apex
+  a: '[w cytatach - nazwa własna]'
+- q: apt
+  a: skłonny do czegoś
+- q: apt
+  a: trafny
+- q: arcade
+  a: arkada
+- q: arcade
+  a: podcienia
+- q: arcade
+  a: pasaż
 - q: areszt
   a: custody
+- q: 'aresztowany[arch.]'
+  a: pinched (11-7)
+- q: arkada
+  a: arcade
+- q: arogancja
+  a: haughtiness
+- q: arousal
+  a: pobudzenie
+- q: arousal
+  a: podniecenie
+- q: arse
+  a: dupa
+- q: arse
+  a: pupa
+- q: arse
+  a: tyłek
+- q: arsehole
+  a: dupek
+- q: asfalt
+  a: blacktop
+- q: ashen
+  a: popielaty
+- q: ashen
+  a: blady
+- q: ashen
+  a: szary
 - q: asphyxiation
   a: uduszenie
 - q: astern
   a: z tyłu
 - q: astern
   a: na rufie
+- q: astounding
+  a: zdumiewający
+- q: asystencikomików
+  a: stooges (9-7)
+- q: ataki
+  a: raids
 - q: atrocious
   a: okropny
 - q: atrocious
@@ -198,20 +421,72 @@
   a: fatalny
 - q: atrocious
   a: potworny
+- q: attain
+  a: uzyskać
+- q: attain
+  a: zdobyć
+- q: attain
+  a: osiągnąć
+- q: attendant
+  a: pracownik
+- q: attendant
+  a: steward
+- q: attendant
+  a: parkingowy
+- q: audacity
+  a: zuchwałość
+- q: audacity
+  a: śmiałość
 - q: autentyczny
   a: legitimate
+- q: automaticity
+  a: automatyzm
+- q: automatyzm
+  a: automaticity
+- q: autostrada
+  a: turnpike
 - q: awantura
   a: rumpus
+- q: ayuh
+  a: '(o) tak [skrót., pot.]'
 - q: azure
   a: błękit
 - q: azure
   a: lazur
+- q: ba!
+  a: nay
 - q: babajaga
   a: witch (4-4)
+- q: babcia
+  a: granny
 - q: babyjagi
   a: witches (4-4)
+- q: babynapper
+  a: 'porywacz [pot.]'
+- q: bacillus
+  a: bakcyl
+- q: bacillus
+  a: prątek
+- q: bagna
+  a: marshes
 - q: bagno
   a: swamp
+- q: bagno
+  a: bog
+- q: bagno
+  a: marsh
+- q: baize
+  a: sukno
+- q: bajada
+  a: bajada
+- q: bajada
+  a: bajada
+- q: bajada
+  a: równina
+- q: bakcyl
+  a: bacillus
+- q: bakłażan
+  a: eggplant
 - q: balas
   a: turd
 - q: balasek
@@ -222,12 +497,20 @@
   a: banialuki
 - q: balia
   a: tub
+- q: ballpoint
+  a: długopis
+- q: ballpoint
+  a: piórko kulkowe
 - q: bandyta
   a: thug
 - q: bandzior
   a: hoodlum
 - q: banialuki
   a: balderdash
+- q: banici
+  a: exiles
+- q: banita
+  a: exile
 - q: bar
   a: zakratować
 - q: bar
@@ -236,8 +519,20 @@
   a: zaryglować
 - q: bar
   a: zabraniać
+- q: barak
+  a: bunkhouse
 - q: barbedwire
   a: drut kolczasty (6-4)
+- q: bargain
+  a: umowa
+- q: bargain
+  a: układ
+- q: bargain
+  a: okazja
+- q: barge
+  a: barka
+- q: barka
+  a: barge
 - q: barred
   a: zakratować
 - q: barred
@@ -246,12 +541,20 @@
   a: zaryglować
 - q: barred
   a: zabraniać
+- q: barrera
+  a: 'ogrodzenie areny do walki byków [hiszp.]'
+- q: barłóg
+  a: flop
+- q: basensanitarny
+  a: bedpan (5-9)
 - q: bask
   a: grzać się
 - q: bask
   a: wygrzewać się
 - q: bat
   a: lash
+- q: batter
+  a: 'pałkarz [w baseballu]'
 - q: batty
   a: pokręcony
 - q: batty
@@ -266,28 +569,58 @@
   a: ujadający
 - q: bazgrolić
   a: scrawled
-- q: bałaganiara
-  a: slovenly woman
+- q: bałagan
+  a: clutter
 - q: bałaganiara
   a: sloven
+- q: bałaganiara
+  a: slovenly woman
 - q: bałwan
   a: clod
 - q: beczeć
   a: bleat
+- q: beczka
+  a: keg
 - q: beczączy
   a: bleating
+- q: bedpan
+  a: basen sanitarny
+- q: begrudge
+  a: żałować
+- q: begrudge
+  a: zazdrościć
+- q: behold
+  a: ujrzeć
+- q: behold
+  a: spostrzec
+- q: belated
+  a: spóźniony
+- q: berries
+  a: jagody
 - q: bestialski
   a: vicious
+- q: betwixt
+  a: 'pomiędzy [lit.]'
 - q: bezpodbrudka
   a: chinless (3-9)
 - q: bezczelność
   a: insolence
+- q: bezczelny
+  a: impudent
+- q: 'bezmyślnieczymśruszać,bawićsię'
+  a: fiddle (10-5-7-5-3)
 - q: beznadzieja
   a: crap
 - q: beznadziejnysmutek
   a: desolation (12-6)
 - q: bezpodbródkowy
   a: chinless
+- q: bezprecedensowy
+  a: unprecedented
+- q: bezskuteczny
+  a: unavailing
+- q: bezustanny
+  a: incessant
 - q: bezwzględny
   a: vicious
 - q: bełkot
@@ -300,6 +633,10 @@
   a: librarian
 - q: bibliotekarz
   a: librarian
+- q: biciedzwonów
+  a: clang (5-7)
+- q: biciedzwonów
+  a: clanging (5-7)
 - q: biczować
   a: lash
 - q: biddy
@@ -310,8 +647,52 @@
   a: grymaśna starsza kobieta
 - q: biedak
   a: wretch
+- q: biegunka
+  a: diarrhea
+- q: bijący(odzwonie)
+  a: tolling (6-2-8)
+- q: bindle
+  a: tobołek
+- q: bindle
+  a: włóczęga
+- q: binge
+  a: szał
+- q: binge
+  a: obżarstwo
+- q: binge
+  a: popijawa
+- q: binge
+  a: kompulsywne zachowanie
 - q: biust
   a: bust
+- q: biustonosz
+  a: brassiere
+- q: blacha
+  a: sheeting
+- q: blackberry
+  a: jeżyna
+- q: blackened
+  a: sczerniały
+- q: blackened
+  a: osmolony
+- q: blacktop
+  a: asfalt
+- q: blacktop
+  a: droga asfaltowa
+- q: blady
+  a: ashen
+- q: blady
+  a: sallow
+- q: blask
+  a: blaze
+- q: blaze
+  a: pożar
+- q: blaze
+  a: blask
+- q: blaze
+  a: wybuch
+- q: blaze
+  a: '[w cytatach - imię bohatera]'
 - q: bleat
   a: chrapać
 - q: bleat
@@ -324,8 +705,20 @@
   a: aide (6-15)
 - q: bliskiwspółpracownik
   a: aide (6-14)
+- q: bliskość
+  a: communion
+- q: blizzard
+  a: śnieżyca
+- q: blizzard
+  a: zamieć
 - q: bloczekdowyciągania
   a: pulley (7-2-10)
+- q: bloke
+  a: facet
+- q: bloke
+  a: gość
+- q: bloke
+  a: koleś
 - q: blotch
   a: plama
 - q: blotch
@@ -334,6 +727,16 @@
   a: kleks
 - q: blotch
   a: plamić
+- q: blowtorch
+  a: lampa lutownicza
+- q: blowtorch
+  a: palnik
+- q: blueberry
+  a: borówka
+- q: blueberry
+  a: jagoda
+- q: bluid
+  a: 'krew [scot.]'
 - q: blunder
   a: popełniać nietakt
 - q: blunder
@@ -344,6 +747,8 @@
   a: niedołęga
 - q: bluszczowaty
   a: clinging
+- q: bluza
+  a: sweatshirt
 - q: boar
   a: dzik
 - q: bob
@@ -356,6 +761,16 @@
   a: skinąć
 - q: bobek
   a: pellet
+- q: bodziec
+  a: stimulus
+- q: bodźce
+  a: stimuli
+- q: bog
+  a: bagno
+- q: bog
+  a: mokradło
+- q: bog
+  a: trzęsawisko
 - q: bogaty
   a: affluent
 - q: bogus
@@ -364,8 +779,14 @@
   a: nieprawdziwy
 - q: bogus
   a: zmyślony
+- q: boils
+  a: czyraki
 - q: boks
   a: cubicle
+- q: bollocks
+  a: bzdury
+- q: bollocks
+  a: pierdoły
 - q: bolster
   a: wałek
 - q: bolster
@@ -390,8 +811,16 @@
   a: stragan
 - q: booth
   a: kram
+- q: borówka
+  a: blueberry
+- q: bosom
+  a: pierś
+- q: bosom
+  a: 'łono [lit.]'
 - q: bough
   a: konar
+- q: bounce
+  a: odbijać się
 - q: bouncer
   a: wykidajło
 - q: bouncer
@@ -408,16 +837,32 @@
   a: aparat korekcyjny
 - q: brace
   a: napiąć
+- q: braid
+  a: warkocz
+- q: brambles
+  a: jeżyny
 - q: bramkarz
   a: bouncer
 - q: bransoletki
   a: cuffs
+- q: brassiere
+  a: biustonosz
 - q: breastplate
   a: pancerz
 - q: breastplate
   a: napierśnik
 - q: brednie
   a: bunk
+- q: brezent
+  a: tarp
+- q: bride
+  a: panna młoda
+- q: bridesmaid
+  a: druhna
+- q: brittle
+  a: kruchy
+- q: brittle
+  a: łamliwy
 - q: brolly
   a: parasol
 - q: brood
@@ -466,14 +911,22 @@
   a: sordid
 - q: brudny
   a: grimy
+- q: brudny
+  a: messy
 - q: brutalny
   a: vicious
+- q: bryczka
+  a: chaise
 - q: brykać
   a: buck
 - q: bryknięcie
   a: buck
 - q: bryła
   a: clod
+- q: brzydota
+  a: deformity
+- q: brzęczyk
+  a: buzzer
 - q: buck
   a: kozioł
 - q: buck
@@ -490,6 +943,10 @@
   a: dolar
 - q: buck
   a: dolec
+- q: buckshot
+  a: śrut (gruby)
+- q: buda
+  a: shacks
 - q: budge
   a: poruszyć
 - q: budge
@@ -516,6 +973,22 @@
   a: repellent (7-6)
 - q: bukiet
   a: bunch
+- q: bulk
+  a: większość
+- q: bulk
+  a: wielki rozmiar
+- q: bulk
+  a: cielsko
+- q: bulk
+  a: hurtowy
+- q: bulkhead
+  a: przegroda
+- q: bulkhead
+  a: przepierzenie
+- q: bulkhead
+  a: gródź
+- q: bulwarnadmorski
+  a: seafront (6-9)
 - q: bumble
   a: mamrotać
 - q: bumblebee
@@ -532,6 +1005,12 @@
   a: zmarszczony
 - q: bunched
   a: pogięty
+- q: bundling
+  a: łączenie
+- q: bundling
+  a: wiązanie
+- q: bundling
+  a: grupowanie
 - q: bunk
   a: koja
 - q: bunk
@@ -546,12 +1025,28 @@
   a: stek bzdur
 - q: bunkoff
   a: wagarować (4-3)
+- q: bunker
+  a: bunkier
+- q: bunker
+  a: schron
+- q: bunkhouse
+  a: barak
+- q: bunkier
+  a: bunker
+- q: bunny
+  a: króliczek
 - q: bunting
   a: chorągiewki
 - q: bunting
   a: trznadel
 - q: bunting
   a: tkanina flagowa
+- q: burg
+  a: 'miasteczko [pot.]'
+- q: burner
+  a: palnik
+- q: burpees
+  a: padnij-powstań
 - q: burta
   a: gunwale
 - q: bust
@@ -564,6 +1059,16 @@
   a: popsuć
 - q: bust
   a: zepsuć
+- q: busted
+  a: zepsuty
+- q: busted
+  a: rozbity
+- q: busters
+  a: pogromcy
+- q: buteleczka
+  a: phial
+- q: butonierka
+  a: buttonhole
 - q: butt
   a: uderzać głową
 - q: butt
@@ -584,6 +1089,14 @@
   a: zad
 - q: buttocks
   a: zadek
+- q: buttonhole
+  a: butonierka
+- q: buttonhole
+  a: dziurka od guzika
+- q: buzzer
+  a: dzwonek
+- q: buzzer
+  a: brzęczyk
 - q: bycieprzybitym
   a: dejection (5-9)
 - q: bycieprzygnębionym
@@ -592,14 +1105,26 @@
   a: sucking (3-2-4)
 - q: bzdury
   a: bunk
+- q: bzdury
+  a: bollocks
+- q: bzykanko
+  a: shag
+- q: bzykać
+  a: shag
 - q: bójka
   a: scrap
+- q: ból
+  a: anguish
 - q: bóle
   a: throes
 - q: bęcwał
   a: clod
 - q: błahy
   a: paltry
+- q: błoto
+  a: muck
+- q: błysk
+  a: flare
 - q: błądwsztuce
   a: malpractice (4-1-6)
 - q: błękit
@@ -616,14 +1141,50 @@
   a: rytm
 - q: cadences
   a: kadencja
+- q: cairn
+  a: kopiec
+- q: caldera
+  a: kaldera
+- q: camellia
+  a: kamelia
+- q: candlestick
+  a: świecznik
+- q: candlestick
+  a: lichtarz
+- q: cane
+  a: trzcina
+- q: canned
+  a: puszkowany
+- q: canned
+  a: 'zwolniony z pracy [pot.]'
+- q: canned
+  a: 'zapuszkowany/wsadzony do więzienia [pot.]'
 - q: cannery
   a: fabryka konserw
+- q: cannery
+  a: fabryka konserw
+- q: canst
+  a: 'możesz [arch.]'
+- q: cantilevered
+  a: wsparty
+- q: cantilevered
+  a: wspornikowy
+- q: carb
+  a: 'węglowodan [pot.]'
 - q: carcass
   a: szkielet
 - q: carcass
   a: padlina
 - q: cardiac
   a: sercowy
+- q: cardinal
+  a: kardynalny
+- q: cardinal
+  a: podstawowy
+- q: cardinal
+  a: główny
+- q: carer
+  a: opiekun osoby starszej/dziecka
 - q: caress
   a: pieścić
 - q: caress
@@ -634,14 +1195,28 @@
   a: popieścić
 - q: caresses
   a: pieszczoty
+- q: carnival
+  a: karnawał
+- q: carnival
+  a: parada
 - q: carport
   a: wiata
 - q: carport
   a: zadaszenie
+- q: carrier
+  a: torba
+- q: carrier
+  a: reklamówka
+- q: carrier
+  a: przewoźnik
+- q: carrier
+  a: nosiciel
 - q: casket
   a: szkatuła
 - q: casket
   a: trumna
+- q: caste
+  a: kasta
 - q: casual
   a: luźny
 - q: casual
@@ -660,10 +1235,20 @@
   a: zwykły
 - q: casual
   a: codzienny
+- q: cavern
+  a: jaskinia
+- q: cavern
+  a: jama
 - q: całkowity
   a: overall
+- q: całowaćsię
+  a: snog (7-3)
 - q: całościowy
   a: overall
+- q: cecha(np.charakteru)
+  a: trait (5-4-11)
+- q: cechy(np.charakteru)
+  a: traits (5-4-11)
 - q: cembrować
   a: timber
 - q: centenarian
@@ -672,12 +1257,24 @@
   a: stuletni
 - q: centrum
   a: hub
+- q: cep
+  a: flail
+- q: ceramics
+  a: ceramika
+- q: ceramika
+  a: ceramics
 - q: certitude
   a: pewność
 - q: chaff
   a: otręby
 - q: chaff
   a: plewa
+- q: chaise
+  a: bryczka
+- q: chaise
+  a: powóz
+- q: chaise
+  a: dwukółka
 - q: chalana
   a: rodzaj łodzi
 - q: chalana
@@ -702,10 +1299,22 @@
   a: osobnicy
 - q: charakter
   a: grit
+- q: charity
+  a: organizacja charytatywna
+- q: charity
+  a: jałmużna
+- q: charity
+  a: życzliwość
 - q: charkot
   a: sputter
+- q: charred
+  a: zwęglony
 - q: chart
   a: greyhound
+- q: checkerberries
+  a: golterie (jagody)
+- q: checkerberry
+  a: golteria (jagoda)
 - q: cherlawy
   a: frail
 - q: chestnut
@@ -714,30 +1323,44 @@
   a: kasztanowiec
 - q: chestnut
   a: kasztanowy
+- q: chicks
+  a: pisklęta
+- q: chicks
+  a: laski
+- q: chicks
+  a: panienki
 - q: chieftain
   a: herszt
 - q: chinless
   a: bez podbrudka
 - q: chinless
   a: bezpodbródkowy
+- q: chipmunks
+  a: pręgowce
+- q: chipmunks
+  a: wiewiórki amerykańskie
 - q: chlanie
   a: guzzling
 - q: chlipać
   a: whimper
 - q: chlipał
   a: whimpered
+- q: chmurnie
+  a: sulkily
 - q: chmurzyćsię
   a: gloom (8-3)
 - q: chodaki
   a: clogs
+- q: cholernarobota
+  a: pisser (8-6)
 - q: chopper
   a: topór
 - q: chopper
   a: siekiera
 - q: choroba
-  a: malady
-- q: choroba
   a: disease
+- q: choroba
+  a: malady
 - q: chory
   a: afflicted
 - q: chorągiewki
@@ -752,8 +1375,14 @@
   a: hoarse
 - q: chropawy
   a: coarse
+- q: chudszy
+  a: thinner
+- q: chujnia
+  a: fuckwittage
 - q: chuligan
   a: hoodlum
+- q: chust(k)a
+  a: kerchief
 - q: chusta
   a: shawl
 - q: chwiejny
@@ -768,16 +1397,48 @@
   a: lashing
 - q: ciasny
   a: cramped
+- q: ciasta
+  a: pies
+- q: cielsko
+  a: bulk
 - q: cielęcina
   a: shank
 - q: cielęcina
   a: veal
 - q: cienki
   a: flimsy
+- q: cierpienie
+  a: anguish
 - q: ciołek
   a: clod
+- q: circumlocution
+  a: mowa bez treści
+- q: circumlocution
+  a: przelewanie z pustego w próżne
+- q: circumlocution
+  a: peryfraza
+- q: cisza
+  a: lull
+- q: civic
+  a: miejski
+- q: civic
+  a: obywatelski
+- q: civic
+  a: '[w cytatach - nazwa samochodu]'
+- q: civility
+  a: uprzejmość
 - q: ciągnąć
   a: drag
+- q: ciężary
+  a: weights
+- q: ciężarówka
+  a: lorry
+- q: ciężkapraca
+  a: graft (6-5)
+- q: ciężki
+  a: severe
+- q: ciężkieprace
+  a: grafts (7-5)
 - q: cladding
   a: pokrycie
 - q: cladding
@@ -800,6 +1461,18 @@
   a: wydzierający się
 - q: clamoring
   a: hałaśliwy
+- q: clang
+  a: dzwonienie
+- q: clang
+  a: bicie dzwonów
+- q: clang
+  a: szczęk
+- q: clanging
+  a: dzwonienie
+- q: clanging
+  a: bicie dzwonów
+- q: clanging
+  a: szczęk
 - q: classy
   a: z klasą
 - q: clatter
@@ -812,6 +1485,12 @@
   a: przedziałek
 - q: cleft
   a: rozpadlina
+- q: clenches
+  a: kleszcze
+- q: clenches
+  a: zaciski
+- q: clenches
+  a: uściski
 - q: clew
   a: 'martin eden: clue'
 - q: cling
@@ -844,6 +1523,16 @@
   a: pnący
 - q: clinging
   a: bluszczowaty
+- q: clip
+  a: magazynek
+- q: clip
+  a: zacisk
+- q: clip
+  a: klamra
+- q: clip
+  a: migawka
+- q: clip
+  a: wycinek
 - q: clitoris
   a: łechtaczka
 - q: clod
@@ -870,6 +1559,18 @@
   a: chodaki
 - q: clover
   a: koniczyna
+- q: clump
+  a: kępa
+- q: clump
+  a: grudka
+- q: clumps
+  a: kępy
+- q: clumps
+  a: grudy
+- q: clutter
+  a: rupiecie
+- q: clutter
+  a: bałagan
 - q: cluttered
   a: zaśmiecony
 - q: cluttered
@@ -892,16 +1593,42 @@
   a: grubiański
 - q: coarse
   a: zgrzebny
+- q: cocked
+  a: podniesiony
+- q: cocked
+  a: odciągnięty
 - q: cockerel
   a: kogucik
+- q: cod
+  a: dorsz
 - q: codzienny
   a: casual
 - q: coffin
   a: trumna
+- q: cokół
+  a: pedestal
+- q: collegian
+  a: student/absolwent koledżu
+- q: collegians
+  a: studenci/absolwenci koledżu
+- q: collies
+  a: owczarki szkockie
+- q: comforter
+  a: szal
+- q: comforter
+  a: kołdra
+- q: comforter
+  a: pocieszyciel
+- q: comforter
+  a: smoczek
 - q: commandment
   a: przykazanie
 - q: commandments
   a: przykazania
+- q: commissary
+  a: kantyna
+- q: commissary
+  a: stołówka
 - q: commission
   a: prowizja
 - q: commission
@@ -914,6 +1641,20 @@
   a: dźwierny
 - q: commissionaire
   a: komisarz
+- q: committal
+  a: uwięzienie
+- q: committal
+  a: skierowanie na obowiązkowe leczenie psychiatryczne
+- q: communion
+  a: komunia
+- q: communion
+  a: wspólnota
+- q: communion
+  a: bliskość
+- q: compassion
+  a: współczucie
+- q: compassion
+  a: litość
 - q: compelled
   a: zmusić
 - q: compelled
@@ -922,6 +1663,10 @@
   a: zapędzić
 - q: compelled
   a: zmuszać
+- q: complicity
+  a: współudział
+- q: complicity
+  a: współwina
 - q: composite
   a: połączenie
 - q: composite
@@ -942,6 +1687,10 @@
   a: złożony
 - q: compound
   a: skomplikować
+- q: con
+  a: szwindel
+- q: con
+  a: przekręt
 - q: conceited
   a: pyszałkowaty
 - q: conceivable
@@ -954,10 +1703,22 @@
   a: muszla
 - q: conchhouse
   a: dom (5-5)
+- q: concierge
+  a: konsjerż
+- q: concierge
+  a: dozorca
+- q: conditioned
+  a: uwarunkowany
 - q: condo
   a: mieszkanie własnościowe
 - q: condos
   a: mieszkania własnościowe
+- q: confit
+  a: confit
+- q: confit
+  a: confit
+- q: confit
+  a: konfitowanie
 - q: confound
   a: obalić
 - q: confound
@@ -996,6 +1757,8 @@
   a: mieszać szyki
 - q: confounded
   a: zakłopotany
+- q: conjugal
+  a: małżeński
 - q: connexion
   a: kontakt
 - q: connexion
@@ -1012,34 +1775,104 @@
   a: sprzężenie
 - q: connexion
   a: koneksja
+- q: conquered
+  a: podbity
+- q: conquered
+  a: pokonany
+- q: cons
+  a: szwindle
+- q: cons
+  a: przekręty
+- q: conscientiousness
+  a: sumienność
+- q: contagion
+  a: zarażenie
+- q: contagion
+  a: zaraza
+- q: contempt
+  a: pogarda
+- q: contraception
+  a: antykoncepcja
+- q: contraceptive
+  a: antykoncepcyjny
 - q: contrition
   a: skrucha
 - q: contrition
   a: żal za grzechy
+- q: conversely
+  a: odwrotnie
+- q: convey
+  a: przekazywać
+- q: convey
+  a: komunikować
+- q: convey
+  a: wyrażać
 - q: conviction
   a: przekonanie
 - q: conviction
   a: przeświadczenie
 - q: conviction
   a: skazanie
+- q: cookware
+  a: przybory kuchenne
+- q: coon
+  a: szop pracz
+- q: coon
+  a: czarnuch
 - q: coop
   a: kojec
 - q: coop
   a: zamknąć w kojcu
+- q: cope
+  a: radzić sobie
+- q: cope
+  a: znosić
 - q: corsets
   a: gorset
+- q: cot
+  a: prycza
+- q: cot
+  a: łóżko polowe
+- q: cottagers
+  a: mieszkaniec wsi
+- q: cottagers
+  a: wieśniak
+- q: cottagers
+  a: letnik
 - q: couch
   a: kanapa
 - q: couch
   a: sofa
 - q: couch
   a: leżanka
+- q: councillor
+  a: radny
+- q: countdown
+  a: odliczanie
+- q: countdown
+  a: countdown (teleturniej)
+- q: countdown(teleturniej)
+  a: countdown (9-13)
+- q: coupling
+  a: sprzęgający
+- q: coupling
+  a: łączący
+- q: courtesy
+  a: uprzejmość
+- q: courtesy
+  a: kurtuazja
 - q: coverlet
   a: narzuta
 - q: coverlet
   a: kapa
 - q: cowshed
   a: obora
+- q: cracking
+  a: łupanie
+- q: cracking
+  a: trzaskanie
+- q: cracking
+  a: łamanie
 - q: cramp
   a: skórcz
 - q: cramp
@@ -1072,6 +1905,24 @@
   a: srać
 - q: crap
   a: nasrać
+- q: crates
+  a: skrzynki
+- q: crave
+  a: pragnąć
+- q: crave
+  a: łaknąć
+- q: craving
+  a: pragnienie
+- q: craving
+  a: łaknienie
+- q: cravings
+  a: pragnienia
+- q: cravings
+  a: łaknienia
+- q: creamer
+  a: dzbanek na śmietankę
+- q: creamer
+  a: zabielacz do kawy
 - q: credenza
   a: komoda
 - q: crepe
@@ -1082,22 +1933,62 @@
   a: opaska żałobna
 - q: crepe
   a: naleśnik
+- q: crescent
+  a: półksiężyc
+- q: crescent
+  a: półkole
 - q: crib
   a: łóżeczko
 - q: crib
   a: kołyska
+- q: crimson
+  a: karmazynowy
+- q: crops
+  a: plony
+- q: crops
+  a: zbiory
+- q: crops
+  a: uprawy
+- q: crouch
+  a: przysiad
+- q: crouch
+  a: przykucnąć
+- q: crouch
+  a: przyczaić się
+- q: crouch
+  a: '[w cytatach - nazwa własna]'
 - q: crowbar
   a: łom
 - q: crumpled
   a: pognieciony
 - q: crumpled
   a: zmięty
+- q: crush
+  a: zauroczenie
+- q: crust
+  a: spód z kruchego ciasta
+- q: crust
+  a: skórka
+- q: crust
+  a: skorupa
 - q: cubicle
   a: kabina
 - q: cubicle
   a: część sali oddzielona parawanem
 - q: cubicle
   a: boks
+- q: cucujus
+  a: zgniotek (chrząszcz)
+- q: cudowny
+  a: gorgeous
+- q: cue
+  a: sygnał
+- q: cue
+  a: znak
+- q: cues
+  a: symbole
+- q: cues
+  a: znaki
 - q: cufflinks
   a: spinki do mankietów
 - q: cuffs
@@ -1116,6 +2007,8 @@
   a: wytrysk
 - q: cum
   a: mieć wytrysk
+- q: cunt
+  a: pizda
 - q: custody
   a: opieka
 - q: custody
@@ -1126,32 +2019,112 @@
   a: kuratela
 - q: cwany
   a: slick
+- q: cycek
+  a: tit
+- q: cygan
+  a: gyp
+- q: cymbałki
+  a: xylophone
+- q: cypress
+  a: cyprys
+- q: cyprys
+  a: cypress
+- q: cyrk
+  a: sideshow
 - q: cysterna
   a: tanker
 - q: czarnaopaska
   a: crepe (6-6)
+- q: czarnuch
+  a: coon
 - q: czarownica
   a: witch
 - q: czarownice
   a: witches
+- q: 'czasprzeszłyod"staraćsię,usiłować"'
+  a: endeavoured (4-8-2-7-4-9)
+- q: czekan
+  a: alpenstock
+- q: czerwie
+  a: maggots
+- q: cześć
+  a: remembrance
+- q: czuciofilm
+  a: feely
+- q: czuciowy
+  a: sensory
 - q: czupurny
   a: defiant
+- q: czynićpodatnym
+  a: predispose (6-8)
+- q: czyraki
+  a: boils
 - q: czysty
   a: sheer
+- q: 'często[lit./arch.]'
+  a: oft (6-12)
+- q: 'częśćkuchenna(nastatku,wsamolocie)'
+  a: galley (5-8-3-7-1-10)
 - q: częśćsalioddzielonaparawanem
   a: cubicle (5-4-10-9)
 - q: członekzarządu
   a: trustee (7-7)
+- q: daft
+  a: durny
+- q: daisy
+  a: stokrotka
+- q: daisy
+  a: '[w cytatach - imię bohaterki]'
+- q: dama
+  a: dame
+- q: dame
+  a: dama
+- q: dame
+  a: kobiet(k)a
+- q: dame
+  a: matrona
+- q: dames
+  a: damy
+- q: dames
+  a: kobiety/kobietki
+- q: dames
+  a: matrony
 - q: dammit
   a: do licha
+- q: damy
+  a: dames
+- q: darczyńca
+  a: donor
+- q: darczyńcy
+  a: donors
+- q: daremny
+  a: unavailing
 - q: daring
   a: odwaga
 - q: daring
   a: śmiałość
+- q: daszekczapki
+  a: visor (6-6)
+- q: daunted
+  a: zniechęcony
+- q: daunted
+  a: zastraszony
 - q: dawaćklapsa
   a: slap (5-6)
+- q: dawca
+  a: donor
+- q: dawcy
+  a: donors
 - q: daćklapsa
   a: slap (3-6)
+- q: debil
+  a: moron
+- q: decanting
+  a: przelewanie
+- q: decanting
+  a: zlewanie
+- q: decanting
+  a: odcedzanie
 - q: deckhand
   a: marynarz pokładowy
 - q: decorum
@@ -1174,6 +2147,14 @@
   a: dekretować
 - q: defekować
   a: crap
+- q: deferral
+  a: odroczenie
+- q: deferral
+  a: zawieszenie
+- q: deferrals
+  a: odroczenia
+- q: deferrals
+  a: zawieszenia
 - q: defiant
   a: wyzywająca
 - q: defiant
@@ -1182,6 +2163,14 @@
   a: czupurny
 - q: defiant
   a: prowokujący
+- q: deformacja
+  a: deformity
+- q: deformity
+  a: deformacja
+- q: deformity
+  a: zniekształcenie
+- q: deformity
+  a: brzydota
 - q: dejected
   a: przybity
 - q: dejected
@@ -1218,6 +2207,12 @@
   a: teksas
 - q: denim
   a: dżinsowy
+- q: dental
+  a: dentystyczny
+- q: dental
+  a: stomatologiczny
+- q: dentystyczny
+  a: dental
 - q: deposition
   a: obalenie
 - q: deposition
@@ -1226,6 +2221,18 @@
   a: odwołanie z urzędu
 - q: deposition
   a: zeznanie pod przysięgą
+- q: depot
+  a: magazyn
+- q: depot
+  a: zajezdnia
+- q: depot
+  a: stacja
+- q: derail
+  a: wykolejać
+- q: derail
+  a: zakłócać
+- q: derail
+  a: sprowadzać na złą drogę
 - q: desolation
   a: dezolacja
 - q: desolation
@@ -1246,12 +2253,22 @@
   a: nieutulony żal
 - q: desolation
   a: beznadziejny smutek
+- q: despised
+  a: pogardzany
 - q: detronizacja
   a: deposition
 - q: dewastacja
   a: desolation
 - q: dezolacja
   a: desolation
+- q: diarrhea
+  a: biegunka
+- q: diligent
+  a: pilny
+- q: diligent
+  a: staranny
+- q: diligent
+  a: sumienny
 - q: diminiutive
   a: zdrobnienie
 - q: din
@@ -1270,10 +2287,26 @@
   a: wyświechtany
 - q: dingy
   a: spłowiały
+- q: discourse
+  a: dyskurs
+- q: discourse
+  a: rozmowa
 - q: disease
   a: zaraza
 - q: disease
   a: choroba
+- q: dishrag
+  a: ścierka do mycia naczyń
+- q: dismayed
+  a: przerażony
+- q: dismayed
+  a: zaniepokojony
+- q: dismayed
+  a: skonsternowany
+- q: disposition
+  a: usposobienie
+- q: disposition
+  a: skłonność
 - q: dissipation
   a: marnotrastwo
 - q: divulge
@@ -1294,10 +2327,20 @@
   a: gee (2-5)
 - q: dobremaniery
   a: decorum (5-7)
+- q: dodatkowaatrakcja
+  a: sideshow (9-8)
+- q: doe
+  a: łania
+- q: dojrzewający
+  a: adolescent
 - q: dokuczliwy
   a: nagging
 - q: dolar
   a: buck
+- q: dole
+  a: 'zasiłek dla bezrobotnych [pot.]'
+- q: dole
+  a: gromada
 - q: dolec
   a: buck
 - q: dolegać
@@ -1318,8 +2361,28 @@
   a: alleged
 - q: domniemany
   a: alleged
+- q: donator
+  a: donor
+- q: donatorzy
+  a: donors
 - q: doniosły
   a: lofty
+- q: donor
+  a: dawca
+- q: donor
+  a: donator
+- q: donor
+  a: darczyńca
+- q: donors
+  a: dawcy
+- q: donors
+  a: donatorzy
+- q: donors
+  a: darczyńcy
+- q: donut
+  a: doughnut
+- q: doorbel
+  a: dzwonek do drzwi
 - q: dopadać
   a: afflict
 - q: dopaść
@@ -1328,8 +2391,32 @@
   a: tributaries
 - q: doradca
   a: aide
+- q: dork
+  a: kretyn
+- q: dorm
+  a: akademik
+- q: dorm
+  a: pokój w akademiku
+- q: dorm
+  a: internat
+- q: dorm
+  a: sypialnia
+- q: dorms
+  a: akademiki
+- q: dorms
+  a: pokoje w akademiku
+- q: dorms
+  a: internaty
+- q: dorms
+  a: sypialnie
 - q: dorsal
   a: grzbietowy
+- q: dorsz
+  a: cod
+- q: doskonalić
+  a: refine
+- q: dost
+  a: '2 os. lp. czas. teraźniejszego od "to do" [arch.]'
 - q: dostatek
   a: affluence
 - q: dostatni
@@ -1338,8 +2425,24 @@
   a: afflicted
 - q: dotknąć
   a: afflict
+- q: dough
+  a: surowe ciasto
+- q: dough
+  a: forsa
+- q: doughnut
+  a: donut
+- q: doughnut
+  a: pączek
+- q: 'dowcip,żart'
+  a: gag (7-4)
+- q: downpour
+  a: ulewa
 - q: downs
   a: wzgórza
+- q: dozorca
+  a: concierge
+- q: dozorca
+  a: turnkey
 - q: draft
   a: przeciąg
 - q: drag
@@ -1358,80 +2461,188 @@
   a: peevish
 - q: drelich
   a: denim
+- q: drenched
+  a: przemoczony
 - q: drewno
   a: timber
 - q: drezyna
   a: trolley
+- q: drogaasfaltowa
+  a: blacktop (5-9)
+- q: drought
+  a: susza
+- q: druhna
+  a: bridesmaid
+- q: drunkard
+  a: pijak
 - q: drutkolczasty
   a: barbed wire (4-9)
 - q: drwić
   a: sneered
+- q: drwić
+  a: mock
 - q: drwićsobie
   a: sneered (5-5)
 - q: dryer
   a: suszarka
 - q: drzećsię
   a: clamor (5-3)
+- q: drągi
+  a: rods
 - q: drążek
   a: lever
 - q: dręczyć
   a: pang
+- q: drżeć
+  a: twitch
+- q: dugout
+  a: ziemianka
+- q: dugout
+  a: wykop
+- q: dugout
+  a: kanoe
 - q: dukać
   a: stammer
+- q: duly
+  a: należycie
+- q: duly
+  a: zgodnie z planem
 - q: dumać
   a: brood
 - q: dumać
   a: brood
+- q: dump
+  a: śmietnisko
+- q: dump
+  a: sterta
+- q: dump
+  a: gówno
+- q: dump
+  a: wyrzucać
+- q: dump
+  a: pozbywać się
 - q: dung
   a: gnój
 - q: dung
   a: łajno
 - q: dupa
   a: buttocks
+- q: dupa
+  a: arse
 - q: dupek
   a: turd
+- q: dupek
+  a: arsehole
+- q: durny
+  a: daft
 - q: dusić
   a: throttle
+- q: dustpan
+  a: szufelka
+- q: dustpan
+  a: śmietniczka
 - q: dużepiwo
   a: pint (4-4)
+- q: dwarf
+  a: krasnal
+- q: dwarf
+  a: krasnolud
+- q: dwarf
+  a: karzeł
+- q: dwarves
+  a: krasnale
+- q: dwarves
+  a: krasnoludy
+- q: dwarves
+  a: karły
+- q: dwukółka
+  a: chaise
 - q: dygotać
   a: throb
 - q: dygotać
   a: bob
+- q: dykta
+  a: plywood
 - q: dyrektor
   a: superintendent
 - q: dyskredytować
   a: confound
+- q: dyskurs
+  a: discourse
+- q: dyspepsia
+  a: niestrawność
+- q: dyszeć
+  a: gasp
 - q: dzban
   a: jug
 - q: dzbanek
   a: jug
+- q: dzbaneknaśmietankę
+  a: creamer (7-2-9)
+- q: dzbanki
+  a: jugs
 - q: dziadostwo
   a: crap
+- q: dzidy
+  a: spears
 - q: dziedzic
   a: heir
 - q: dziedziczny
   a: hereditary
+- q: dziedziczny
+  a: heritable
+- q: 'dziewczyna[pot.]'
+  a: gal (10-6)
 - q: dzieweczka
   a: lass
 - q: dzik
   a: boar
+- q: dziobnięcie
+  a: peck
+- q: dziurkaodguzika
+  a: buttonhole (7-2-6)
 - q: dziwaczność
   a: kinkiness
 - q: dziwaczny
   a: kinky
+- q: dziwak
+  a: freak
+- q: dziwka
+  a: hustler
+- q: dzwonek
+  a: buzzer
+- q: dzwonekdodrzwi
+  a: doorbel (7-2-5)
+- q: dzwonienie
+  a: clang
+- q: dzwonienie
+  a: clanging
 - q: dzwoniący
   a: tinkling
 - q: dzwonić
   a: tinkle
+- q: dąsającsię
+  a: sulkily (7-3)
+- q: dąsaćsię
+  a: sulk (5-3)
 - q: dążyć
   a: strove
+- q: długopis
+  a: ballpoint
 - q: dźwierny
   a: commissionaire
 - q: dźwig
   a: pulley
 - q: dźwignia
   a: lever
+- q: dźwiękzamkabłyskawicznego
+  a: zip (6-5-14)
+- q: dźwiękowy
+  a: sonic
+- q: dżdżownica
+  a: worm
+- q: dżdżownice
+  a: worms
 - q: dżins
   a: denim
 - q: dżinsowy
@@ -1440,12 +2651,40 @@
   a: lackey
 - q: dżokeje
   a: lackeys
+- q: dżuma
+  a: pestilence
+- q: earlobe
+  a: płatek ucha
 - q: earthling
   a: ziemianka
 - q: earthling
   a: ziemianin
 - q: earthlings
   a: ziemianie
+- q: eaves
+  a: okapy dachowe
+- q: ebullition
+  a: wrzenie
+- q: ebullition
+  a: wybuch
+- q: eerie
+  a: upiorny
+- q: eerie
+  a: niesamowity
+- q: eerie
+  a: tajemniczy
+- q: eggplant
+  a: bakłażan
+- q: ekskluzywny
+  a: posh
+- q: ekspresyjny
+  a: expressive
+- q: elaborate
+  a: skomplikowany
+- q: elaborate
+  a: wyszukany
+- q: elaborate
+  a: staranny
 - q: elate
   a: uszczęśliwiać
 - q: elate
@@ -1470,12 +2709,48 @@
   a: uzyskać
 - q: elk
   a: łoś
+- q: embankment
+  a: nasyp
+- q: embankment
+  a: wał
+- q: embankment
+  a: skarpa
+- q: embankment
+  a: nabrzeże
+- q: embody
+  a: ucieleśniać
+- q: embody
+  a: wyrażać
+- q: embroidery
+  a: haft
+- q: embroidery
+  a: zdobienie
+- q: eminent
+  a: wybitny
+- q: eminent
+  a: wyjątkowy
 - q: encampment
   a: koczowisko
 - q: encampment
   a: obozowisko
 - q: endearing
   a: making someone like you
+- q: endeavour
+  a: starać się
+- q: endeavour
+  a: usiłować
+- q: endeavour
+  a: staranie
+- q: endeavour
+  a: przedsięwzięcie
+- q: endeavoured
+  a: 'czas przeszły od "starać się, usiłować"'
+- q: endnotes
+  a: przypisy końcowe
+- q: ensue
+  a: wynikać
+- q: ensue
+  a: wywiązywać się
 - q: entourage
   a: świta
 - q: entourage
@@ -1488,6 +2763,12 @@
   a: wnętrzności
 - q: entrails
   a: trzewia
+- q: epaulets
+  a: epolety
+- q: epaulets
+  a: pagony
+- q: epolety
+  a: epaulets
 - q: ere
   a: nim
 - q: ere
@@ -1502,6 +2783,16 @@
   a: niebawem (3-4)
 - q: erenow
   a: przedtem (3-3)
+- q: esquire
+  a: giermek
+- q: esquire
+  a: wielmożny pan
+- q: establishment
+  a: lokal
+- q: establishment
+  a: placówka
+- q: establishment
+  a: ustalony porządek
 - q: etap
   a: lap
 - q: etch
@@ -1548,8 +2839,24 @@
   a: wytężać
 - q: exertion
   a: wysiłek
+- q: exile
+  a: wygnanie
+- q: exile
+  a: zesłanie
+- q: exile
+  a: banita
+- q: exile
+  a: zesłaniec
+- q: exiles
+  a: banici
+- q: exiles
+  a: zesłańcy
 - q: exonerated
   a: oczyszczony z zarzutów
+- q: expressive
+  a: ekspresyjny
+- q: expressive
+  a: wyrazisty
 - q: expulsion
   a: wydalenie
 - q: exquisite
@@ -1560,12 +2867,34 @@
   a: wykwintny
 - q: fabrykakonserw
   a: cannery (7-7)
+- q: fabrykakonserw
+  a: cannery (7-7)
 - q: faceci
   a: chaps
 - q: facet
   a: chap
+- q: facet
+  a: bloke
+- q: fag
+  a: fajka
+- q: fag
+  a: szlug
+- q: fag
+  a: pedał
+- q: fags
+  a: fajki
+- q: fags
+  a: szlugi
+- q: fags
+  a: pedały
+- q: fajka
+  a: fag
 - q: fajkawodna
   a: hookah (5-5)
+- q: fajki
+  a: fags
+- q: falbanki
+  a: flounces
 - q: farfocel
   a: scrap
 - q: farmazony
@@ -1592,16 +2921,36 @@
     successful or have an advantage
 - q: favourability
   a: he extent to which somebody/something is liked or approved of
+- q: fałszować
+  a: fiddle
 - q: fałszywy
   a: phoney
 - q: fałszywy
   a: bogus
 - q: fałszywytrop
   a: red herring (8-4)
+- q: feeble
+  a: słaby
+- q: feeble
+  a: marny
+- q: feely
+  a: film z odczuwalnymi efektami
+- q: feely
+  a: czuciofilm
+- q: felicity
+  a: szczęście
+- q: felicity
+  a: trafność
 - q: femoral
   a: udowy
+- q: ferns
+  a: paprocie
 - q: ferocity
   a: zaciekłość
+- q: fertilizing
+  a: zapładnianie
+- q: fertilizing
+  a: nawożenie
 - q: feverish
   a: rozpalony
 - q: feverish
@@ -1612,6 +2961,26 @@
   a: jasnowidz
 - q: fey
   a: nie z tego świata
+- q: fiddle
+  a: 'bezmyślnie czymś ruszać, bawić się'
+- q: fiddle
+  a: fałszować
+- q: fiddle
+  a: skrzypce
+- q: fiddlehead
+  a: pastorał/pęd paproci
+- q: fiddleheads
+  a: pastorały/pędy paproci
+- q: fidelity
+  a: wierność
+- q: fiesta
+  a: fiesta
+- q: fiesta
+  a: fiesta
+- q: fiesta
+  a: święto
+- q: figuranci
+  a: stooges
 - q: filament
   a: struga
 - q: filament
@@ -1622,14 +2991,42 @@
   a: włóknisty
 - q: filarskrzydłowy
   a: prop (5-10)
+- q: filmzodczuwalnymiefektami
+  a: feely (4-1-12-8)
+- q: fiolka
+  a: phial
+- q: firehouse
+  a: remiza
 - q: firingsquad
   a: pluton egzekucyjny (6-5)
 - q: fission
   a: podział
+- q: flagi
+  a: flags
+- q: flags
+  a: flagi
+- q: flags
+  a: płyty chodnikowe
 - q: flagstaff
   a: maszt flagowy
 - q: flagstones
   a: kamienna płyta
+- q: flail
+  a: cep
+- q: flanelowy
+  a: flannel
+- q: flannel
+  a: flanelowy
+- q: flaps
+  a: 'klapy (np. samolotu, płaszcza)'
+- q: flaps
+  a: poły
+- q: flare
+  a: raca
+- q: flare
+  a: błysk
+- q: flare
+  a: rozbłysnąć
 - q: flex
   a: napinać
 - q: flex
@@ -1670,6 +3067,18 @@
   a: podrunął
 - q: flitted
   a: przemknął
+- q: floodplain
+  a: obszar zalewowy
+- q: floorwalker
+  a: nadzorca/kierownik w sklepie
+- q: flop
+  a: legowisko
+- q: flop
+  a: barłóg
+- q: flop
+  a: opadać
+- q: flop
+  a: klapnąć
 - q: flophouse
   a: hotel
 - q: flophouse
@@ -1682,8 +3091,16 @@
   a: noclegownia
 - q: flophouse
   a: schronisko dla ubogich
+- q: flounces
+  a: falbanki
+- q: flyers
+  a: ulotki
 - q: flądra
   a: slovenly woman
+- q: foch
+  a: sulk
+- q: folia
+  a: sheeting
 - q: folly
   a: szaleństwo
 - q: folly
@@ -1696,8 +3113,12 @@
   a: budowla
 - q: folly
   a: budowla dekoracyjna
+- q: foraging
+  a: zbieractwo
 - q: forbidding
   a: budzący grozę
+- q: foreplay
+  a: gra wstępna
 - q: formidable
   a: niezwykły
 - q: formidable
@@ -1712,8 +3133,24 @@
   a: robiący wrażenie
 - q: formidable
   a: onieśmielający
+- q: forsa
+  a: dough
 - q: fortel
   a: stratagems
+- q: fossil
+  a: skamielina
+- q: foster
+  a: pielęgnować
+- q: foster
+  a: wspierać
+- q: foster
+  a: sprzyjać
+- q: foster
+  a: zastępczy
+- q: foster
+  a: '[w cytatach - nazwisko bohatera]'
+- q: fotelbujany
+  a: rocker (5-6)
 - q: foul
   a: faul
 - q: foul
@@ -1734,6 +3171,12 @@
   a: odlewnia
 - q: foundryman
   a: hutnik (7-3)
+- q: fractions
+  a: ułamki
+- q: fractures
+  a: pęknięcia
+- q: fragmenty
+  a: scraps
 - q: frail
   a: wątły
 - q: frail
@@ -1746,6 +3189,26 @@
   a: wątłość
 - q: frailty
   a: słabowitość
+- q: freak
+  a: świr
+- q: freak
+  a: dziwak
+- q: freight
+  a: towarowy (np. pociąg)
+- q: freight
+  a: przewóz
+- q: freights
+  a: przewozy
+- q: freights
+  a: pociągi towarowe
+- q: frekwencja
+  a: turnout
+- q: friction
+  a: tarcie
+- q: friction
+  a: napięcie
+- q: frig
+  a: '(s)pieprzyć/pierdolić [alt. "fuck"]'
 - q: frothing
   a: pienić się
 - q: frothing
@@ -1760,6 +3223,16 @@
   a: szumowina
 - q: fruwać
   a: flit
+- q: fucha
+  a: gig
+- q: fuchy
+  a: gigs
+- q: fuckwittage
+  a: chujnia
+- q: fuckwittage
+  a: popapranie
+- q: fugging
+  a: 'pieprzony/pierdolony [alt. "fucking"]'
 - q: fuknąć
   a: snort
 - q: fumble
@@ -1770,6 +3243,8 @@
   a: grzebać
 - q: fumbled
   a: gmerać
+- q: 'funciak[pot.]'
+  a: quid (7-6)
 - q: furl
   a: zwijać
 - q: furmanka
@@ -1782,14 +3257,64 @@
   a: harpun do łapania ryb
 - q: gaff
   a: harpun
+- q: gag
+  a: 'dowcip, żart'
 - q: gaj
   a: grove
+- q: gal
+  a: 'dziewczyna [pot.]'
+- q: gala
+  a: gala
+- q: gala
+  a: gala
+- q: gala
+  a: galowy
+- q: galanteria
+  a: gallantry
+- q: galera
+  a: galley
+- q: gallantry
+  a: galanteria
+- q: galley
+  a: galera
+- q: galley
+  a: kambuz
+- q: galley
+  a: 'część kuchenna (na statku, w samolocie)'
+- q: gallows
+  a: szubienica
+- q: galowy
+  a: gala
 - q: gamoń
   a: clod
+- q: ganglia
+  a: zwoje nerwowe
+- q: ganglia
+  a: gangliony
+- q: gangliony
+  a: ganglia
+- q: gangsterzy
+  a: mobsters
+- q: garbarz
+  a: skinner
 - q: garbićsię
   a: hunch (6-3)
+- q: gardło
+  a: gorge
+- q: gargle
+  a: płukać gardło
+- q: gargle
+  a: płyn do płukania gardła
+- q: garlics
+  a: główki czosnku
 - q: garnek
   a: jug
+- q: gasp
+  a: dyszeć
+- q: gasp
+  a: sapać
+- q: gasp
+  a: stłumiony okrzyk
 - q: gatelegtable
   a: stół rozkładany (7-5)
 - q: gaz
@@ -1804,12 +3329,44 @@
   a: staruch
 - q: geezer
   a: wapniak
+- q: gehenna
+  a: ordeal
+- q: gelding
+  a: wałach
+- q: gelding
+  a: kastracja
+- q: genes
+  a: geny
+- q: genialnedzieci
+  a: prodigies (8-6)
+- q: geniusze
+  a: prodigies
+- q: geny
+  a: genes
 - q: geriatric
   a: geriatyczny
 - q: geriatyczny
   a: geriatric
 - q: giddy
   a: roztrzepany
+- q: giermek
+  a: esquire
+- q: gig
+  a: występ
+- q: gig
+  a: koncert
+- q: gig
+  a: praca dorywcza
+- q: gig
+  a: fucha
+- q: gigs
+  a: występy
+- q: gigs
+  a: koncerty
+- q: gigs
+  a: prace dorywcze
+- q: gigs
+  a: fuchy
 - q: gilt
   a: złocenie
 - q: gilt
@@ -1832,32 +3389,106 @@
   a: wyglądać ponuro
 - q: gmerać
   a: fumbled
+- q: gmina
+  a: municipality
 - q: gnojek
   a: turd
+- q: gnojek
+  a: pissant
 - q: gnój
   a: dung
+- q: gnój
+  a: muck
 - q: godność
   a: decorum
 - q: godnypożałowania
   a: wretched (5-11)
+- q: goldilocks
+  a: złotowłosa
+- q: golteria(jagoda)
+  a: checkerberry (8-8)
+- q: golterie(jagody)
+  a: checkerberries (8-8)
 - q: goon
   a: zbir
 - q: goon
   a: matoł
+- q: goosehouse
+  a: gęsiarnia
+- q: gorge
+  a: wąwóz
+- q: gorge
+  a: gardło
+- q: gorgeous
+  a: wspaniały
+- q: gorgeous
+  a: olśniewający
+- q: gorgeous
+  a: zachwycający
+- q: gorgeous
+  a: cudowny
+- q: gorry
+  a: 'o boże, dżizas [slang]'
 - q: gorset
   a: corsets
 - q: gorączkadenga
   a: dengue (8-5)
 - q: gospodarność
   a: thrift
+- q: gospodyni
+  a: patronne
+- q: gołąb
+  a: pigeon
+- q: gościnność
+  a: hospitality
+- q: gość
+  a: bloke
+- q: grawstępna
+  a: foreplay (3-7)
+- q: grabienie
+  a: raking
+- q: graft
+  a: '[slang]'
+- q: graft
+  a: ciężka praca
+- q: graft
+  a: przekręt
+- q: graft
+  a: kradzież
+- q: graft
+  a: łapówka
+- q: grafts
+  a: '[slang]'
+- q: grafts
+  a: ciężkie prace
+- q: grafts
+  a: przekręty
+- q: grafts
+  a: kradzieże
+- q: grafts
+  a: łapówki
 - q: graniastosłup
   a: prism
+- q: granny
+  a: babcia
 - q: granulat
   a: pellets
 - q: granulka
   a: pellet
+- q: grappa
+  a: 'grappa [alkohol]'
+- q: 'grappa[alkohol]'
+  a: grappa (6-9)
+- q: gravy
+  a: sos pieczeniowy
+- q: gravy
+  a: szmal
 - q: greyhound
   a: chart
+- q: grille
+  a: krata
+- q: grille
+  a: kratownica
 - q: grimy
   a: brudny
 - q: grimy
@@ -1884,14 +3515,26 @@
   a: posypywać piaskiem
 - q: grit
   a: żwirować
+- q: groch
+  a: peas
 - q: gromada
   a: bunch
+- q: gromada
+  a: dole
 - q: grono
   a: bunch
+- q: gronostaje
+  a: stoats
+- q: groom
+  a: pan młody
 - q: grosik
   a: farthings
 - q: grove
   a: gaj
+- q: growers
+  a: hodowcy
+- q: groźnie
+  a: menacingly
 - q: groźny
   a: formidable
 - q: grub
@@ -1910,18 +3553,36 @@
   a: clod
 - q: grudka
   a: clod
+- q: grudka
+  a: clump
+- q: grudy
+  a: clumps
+- q: gruesome
+  a: makabryczny
+- q: gruesome
+  a: przerażający
+- q: gruesome
+  a: okropny
 - q: grumble
   a: marudzić
 - q: grumble
   a: zrzędzić
+- q: grupowanie
+  a: bundling
+- q: gruzy
+  a: rubble
 - q: grymaśnastarszakobieta
   a: biddy (8-7-7)
 - q: grys
   a: grit
+- q: 'gryzakdladziecka[+ring]'
+  a: teething (6-3-7-2-5)
 - q: gryzmolić
   a: scrawled
 - q: grzaćsię
   a: bask (5-3)
+- q: grzbietgórski
+  a: ridge (7-6)
 - q: grzbietowy
   a: dorsal
 - q: grzebać
@@ -1932,6 +3593,12 @@
   a: perch
 - q: grzęzawisko
   a: swamp
+- q: gródź
+  a: bulkhead
+- q: gulch
+  a: parów
+- q: gulch
+  a: wąwóz
 - q: gull
   a: kiep
 - q: gull
@@ -1942,24 +3609,36 @@
   a: jelito
 - q: gut
   a: patroszyć
+- q: gutter
+  a: rynsztok
+- q: gutter
+  a: ściek
+- q: gutter
+  a: rynna
 - q: guzzling
   a: chlanie
 - q: gwałtowaniewzrosnąć
-  a: surged (11-8)
-- q: gwałtowaniewzrosnąć
   a: surge (11-8)
+- q: gwałtowaniewzrosnąć
+  a: surged (11-8)
 - q: gwałtownieskręcić
   a: swerve (10-7)
 - q: gwałtowny
   a: vicious
 - q: gwałtownyból
   a: throe (9-3)
+- q: gyp
+  a: cygan
 - q: gówniarz
   a: punk
 - q: gówno
   a: crap
 - q: gówno
   a: turd
+- q: gówno
+  a: dump
+- q: gęsiarnia
+  a: goosehouse
 - q: gęstwina
   a: tangle
 - q: gładki
@@ -1970,6 +3649,10 @@
   a: clod
 - q: głupota
   a: folly
+- q: główkiczosnku
+  a: garlics (6-7)
+- q: główny
+  a: cardinal
 - q: hack
   a: pismak
 - q: hack
@@ -1980,30 +3663,68 @@
   a: siekać
 - q: hack
   a: hakować
+- q: haft
+  a: embroidery
 - q: haggard
   a: wymizerowany
 - q: haggard
   a: zmizerniały
 - q: hakować
   a: hack
+- q: halter
+  a: kantar
+- q: halter
+  a: uzda
+- q: hamaki
+  a: hammocks
+- q: hammocks
+  a: hamaki
+- q: 'hamulcowi[slang]'
+  a: shacks (9-7)
 - q: harmider
   a: din
+- q: harmonia
+  a: accordion
+- q: harmonijkowy
+  a: accordion
 - q: harpun
   a: gaff
 - q: harpundołapaniaryb
   a: gaff (6-2-7-3)
+- q: harpuny
+  a: spears
 - q: harsh
   a: srogi
 - q: harsh
   a: surowy
 - q: harsh
   a: nieuprzejmy
+- q: hassle
+  a: kłopot
+- q: hassle
+  a: udręka
+- q: hatch
+  a: właz
+- q: hatcheries
+  a: wylęgarnie
+- q: haughtiness
+  a: arogancja
+- q: haughtiness
+  a: wyniosłość
+- q: haust
+  a: swig
 - q: hałasować
   a: din
 - q: hałaśliwy
   a: clamoring
 - q: heextenttowhichsomebody/somethingislikedorapprovedof
   a: favourability (2-6-2-5-18-2-5-2-8-2)
+- q: hearth
+  a: kominek
+- q: hearth
+  a: palenisko
+- q: heather
+  a: wrzos
 - q: heir
   a: dziedzic
 - q: heir
@@ -2016,6 +3737,8 @@
   a: osoby dziedziczące
 - q: helluva
   a: zajebisty
+- q: helmets
+  a: hełmy
 - q: helmsman
   a: sternik
 - q: hemorrhage
@@ -2026,10 +3749,14 @@
     or criminal
 - q: hereditary
   a: dziedziczny
+- q: heritable
+  a: dziedziczny
 - q: herring
   a: śledź
 - q: herszt
   a: chieftain
+- q: hełmy
+  a: helmets
 - q: hike
   a: powędrować
 - q: hike
@@ -2042,10 +3769,30 @@
   a: podciągać
 - q: hike
   a: podciągnąć
+- q: hipnopedia
+  a: hypnopaedia
+- q: hipnopedyczny
+  a: hypnopaedic
+- q: hipokamp
+  a: hippocampus
 - q: hipopotam
   a: hippo
 - q: hippo
   a: hipopotam
+- q: hippocampus
+  a: hipokamp
+- q: hippocampus
+  a: >-
+    struktura mózgu odpowiedzialna za zapamiętywanie, pamięć długotrwałą,
+    myślenie abstrakcyjne oraz emocje
+- q: hoard
+  a: skarb
+- q: hoard
+  a: zapasy
+- q: hoard
+  a: skrytka
+- q: hoard
+  a: skarbiec
 - q: hoarse
   a: chrapliwy
 - q: hoarse
@@ -2060,6 +3807,14 @@
   a: włóczęga
 - q: hobo
   a: kloszard
+- q: hoboes
+  a: włóczędzy
+- q: hoboes
+  a: menele
+- q: hodowcy
+  a: growers
+- q: hog
+  a: wieprz
 - q: hojny
   a: magnanimous
 - q: hol
@@ -2068,6 +3823,8 @@
   a: ukrywać się
 - q: holed
   a: chować się
+- q: holly
+  a: ostrokrzew
 - q: homicidal
   a: morderczy
 - q: hoodlum
@@ -2084,8 +3841,22 @@
   a: oprych
 - q: hookah
   a: fajka wodna
+- q: hoop
+  a: obręcz
+- q: hoop
+  a: pierścień
 - q: hornet
   a: szerszeń
+- q: horstile
+  a: 'nieprzyjazny, wrogi [slang]'
+- q: hose
+  a: wąż ogrodowy/strażacki
+- q: hospitality
+  a: gościnność
+- q: hoss
+  a: 'koleś, gościu [slang]'
+- q: hoss
+  a: koń
 - q: hostel
   a: flophouse
 - q: hotel
@@ -2102,6 +3873,10 @@
   a: punk
 - q: humid
   a: wilgotny
+- q: hummock
+  a: pagórek
+- q: hummocks
+  a: pagórki
 - q: hunch
   a: przeczucie
 - q: hunch
@@ -2110,16 +3885,44 @@
   a: garbić się
 - q: hunched
   a: skulony
+- q: hunky
+  a: przystojniak
+- q: hunky
+  a: paker
+- q: hurtowy
+  a: bulk
+- q: hustler
+  a: kanciarz
+- q: hustler
+  a: dziwka
 - q: hutnik
   a: foundry man
 - q: huśtaćsię
   a: bob (6-3)
+- q: hypnopaedia
+  a: hipnopedia
+- q: hypnopaedia
+  a: uczenie się podczas snu
+- q: hypnopaedic
+  a: hipnopedyczny
+- q: hypnopaedic
+  a: odnoszący się do nauki podczas snu
 - q: hypodermic
   a: podskórny
+- q: icewater
+  a: woda z lodem
+- q: icewater
+  a: lodowata woda
+- q: idear
+  a: 'pomysł, myśl [forma charakterystyczna w rejonie appalachów]'
 - q: iglica
   a: spike
 - q: illness
   a: ailment
+- q: illustrious
+  a: wybitny
+- q: illustrious
+  a: znakomity
 - q: imbir
   a: ginger
 - q: imperious
@@ -2130,6 +3933,18 @@
   a: niepodważalny
 - q: impregnat
   a: repellent
+- q: imprezatowarzysząca
+  a: sideshow (7-12)
+- q: imprudent
+  a: nieostrożny
+- q: imprudent
+  a: nierozważny
+- q: impudent
+  a: bezczelny
+- q: impudent
+  a: zuchwały
+- q: incessant
+  a: bezustanny
 - q: inconceivable
   a: niewiarygodny
 - q: inconceivable
@@ -2138,6 +3953,14 @@
   a: niewyobrażalny
 - q: inconceivable
   a: nieogarniony
+- q: incongruous
+  a: osobliwy
+- q: incongruous
+  a: nie na miejscu
+- q: incredulously
+  a: z niedowierzaniem
+- q: incredulously
+  a: sceptycznie
 - q: indict
   a: oskarżyć
 - q: indict
@@ -2152,10 +3975,26 @@
   a: akt oskarżenia
 - q: indulgently
   a: z pobłażaniem
+- q: infidelity
+  a: zdrada
+- q: infidelity
+  a: niewierność
 - q: infidels
   a: niewierny
+- q: inning
+  a: runda w baseballu
+- q: innings
+  a: rundy w baseballu
 - q: insolence
   a: bezczelność
+- q: instants
+  a: zdrapki
+- q: interlocutor
+  a: interlokutor
+- q: interlocutor
+  a: rozmówca
+- q: interlokutor
+  a: interlocutor
 - q: intermittent
   a: sporadyczny
 - q: intermittent
@@ -2172,28 +4011,82 @@
   a: okresowo
 - q: intermittently
   a: nieregularnie
+- q: internat
+  a: dorm
+- q: internaty
+  a: dorms
+- q: interstellar
+  a: międzygwiezdny
+- q: intrinsic
+  a: nieodłączny
+- q: intrinsic
+  a: wrodzony
+- q: intrinsic
+  a: wewnętrzny
+- q: intrinsic
+  a: rzeczywisty
 - q: iridescent
   a: mieniący się
 - q: istny
   a: sheer
+- q: jagoda
+  a: blueberry
+- q: jagody
+  a: berries
+- q: jajnik
+  a: ovary
+- q: jama
+  a: cavern
+- q: jaskinia
+  a: cavern
 - q: jasnowidz
   a: fey
 - q: jasnowidzący
   a: fey
 - q: jasność
   a: lucid
+- q: 'jasność,przytomność(np.umysłu)'
+  a: lucidity (8-11-4-7)
+- q: jaundice
+  a: żółtaczka
+- q: jaundice
+  a: zawiść
+- q: jałmużna
+  a: charity
+- q: jaśniepani
+  a: ladyship (6-4)
 - q: jebnąć
   a: nip
 - q: jebnął
   a: nipped
 - q: jednogłośnie
   a: unanimously
+- q: jednostkamonetarnawrpa
+  a: rand (9-9-1-3)
+- q: jednostkamonetarnawrpa(l.mn.)
+  a: rands (9-9-1-3-3-4)
+- q: jednoszynowy
+  a: monorail
 - q: jelito
   a: gut
 - q: jerk
   a: szarpnąć
 - q: jerk
   a: wyrwać
+- q: jeździćnanartach
+  a: ski (7-2-7)
+- q: jeżyna
+  a: blackberry
+- q: jeżyny
+  a: brambles
+- q: jigsaw
+  a: układanka
+- q: joint
+  a: knajpa
+- q: joint
+  a: 'skręt, fajka'
+- q: journaling
+  a: prowadzenie dziennika
 - q: jug
   a: dzbanek
 - q: jug
@@ -2208,8 +4101,20 @@
   a: dzban
 - q: jug
   a: kryminał
+- q: juggler
+  a: żongler
+- q: jugs
+  a: dzbanki
+- q: jugs
+  a: pojemniki
 - q: jukebox
   a: szafa grająca
+- q: jutting
+  a: wystający
+- q: jutting
+  a: sterczący
+- q: 'jądro(atomu,komórkowe)'
+  a: nucleus (5-7-10)
 - q: jąkaniesię
   a: stammer (7-3)
 - q: jąkać
@@ -2230,16 +4135,44 @@
   a: tub
 - q: kajdanki
   a: cuffs
+- q: kaldera
+  a: caldera
 - q: kaleczyć
   a: mangle
+- q: kalmar
+  a: squid
+- q: kalmary
+  a: squids
+- q: kambuz
+  a: galley
+- q: kamelia
+  a: camellia
 - q: kamieniołom
   a: quarry
 - q: kamiennapłyta
   a: flagstones (8-5)
+- q: kamizelka
+  a: vest
 - q: kamyk
   a: pebble
 - q: kanapa
   a: couch
+- q: kanciarz
+  a: hustler
+- q: kangaroo
+  a: kangur
+- q: kangaroos
+  a: kangury
+- q: kangur
+  a: kangaroo
+- q: kangury
+  a: kangaroos
+- q: kanoe
+  a: dugout
+- q: kantar
+  a: halter
+- q: kantyna
+  a: commissary
 - q: kapa
   a: coverlet
 - q: kapelan
@@ -2248,28 +4181,68 @@
   a: ripping
 - q: kapuś
   a: squealer
+- q: kardynalny
+  a: cardinal
+- q: karmazynowy
+  a: crimson
+- q: karnawał
+  a: carnival
 - q: karton-gips
   a: wallboard
+- q: karzeł
+  a: midget
+- q: karzeł
+  a: dwarf
+- q: karły
+  a: dwarves
+- q: kasta
+  a: caste
+- q: kastracja
+  a: gelding
 - q: kasztan
   a: chestnut
 - q: kasztanowiec
   a: chestnut
 - q: kasztanowy
   a: chestnut
+- q: kasztanowy(koń)
+  a: sorrel (10-5)
 - q: kawał
   a: hoax
 - q: kazalnica
   a: pulpit
+- q: kałamarnica
+  a: squid
+- q: kałamarnice
+  a: squids
+- q: keg
+  a: beczka
+- q: keg
+  a: keg
+- q: keg
+  a: keg
+- q: keg
+  a: antałek
+- q: kerchief
+  a: chust(k)a
+- q: kibel
+  a: pisser
 - q: kicz
   a: crap
 - q: kiep
   a: gull
 - q: kiepski
   a: paltry
+- q: kiepski
+  a: lousy
+- q: kierowniczka
+  a: patronne
 - q: kierownik
   a: superintendent
 - q: kierownikurzędustanucywilnego
   a: registrar (9-6-5-9)
+- q: kij
+  a: rod
 - q: kikut
   a: stump
 - q: kinkiness
@@ -2308,10 +4281,18 @@
   a: bob (5-3)
 - q: klamra
   a: brace
+- q: klamra
+  a: clip
+- q: klapnąć
+  a: flop
 - q: klaps
   a: slap
+- q: 'klapy(np.samolotu,płaszcza)'
+  a: flaps (5-4-9-9)
 - q: klarowny
   a: lucid
+- q: klasyczny
+  a: vintage
 - q: kleks
   a: blotch
 - q: klepać
@@ -2320,6 +4301,8 @@
   a: slap
 - q: klepnąć
   a: slap
+- q: kleszcze
+  a: clenches
 - q: klin
   a: wedge
 - q: klinować
@@ -2334,12 +4317,18 @@
   a: rzeźnik koński
 - q: knacker
   a: osoba wykonująca rozbiórkę domów
+- q: knajpa
+  a: joint
 - q: knocić
   a: mangle
 - q: knoll
   a: pagórek
 - q: knoll
   a: kopiec
+- q: kobiet(k)a
+  a: dame
+- q: kobiety/kobietki
+  a: dames
 - q: koczowisko
   a: encampment
 - q: kogucik
@@ -2348,58 +4337,134 @@
   a: bunk
 - q: kojec
   a: coop
+- q: koleiny
+  a: ruts
+- q: kolejjednoszynowa
+  a: monorail (5-12)
+- q: koleś
+  a: bloke
+- q: 'koleś,gościu[slang]'
+  a: hoss (6-6-7)
+- q: kombinerki
+  a: pliers
 - q: kombinezon
   a: overall
 - q: kombinezon
   a: overalls
-- q: komisarz
-  a: superintendent
+- q: kominek
+  a: hearth
 - q: komisarz
   a: commissionaire
+- q: komisarz
+  a: superintendent
 - q: komisja
   a: commission
 - q: komoda
   a: credenza
 - q: kompozyt
   a: composite
+- q: kompulsywnezachowanie
+  a: binge (11-10)
+- q: komunalny
+  a: municipal
+- q: komunia
+  a: communion
+- q: komunikować
+  a: convey
 - q: konar
   a: bough
 - q: koncentrator
   a: hub
+- q: koncert
+  a: gig
+- q: koncerty
+  a: gigs
+- q: kondygnacja
+  a: storey
 - q: koneksja
   a: connexion
+- q: konfitowanie
+  a: confit
 - q: koniczyna
   a: clover
 - q: konserwowy
   a: tinned
+- q: konsjerż
+  a: concierge
 - q: kontakt
   a: connexion
 - q: kopiec
   a: knoll
+- q: kopiec
+  a: cairn
 - q: kopnięty
   a: batty
 - q: kopyto
   a: trotter
+- q: koronka
+  a: lace
+- q: koronkowy
+  a: lace
 - q: korytarz
   a: aisle
 - q: korytarze
   a: aisles
+- q: koryto
+  a: trough
+- q: korzyść
+  a: payoff
 - q: kosa
   a: scythe
 - q: kostropaty
   a: coarse
 - q: kozioł
   a: buck
+- q: kołdra
+  a: comforter
+- q: kołdra
+  a: quilt
+- q: kołdry
+  a: quilts
 - q: kołopasowe
   a: pulley (4-6)
+- q: kołysaćsię
+  a: sway (7-3)
 - q: kołyska
   a: crib
+- q: koń
+  a: hoss
 - q: kpić
   a: sneered
+- q: kradzież
+  a: snatch
+- q: kradzież
+  a: graft
+- q: kradzieże
+  a: grafts
 - q: kram
   a: booth
+- q: krasnal
+  a: dwarf
+- q: krasnale
+  a: dwarves
+- q: krasnolud
+  a: dwarf
+- q: krasnoludy
+  a: dwarves
+- q: krata
+  a: grille
+- q: kratownica
+  a: grille
+- q: krawiec
+  a: tailor
+- q: kraść
+  a: snatch
 - q: krepa
   a: crepe
+- q: kretyn
+  a: dork
+- q: 'krew[scot.]'
+  a: bluid (4-7)
 - q: krewetka
   a: shrimp
 - q: krnąbrny
@@ -2410,6 +4475,8 @@
   a: trudged (7-6-2-4)
 - q: kropidło
   a: sprinkler
+- q: kruchy
+  a: brittle
 - q: krwotok
   a: hemorrhage
 - q: kryminał
@@ -2420,10 +4487,20 @@
   a: perjury
 - q: krzyżować
   a: confound
+- q: króliczek
+  a: bunny
 - q: kręcićsię
   a: well (6-3)
 - q: kręcony
   a: kinky
+- q: ksieni
+  a: abbess
+- q: książeczkioszczędnościowe
+  a: passbooks (10-15)
+- q: ksylofon
+  a: xylophone
+- q: 'ktoś,ktopredestynuje'
+  a: predestinator (5-3-12)
 - q: kubek
   a: jug
 - q: kucać
@@ -2440,8 +4517,12 @@
   a: squatted
 - q: kucnęło
   a: squatted
+- q: kuczmany(muchówki)
+  a: noseeums (8-10)
 - q: kufel
   a: pint
+- q: kufle
+  a: pints
 - q: kuksaniec
   a: cuffs
 - q: kuleczka
@@ -2466,6 +4547,8 @@
   a: cramp
 - q: kurczyć
   a: shrinks
+- q: kurtuazja
+  a: courtesy
 - q: kuszetka
   a: bunk
 - q: kwarta
@@ -2478,16 +4561,32 @@
   a: whimpered
 - q: kwit
   a: receipt
+- q: kępa
+  a: clump
+- q: kępy
+  a: clumps
 - q: kłak
   a: tangle
+- q: kłopot
+  a: hassle
 - q: kłos
   a: spike
 - q: kłąb
   a: withers
 - q: kłębić
-  a: surged
-- q: kłębić
   a: surge
+- q: kłębić
+  a: surged
+- q: lace
+  a: koronka
+- q: lace
+  a: koronkowy
+- q: laced
+  a: podszyty
+- q: laced
+  a: spleciony
+- q: laced
+  a: (za)sznurowany
 - q: lackey
   a: dżokej
 - q: lackey
@@ -2504,6 +4603,20 @@
   a: pachołekowie
 - q: lackeys
   a: lokaje
+- q: ladyship
+  a: jaśnie pani
+- q: lagging
+  a: opóźniony
+- q: laleczka
+  a: tootsie
+- q: lampalutownicza
+  a: blowtorch (5-10)
+- q: lampiony
+  a: lanterns
+- q: lanterns
+  a: latarnie
+- q: lanterns
+  a: lampiony
 - q: lap
   a: runda
 - q: lap
@@ -2514,8 +4627,14 @@
   a: na kolana
 - q: larder
   a: spiżarnia
+- q: larvae
+  a: larwy
 - q: larwa
   a: grub
+- q: larwy
+  a: maggots
+- q: larwy
+  a: larvae
 - q: lasek
   a: spinney
 - q: lash
@@ -2532,10 +4651,20 @@
   a: chłosta
 - q: lashing
   a: mocowanie sznurkiem
+- q: laska
+  a: alpenstock
+- q: laski
+  a: chicks
 - q: lass
   a: dzieweczka
 - q: lasso
   a: noose
+- q: latarnie
+  a: lanterns
+- q: latches
+  a: zatrzaski
+- q: latches
+  a: zasuwki
 - q: latorośl
   a: progeny
 - q: lavatory
@@ -2566,6 +4695,8 @@
   a: legalny
 - q: legitimate
   a: autentyczny
+- q: legowisko
+  a: flop
 - q: lej
   a: whirlpool
 - q: lekki
@@ -2576,6 +4707,10 @@
   a: tributaries
 - q: lepki
   a: clammy
+- q: letni(otemperaturze)
+  a: lukewarm (5-2-13)
+- q: letnik
+  a: cottagers
 - q: lever
   a: dźwignia
 - q: lever
@@ -2588,6 +4723,8 @@
   a: bibliotekarz
 - q: librarian
   a: bibliotekarka
+- q: lichtarz
+  a: candlestick
 - q: lichy
   a: flimsy
 - q: lichy
@@ -2608,12 +4745,34 @@
   a: zostawać dłużej
 - q: lingered
   a: zostawać w tyle
+- q: liniment
+  a: maść
 - q: links
   a: pole golfowe
 - q: listewka
   a: skirting
+- q: listlessly
+  a: ospale
+- q: listlessly
+  a: obojętnie
 - q: listwa
   a: skirting
+- q: litość
+  a: compassion
+- q: litter
+  a: śmieci
+- q: litter
+  a: odpadki
+- q: littered
+  a: zaśmiecony
+- q: lizus
+  a: slime
+- q: loch
+  a: oubliette
+- q: locha
+  a: sow
+- q: lodowatawoda
+  a: icewater (8-4)
 - q: lofty
   a: wysoki
 - q: lofty
@@ -2624,10 +4783,18 @@
   a: wzniosły
 - q: lofty
   a: patetyczny
+- q: logging
+  a: wycinka
+- q: logging
+  a: wyrąb
+- q: logging
+  a: zwózka drewna
 - q: lokaj
   a: lackey
 - q: lokaje
   a: lackeys
+- q: lokal
+  a: establishment
 - q: loll
   a: wywiesić
 - q: loll
@@ -2636,12 +4803,18 @@
   a: wywieszony
 - q: lolling
   a: zwieszony
+- q: loo
+  a: toaleta
 - q: lope
   a: sprężysty krok
 - q: lope
   a: susy
 - q: lope
   a: sadzić susami
+- q: lorry
+  a: ciężarówka
+- q: loteria
+  a: raffle
 - q: lounge
   a: sala
 - q: lounge
@@ -2656,12 +4829,20 @@
   a: leniuchować
 - q: lounge
   a: oddawać się lenistwu
+- q: lousy
+  a: kiepski
+- q: lousy
+  a: parszywy
+- q: lousy
+  a: mizerny
 - q: lubieżnica
   a: wanton
 - q: lubieżnik
   a: wanton
 - q: lubieżny
   a: wanton
+- q: lucerna
+  a: alfalfa
 - q: lucid
   a: przejrzysty
 - q: lucid
@@ -2674,8 +4855,22 @@
   a: jasność
 - q: lucid
   a: świetlistość
+- q: lucidity
+  a: 'jasność, przytomność (np. umysłu)'
+- q: ludność
+  a: populace
 - q: lugubrious
   a: smętny
+- q: lukewarm
+  a: letni (o temperaturze)
+- q: lukewarm
+  a: obojętny
+- q: luksusowy
+  a: posh
+- q: lull
+  a: cisza
+- q: lull
+  a: uspokojenie
 - q: luminous
   a: świetlny
 - q: lurch
@@ -2700,8 +4895,30 @@
   a: casual
 - q: lądowisko
   a: airstrip
+- q: lądowy
+  a: overland
 - q: machaćogonem
   a: whisking tail (6-6)
+- q: maciora
+  a: sow
+- q: mackerel
+  a: makrela
+- q: maczek
+  a: poppy
+- q: magazyn
+  a: stockroom
+- q: magazyn
+  a: depot
+- q: magazynek
+  a: clip
+- q: magazynier
+  a: stockboy
+- q: 'magazyny,gazety'
+  a: mags (9-6)
+- q: maggots
+  a: czerwie
+- q: maggots
+  a: larwy
 - q: magiel
   a: mangle
 - q: maglować
@@ -2714,10 +4931,22 @@
   a: łaskawy
 - q: magnanimous
   a: hojny
+- q: mags
+  a: 'magazyny, gazety'
 - q: majętny
   a: affluent
+- q: mak
+  a: poppy
+- q: makabryczny
+  a: gruesome
+- q: makeshift
+  a: prowizoryczny
+- q: makeshift
+  a: zastępczy
 - q: makingsomeonelikeyou
   a: endearing (6-7-4-3)
+- q: makrela
+  a: mackerel
 - q: maksyma
   a: maxim
 - q: malady
@@ -2778,14 +5007,40 @@
   a: partaczyć
 - q: mangle
   a: przekłamać
+- q: manhole
+  a: pokrywa
+- q: manhole
+  a: właz kanalizacyjny
+- q: manhole
+  a: studzienka
 - q: mankiet
   a: cuffs
+- q: marine
+  a: żołnierz marine
+- q: marines
+  a: żołnierze marines
+- q: marionetki
+  a: stooges
+- q: markiza
+  a: marquee
 - q: marnotrastwo
   a: dissipation
 - q: marny
   a: flimsy
 - q: marny
   a: paltry
+- q: marny
+  a: feeble
+- q: marquee
+  a: markiza
+- q: marquee
+  a: namiot cyrkowy
+- q: marquee
+  a: pawilon
+- q: marsh
+  a: bagno
+- q: marshes
+  a: bagna
 - q: marszczyć
   a: shrinks
 - q: 'martineden:clue'
@@ -2804,22 +5059,72 @@
   a: papka
 - q: masztflagowy
   a: flagstaff (5-7)
+- q: mata
+  a: mats
+- q: materace
+  a: mattresses
 - q: materiałnaspódnicę
   a: skirting (8-2-8)
+- q: matkaprzełożona
+  a: abbess (5-10)
 - q: matoł
   a: goon
+- q: matrona
+  a: dame
+- q: matrony
+  a: dames
+- q: mats
+  a: wycieraczka
+- q: mats
+  a: mata
+- q: mattresses
+  a: materace
 - q: maxim
   a: maksyma
 - q: maxim
   a: przysłowie
 - q: maxim
   a: sentencja
+- q: małaozdobnatorebka
+  a: reticule (4-7-7)
+- q: małemiasteczko
+  a: pueblo (4-10)
+- q: małżeński
+  a: conjugal
+- q: maść
+  a: liniment
+- q: 'meksykańscyrobotnicy,nielegalniepracującywusa[obraźliwe]'
+  a: wetbacks (11-10-11-9-1-3-11)
+- q: menacingly
+  a: groźnie
+- q: menele
+  a: hoboes
+- q: messy
+  a: zagracony
+- q: messy
+  a: brudny
+- q: messy
+  a: niechlujny
 - q: mewa
   a: gull
+- q: 'miasteczko[pot.]'
+  a: burg (10-6)
+- q: miasto
+  a: municipality
 - q: miazga
   a: mash
 - q: miażdżyć
   a: mangle
+- q: midget
+  a: karzeł
+- q: midwife
+  a: położna
+- q: midwife
+  a: akuszerka
+- q: miejski
+  a: civic
+- q: miejski
+  a: municipal
 - q: mieniącysię
   a: iridescent (8-3)
 - q: mieszany
@@ -2834,26 +5139,82 @@
   a: condo (10-12)
 - q: mieszkanieceuroazji
   a: eurasian (11-8)
+- q: mieszkaniecwsi
+  a: cottagers (11-3)
 - q: mieszkaćnadziko
   a: squat (8-2-5)
 - q: miećwytrysk
   a: cum (4-7)
 - q: migawka
   a: shutter
+- q: migawka
+  a: clip
+- q: migdalićsię
+  a: snog (8-3)
+- q: migracyjny
+  a: migrant
+- q: migranci
+  a: migrants
+- q: migrant
+  a: migrant
+- q: migrant
+  a: migrant
+- q: migrant
+  a: przesiedleniec
+- q: migrant
+  a: wędrowny
+- q: migrant
+  a: migracyjny
+- q: migrants
+  a: migranci
+- q: migrants
+  a: przesiedleńcy
+- q: minges
+  a: 'muszki [regionalizm ze stanu maine]'
+- q: miotełka
+  a: whisk
+- q: missile
+  a: pocisk rakietowy
+- q: missiles
+  a: pociski rakietowe
 - q: mistyfikacja
   a: hoax
 - q: mizerny
   a: scrawny
 - q: mizerny
   a: wretched
+- q: mizerny
+  a: lousy
+- q: międzygwiezdny
+  a: interstellar
+- q: miłośnik
+  a: aficionado
 - q: mknąć
   a: flit
+- q: mobiletoilet
+  a: port-o-san (6-6)
+- q: mobsters
+  a: gangsterzy
+- q: mock
+  a: udawany
+- q: mock
+  a: próbny
+- q: mock
+  a: przedrzeźniać
+- q: mock
+  a: drwić
+- q: mocny
+  a: potent
 - q: mocowaniesznurkiem
   a: lashing (9-9)
+- q: modesty
+  a: skromność
 - q: mojżesz
   a: moses
 - q: mokradło
   a: swamp
+- q: mokradło
+  a: bog
 - q: molo
   a: pier
 - q: mongrel
@@ -2864,36 +5225,96 @@
   a: kundelki
 - q: mongrels
   a: kundle
+- q: monorail
+  a: jednoszynowy
+- q: monorail
+  a: kolej jednoszynowa
 - q: moose
   a: łoś
+- q: moralność
+  a: morals
+- q: morals
+  a: moralność
+- q: morals
+  a: zasady
 - q: morderczy
   a: homicidal
+- q: morels
+  a: smardze
+- q: moron
+  a: debil
 - q: morski
   a: offshore
+- q: morski
+  a: naval
 - q: moses
   a: mojżesz
 - q: mostzwodzony
   a: drawbridge (4-8)
+- q: mowabeztreści
+  a: circumlocution (4-3-6)
+- q: 'możesz[arch.]'
+  a: canst (6-7)
+- q: mroczny
+  a: somber
 - q: mrok
   a: gloom
+- q: mrok
+  a: murk
+- q: muck
+  a: błoto
+- q: muck
+  a: gnój
 - q: mufa
   a: muff
 - q: muff
   a: mufa
 - q: muff
   a: złączka
+- q: muleta
+  a: 'muleta [płachta na byka]'
+- q: 'muleta[płachtanabyka]'
+  a: muleta (6-8-2-5)
+- q: municipal
+  a: miejski
+- q: municipal
+  a: komunalny
+- q: municipality
+  a: miasto
+- q: municipality
+  a: władze miasta
+- q: municipality
+  a: gmina
+- q: murk
+  a: mrok
+- q: muslin
+  a: muślin
+- q: 'muszki[regionalizmzestanumaine]'
+  a: minges (6-12-2-5-6)
 - q: muszla
   a: conch
+- q: muł
+  a: slime
+- q: muślin
+  a: muslin
 - q: mylić
   a: confound
 - q: mączka
   a: starch
 - q: męczyć
   a: pang
+- q: męka
+  a: ordeal
+- q: młode
+  a: pups
+- q: młodociany
+  a: adolescent
 - q: młodszyoficer
   a: subaltern (7-6)
 - q: młodszyrangą
   a: subaltern (7-5)
+- q: młodzieńczy
+  a: adolescent
 - q: młócić
   a: thresh
 - q: młóckarnia
@@ -2910,6 +5331,14 @@
   a: scrawled
 - q: nabazgrolić
   a: scrawled
+- q: nabieraćcoś(np.łyżką)
+  a: scooped (8-3-4-6)
+- q: naboje
+  a: rounds
+- q: nabrzeże
+  a: wharf
+- q: nabrzeże
+  a: embankment
 - q: naczynie
   a: jug
 - q: nadawaćrytm
@@ -2922,18 +5351,30 @@
   a: malpractice
 - q: nadużycieprawa
   a: malpractice (9-5)
+- q: nadzorca/kierownikwsklepie
+  a: floorwalker (18-1-7)
 - q: nadzwyczajny
   a: formidable
 - q: nagging
   a: dokuczliwy
 - q: nagły
   a: surge
+- q: najwyższapozycja
+  a: apex (9-7)
+- q: naklejki
+  a: stickers
 - q: nakłonić
   a: budge
 - q: nakłuwacz
   a: spike
 - q: naleśnik
   a: crepe
+- q: należycie
+  a: duly
+- q: naloty
+  a: raids
+- q: namiotcyrkowy
+  a: marquee (6-7)
 - q: napawającylękiem
   a: brooding (10-6)
 - q: napierśnik
@@ -2944,36 +5385,74 @@
   a: flex
 - q: napiąć
   a: brace
+- q: napięcie
+  a: friction
 - q: naprężenie
   a: shear
 - q: napłynąćfalą
-  a: surged (8-4)
-- q: napłynąćfalą
   a: surge (8-4)
+- q: napłynąćfalą
+  a: surged (8-4)
+- q: narciarski
+  a: ski
 - q: narowisty
   a: vicious
+- q: narta
+  a: ski
 - q: narzuta
   a: coverlet
+- q: narzuta
+  a: quilt
+- q: narzuty
+  a: quilts
 - q: nasenny
   a: sleeping draught
 - q: nasmarować
   a: scrawled
 - q: nasrać
   a: crap
+- q: nastoletni
+  a: adolescent
+- q: nasyp
+  a: embankment
 - q: natężać
   a: exert
 - q: natężyć
   a: exert
+- q: naval
+  a: morski
+- q: naval
+  a: odnoszący się do marynarki wojennej
+- q: naval
+  a: '[w cytatach - imię osoby]'
+- q: nawożenie
+  a: fertilizing
 - q: nawy
   a: aisles
+- q: nay
+  a: 'nie [arch.]'
+- q: nay
+  a: ba!
+- q: nay
+  a: sprzeciw (w głosowaniu)
+- q: naziemny
+  a: overland
 - q: nałóg
   a: addictions
 - q: naśmiewaćsię
   a: sneered (9-3)
+- q: 'nie[arch.]'
+  a: nay (3-7)
+- q: 'nie[pot.]'
+  a: nope (3-6)
+- q: nienamiejscu
+  a: incongruous (3-2-7)
 - q: nieztegoświata
   a: fey (3-1-4-6)
 - q: niebawem
   a: ere long
+- q: niebawem
+  a: nigh
 - q: niecenzuralny
   a: foul
 - q: niechlujna
@@ -2984,16 +5463,26 @@
   a: shabby
 - q: niechlujny
   a: sloven
+- q: niechlujny
+  a: messy
+- q: niechęć
+  a: resentment
 - q: niedojda
   a: clod
 - q: niedorajda
   a: clod
 - q: niedołęga
   a: blunderer
+- q: niemierzalny
+  a: nonscale
 - q: nienawistny
   a: vicious
+- q: nieodłączny
+  a: intrinsic
 - q: nieogarniony
   a: inconceivable
+- q: nieostrożny
+  a: imprudent
 - q: niepewnie
   a: tentatively
 - q: niepodważalny
@@ -3004,6 +5493,10 @@
   a: oblivious
 - q: nieprawdziwy
   a: bogus
+- q: 'nieprzyjazny,wrogi[slang]'
+  a: horstile (13-5-7)
+- q: nieprzyzwoitość
+  a: obscenity
 - q: nieregularnie
   a: intermittently
 - q: nieregularnie
@@ -3012,12 +5505,20 @@
   a: intermittent
 - q: nierozważny
   a: rash
+- q: nierozważny
+  a: imprudent
 - q: niesamodzielny
   a: clinging
+- q: niesamowity
+  a: eerie
+- q: niestrawność
+  a: dyspepsia
 - q: nieszczęsny
   a: wretched
 - q: nieszczęścia
   a: afflictions
+- q: nieszczęśnik
+  a: wretch
 - q: nieszczęśnik
   a: wretch
 - q: nietrwały
@@ -3026,8 +5527,12 @@
   a: harsh
 - q: nieutulonyżal
   a: desolation (10-3)
+- q: niewagowy
+  a: nonscale
 - q: niewiarygodny
   a: inconceivable
+- q: niewierność
+  a: infidelity
 - q: niewierny
   a: infidels
 - q: niewybredny
@@ -3052,8 +5557,16 @@
   a: formidable
 - q: nieświadomy
   a: oblivious
+- q: nigh
+  a: rychły
+- q: nigh
+  a: niebawem
+- q: nigh
+  a: prawie
 - q: nikczemny
   a: vicious
+- q: nikczemny
+  a: vile
 - q: nim
   a: ere
 - q: nip
@@ -3064,6 +5577,8 @@
   a: uszczypnął
 - q: nipped
   a: jebnął
+- q: nipple
+  a: sutek
 - q: niski
   a: shallow
 - q: nit
@@ -3078,6 +5593,10 @@
   a: rookie
 - q: noclegownia
   a: flophouse
+- q: nonscale
+  a: niewagowy
+- q: nonscale
+  a: niemierzalny
 - q: noose
   a: pętla
 - q: noose
@@ -3086,10 +5605,20 @@
   a: lasso
 - q: noose
   a: stryczek
+- q: nope
+  a: 'nie [pot.]'
 - q: nora
   a: flophouse
+- q: noseeums
+  a: kuczmany (muchówki)
+- q: nosiciel
+  a: carrier
+- q: notions
+  a: pasmanteria
 - q: nuclearfission
   a: rozszczepienie atomu (7-7)
+- q: nucleus
+  a: 'jądro (atomu, komórkowe)'
 - q: nóż
   a: shank
 - q: nóżka(np.wgalarecie)
@@ -3102,6 +5631,10 @@
   a: shabby
 - q: nędzny
   a: wretched
+- q: nędzny
+  a: abject
+- q: 'oboże,dżizas[slang]'
+  a: gorry (1-5-6-7)
 - q: obalać
   a: confound
 - q: obalenie
@@ -3110,6 +5643,12 @@
   a: confound
 - q: obcisły
   a: clinging
+- q: obcy
+  a: okies
+- q: obese
+  a: otyły
+- q: obesity
+  a: otyłość
 - q: obfitość
   a: affluence
 - q: oblepiać
@@ -3120,6 +5659,8 @@
   a: cling
 - q: oblepićsię
   a: cling (7-3)
+- q: obleśny
+  a: slimy
 - q: oblivious
   a: niepomny
 - q: oblivious
@@ -3128,8 +5669,14 @@
   a: niezdający sobie sprawy
 - q: oblivious
   a: niezważający na
+- q: oblężenie
+  a: siege
 - q: obmierzły
   a: repellent
+- q: obojętnie
+  a: listlessly
+- q: obojętny
+  a: lukewarm
 - q: oboksiebie
   a: abreast (4-6)
 - q: obora
@@ -3148,8 +5695,24 @@
   a: turnover
 - q: obrączki
   a: cuffs
+- q: obręcz
+  a: hoop
+- q: obscenity
+  a: nieprzyzwoitość
+- q: obscenity
+  a: sprośność
 - q: obskurny
   a: dingy
+- q: obszarzalewowy
+  a: floodplain (6-8)
+- q: oburzenie
+  a: outrage
+- q: obywatelski
+  a: civic
+- q: obłuda
+  a: pretence
+- q: obżarstwo
+  a: binge
 - q: ochroniarz
   a: bouncer
 - q: ochryple
@@ -3158,24 +5721,44 @@
   a: hoarse
 - q: ociągaćsię
   a: lingered (7-3)
+- q: octan
+  a: acetate
+- q: octopi
+  a: ośmiornice
+- q: octoroon
+  a: 'oktoron - czarny w 1/8, mulat [obecnie obraźliwe]'
 - q: oczarować
   a: delight
+- q: oczyszczać
+  a: refine
 - q: oczyszczonyzzarzutów
   a: exonerated (11-1-8)
 - q: oczywistość
   a: platitudes
+- q: 'oczywiście[skrót.,pot.]'
+  a: accourse (10-8-5)
+- q: odbijaćsię
+  a: bounce (7-3)
 - q: odbiór
   a: receipt
+- q: odcedzanie
+  a: decanting
 - q: odchylać
   a: tilt
 - q: odchylenie
   a: tilt
+- q: odciągnięty
+  a: cocked
 - q: oddawaćsięlenistwu
   a: lounge (7-3-8)
 - q: oddawaćwzastaw
   a: pawn (7-1-6)
+- q: oddaćnaloterię
+  a: raffle (5-2-7)
 - q: oddaćwzastaw
   a: pawn (5-1-6)
+- q: oddziałyszpitalne
+  a: wards (8-9)
 - q: odkleić
   a: unstuck
 - q: odklejać
@@ -3184,18 +5767,40 @@
   a: divulge
 - q: odkręcić
   a: unravel
+- q: odkładanienapóźniej
+  a: procrastinating (10-2-7)
+- q: odkładanienapóźniej
+  a: procrastination (10-2-7)
 - q: odkładać
   a: adjourned
 - q: odlewnia
   a: foundry
+- q: odliczanie
+  a: countdown
 - q: odmęt
   a: whirlpool
+- q: odnoszącysiędomarynarkiwojennej
+  a: naval (9-3-2-9-8)
+- q: odnoszącysiędonaukipodczassnu
+  a: hypnopaedic (9-3-2-5-7-3)
+- q: odor
+  a: zapach
+- q: odor
+  a: odór
+- q: odpadki
+  a: litter
+- q: odpadki
+  a: scraps
 - q: odpychający
   a: repellent
 - q: odraczać
   a: adjourned
 - q: odrażający
   a: repellent
+- q: odroczenia
+  a: deferrals
+- q: odroczenie
+  a: deferral
 - q: odroczyć
   a: adjourned
 - q: odrost
@@ -3210,8 +5815,14 @@
   a: daring
 - q: odwołaniezurzędu
   a: deposition (9-1-6)
+- q: odwrotnie
+  a: conversely
+- q: odwrót
+  a: retreat
 - q: odwyk
   a: rehab
+- q: odór
+  a: odor
 - q: offshore
   a: na morzu
 - q: offshore
@@ -3220,10 +5831,14 @@
   a: przybrzeżny
 - q: offshore
   a: zagraniczny
+- q: oft
+  a: 'często [lit./arch.]'
 - q: ogołocić
   a: shear
 - q: ograniczenie
   a: restraint
+- q: 'ogrodzeniearenydowalkibyków[hiszp.]'
+  a: barrera (10-5-2-5-5-8)
 - q: ogrodzonyteren
   a: compound (9-5)
 - q: ogromny
@@ -3242,18 +5857,40 @@
   a: adjourned (7-7)
 - q: ohydny
   a: atrocious
+- q: okapydachowe
+  a: eaves (5-7)
+- q: okazja
+  a: bargain
 - q: okiennica
   a: shutter
+- q: okies
+  a: 'oklaki [imigranci z oklahomy]'
+- q: okies
+  a: obcy
+- q: 'oklaki[imigrancizoklahomy]'
+  a: okies (6-10-1-9)
 - q: okołopółlitra
   a: pint (5-3-5)
 - q: okresowo
   a: intermittently
 - q: okresowy
   a: intermittent
+- q: określićilościowo
+  a: quantify (8-9)
 - q: okropny
   a: atrocious
+- q: okropny
+  a: gruesome
 - q: okrutny
   a: atrocious
+- q: 'okryty[szczególnieokrytycałunem]'
+  a: shrouded (6-12-6-8)
+- q: oksytocyna
+  a: oxytocin
+- q: 'oktoron-czarnyw1/8,mulat[obecnieobraźliwe]'
+  a: octoroon (7-1-6-1-4-5-8-10)
+- q: olśniewający
+  a: gorgeous
 - q: ominous
   a: złowieszczy
 - q: ominous
@@ -3266,16 +5903,36 @@
   a: farthings (3-7-2-2-3-5)
 - q: onieśmielający
   a: formidable
+- q: opadać
+  a: flop
+- q: opanowanie
+  a: poise
 - q: opaskażałobna
   a: crepe (6-7)
+- q: opat
+  a: abbot
 - q: opieka
   a: custody
+- q: opiekunosobystarszej/dziecka
+  a: carer (7-5-16)
 - q: oprych
   a: hoodlum
 - q: opryskiwacz
   a: sprinkler
 - q: opryszek
   a: thug
+- q: opóźniony
+  a: lagging
+- q: opłakany
+  a: abject
+- q: opłata
+  a: toll
+- q: ordeal
+  a: męka
+- q: ordeal
+  a: gehenna
+- q: ordeal
+  a: próba
 - q: orderly
   a: ordynans
 - q: orderly
@@ -3284,14 +5941,32 @@
   a: orderly
 - q: ordynarny
   a: coarse
+- q: organizacjacharytatywna
+  a: charity (11-12)
+- q: orgia
+  a: orgy
+- q: orgy
+  a: orgia
 - q: orzech
   a: walnut
 - q: orzechwłoski
   a: walnut (6-6)
+- q: osad
+  a: slime
+- q: osiągnąć
+  a: attain
 - q: oskarżyć
   a: indict
+- q: osmolony
+  a: blackened
+- q: osobanadzorującaprzebiegegzaminu
+  a: proctor (5-11-8-8)
 - q: osobawykonującarozbiórkędomów
   a: knacker (5-10-9-5)
+- q: osobliwy
+  a: incongruous
+- q: osobliwy
+  a: quaint
 - q: osobnicy
   a: chaps
 - q: osobnik
@@ -3300,22 +5975,50 @@
   a: heirs (5-12)
 - q: osowiały
   a: dejected
+- q: ospale
+  a: listlessly
 - q: ostoja
   a: prop
 - q: ostroga
   a: spur
+- q: ostrokrzew
+  a: holly
+- q: ostry(np.ból)
+  a: severe (5-4-4)
 - q: ostrze
   a: shank
 - q: ostrze
   a: spike
+- q: ostrzeniebrzytwynapasku
+  a: stropping (9-7-2-5)
 - q: oszust
   a: hoodlum
 - q: osłona
   a: sheath
+- q: osłonaoczu
+  a: visor (6-4)
 - q: otoczak
   a: pebble
 - q: otręby
   a: chaff
+- q: otter
+  a: wydra
+- q: otyłość
+  a: obesity
+- q: otyły
+  a: obese
+- q: oubliette
+  a: loch
+- q: outfield
+  a: zapole (część boiska do baseballa)
+- q: outrage
+  a: oburzenie
+- q: outrage
+  a: zniewaga
+- q: outrage
+  a: skandal
+- q: ovary
+  a: jajnik
 - q: overall
   a: ogólne
 - q: overall
@@ -3334,10 +6037,24 @@
   a: kombinezon
 - q: overalls
   a: farmerki
+- q: overland
+  a: lądowy
+- q: overland
+  a: naziemny
+- q: overland
+  a: pociąg "overland"
+- q: owczarkiszkockie
+  a: collies (8-8)
 - q: owrzodzenie
   a: ulcer
+- q: oxytocin
+  a: oksytocyna
 - q: ozdoba
   a: adornment
+- q: oślizgły
+  a: slimy
+- q: ośmiornice
+  a: octopi
 - q: ożywczy
   a: reviving
 - q: pachołek
@@ -3360,8 +6077,26 @@
   a: zagroda dla młodych koni
 - q: padlina
   a: carcass
+- q: padnij-powstań
+  a: burpees
+- q: pagony
+  a: epaulets
 - q: pagórek
   a: knoll
+- q: pagórek
+  a: hummock
+- q: pagórki
+  a: hummocks
+- q: pajamas
+  a: piżama
+- q: paker
+  a: hunky
+- q: palenisko
+  a: hearth
+- q: palnik
+  a: blowtorch
+- q: palnik
+  a: burner
 - q: paltry
   a: marny
 - q: paltry
@@ -3372,6 +6107,16 @@
   a: śmiesznie mały
 - q: paltry
   a: lichy
+- q: paluszek
+  a: tootsie
+- q: pamiątka
+  a: remembrance
+- q: pampers
+  a: pampersy
+- q: pampersy
+  a: pampers
+- q: panmłody
+  a: groom (3-5)
 - q: pancerz
   a: breastplate
 - q: pang
@@ -3386,6 +6131,10 @@
   a: dręczyć
 - q: pang
   a: torturować
+- q: panienki
+  a: chicks
+- q: pannamłoda
+  a: bride (5-5)
 - q: panować
   a: prevail
 - q: panujący
@@ -3396,10 +6145,18 @@
   a: masa papierowa (6-5)
 - q: papierywartościowe
   a: securities (7-11)
+- q: papież
+  a: pope
 - q: papka
   a: mash
+- q: paprocie
+  a: ferns
+- q: parada
+  a: carnival
 - q: paragon
   a: receipt
+- q: paramedic
+  a: ratownik medyczny
 - q: parasol
   a: parasol
 - q: parasol
@@ -3408,20 +6165,58 @@
   a: brolly
 - q: parasol
   a: umbrella
+- q: parka
+  a: anorak
+- q: parkingowy
+  a: attendant
+- q: parobek
+  a: skinner
 - q: parsknąć
   a: snort
 - q: parson
   a: proboszcz
+- q: parsonage
+  a: plebania
+- q: parsonage
+  a: probostwo
 - q: parsons
   a: proboszcze
+- q: parszywy
+  a: lousy
 - q: partaczyć
   a: mangle
+- q: partiality
+  a: stronniczość
+- q: partiality
+  a: słabość
+- q: parów
+  a: gulch
 - q: pasaż
   a: mall
+- q: pasaż
+  a: arcade
+- q: pasjans
+  a: solitaire
 - q: paskudny
   a: vicious
 - q: paskudny
   a: wretched
+- q: pasmanteria
+  a: notions
+- q: pasmo
+  a: streak
+- q: passa
+  a: streak
+- q: passbooks
+  a: książeczki oszczędnościowe
+- q: pastor
+  a: vicar
+- q: pastorał/pędpaproci
+  a: fiddlehead (12-7)
+- q: pastorały/pędypaproci
+  a: fiddleheads (14-7)
+- q: pastorzy
+  a: vicars
 - q: pat
   a: poklepać
 - q: pat
@@ -3436,8 +6231,28 @@
   a: lofty
 - q: patos
   a: bombast
+- q: patriarch
+  a: patriarcha
+- q: patriarch
+  a: przywódca
+- q: patriarcha
+  a: patriarch
+- q: patriarchal
+  a: patriarchalny
+- q: patriarchalny
+  a: patriarchal
+- q: patronka
+  a: patronne
+- q: patronne
+  a: patronka
+- q: patronne
+  a: gospodyni
+- q: patronne
+  a: kierowniczka
 - q: patroszyć
   a: gut
+- q: pawilon
+  a: marquee
 - q: pawn
   a: żołnierz
 - q: pawn
@@ -3452,6 +6267,16 @@
   a: oddać w zastaw
 - q: pawn
   a: oddawać w zastaw
+- q: payoff
+  a: spłata
+- q: payoff
+  a: wypłata
+- q: payoff
+  a: korzyść
+- q: 'pałkarz[wbaseballu]'
+  a: batter (7-2-10)
+- q: peas
+  a: groch
 - q: peat
   a: torf
 - q: peat
@@ -3462,8 +6287,22 @@
   a: otoczak
 - q: pebble
   a: toczeniec
+- q: peck
+  a: stuk
+- q: peck
+  a: dziobnięcie
 - q: pectoral
   a: piersiowy
+- q: pedał
+  a: fag
+- q: pedały
+  a: fags
+- q: pedestal
+  a: piedestał
+- q: pedestal
+  a: cokół
+- q: pedestal
+  a: szafka z szufladami
 - q: peevish
   a: drażliwy
 - q: peevish
@@ -3482,6 +6321,14 @@
   a: granulka
 - q: pellets
   a: granulat
+- q: penitence
+  a: skrucha
+- q: penitence
+  a: żal
+- q: penitentiary
+  a: (zakład) karny
+- q: penitentiary
+  a: (zakład) poprawczy
 - q: pent
   a: zamknięty
 - q: pent
@@ -3496,6 +6343,10 @@
   a: skrywany
 - q: pent
   a: zdławiony
+- q: perceive
+  a: postrzegać
+- q: perceive
+  a: zauważać
 - q: perch
   a: żerdź
 - q: perch
@@ -3504,6 +6355,10 @@
   a: siedzieć na grzędzie
 - q: perjury
   a: krzywoprzysięstwo
+- q: pernod
+  a: pernod (rodzaj absyntu)
+- q: pernod(rodzajabsyntu)
+  a: pernod (6-7-8)
 - q: perpetuate
   a: zachować
 - q: perpetuate
@@ -3526,8 +6381,20 @@
   a: kinkiness
 - q: perwersyjny
   a: kinky
+- q: peryfraza
+  a: circumlocution
+- q: pestilence
+  a: zaraza
+- q: pestilence
+  a: dżuma
 - q: pewność
   a: certitude
+- q: phial
+  a: fiolka
+- q: phial
+  a: buteleczka
+- q: phial
+  a: ampułka
 - q: phonebooth
   a: budka telefoniczna (5-5)
 - q: phoney
@@ -3536,36 +6403,80 @@
   a: frothing
 - q: piasek
   a: grit
+- q: piaskowydziadek
+  a: sandman (8-7)
+- q: piaskun
+  a: sandman
 - q: piasta
   a: hub
+- q: pickers
+  a: 'zbieracze (np. owoców, grzybów)'
 - q: piecza
   a: custody
+- q: piedestał
+  a: pedestal
+- q: pielęgnować
+  a: foster
 - q: pienić
   a: frothing
 - q: pienićsię
   a: frothing (6-3)
+- q: 'pieprzony/pierdolony[alt."fucking"]'
+  a: fugging (20-5-10)
 - q: pier
   a: molo
+- q: pierced
+  a: przebity
+- q: pierced
+  a: przeszyty
 - q: pierdoły
   a: crap
+- q: pierdoły
+  a: bollocks
 - q: piersiowy
   a: pectoral
 - q: pierwotny
   a: primordial
+- q: pierś
+  a: bosom
+- q: pierścień
+  a: hoop
+- q: pies
+  a: placki
+- q: pies
+  a: ciasta
 - q: pieszczoty
   a: caresses
+- q: pieszczoty
+  a: snog
 - q: pień
   a: stump
 - q: pieścić
   a: caress
+- q: pigeon
+  a: gołąb
 - q: pijak
   a: tippler
+- q: pijak
+  a: drunkard
+- q: pilny
+  a: diligent
+- q: pinched
+  a: 'aresztowany [arch.]'
+- q: pinched
+  a: uszczypnięty
 - q: pint
   a: duże piwo
 - q: pint
   a: około pół litra
 - q: pint
   a: kufel
+- q: pints
+  a: pinty
+- q: pints
+  a: kufle
+- q: pinty
+  a: pints
 - q: pion
   a: pawn
 - q: pionek
@@ -3574,18 +6485,52 @@
   a: affidavit (7-12-7-3-9)
 - q: pisk
   a: screech
+- q: pisklęta
+  a: chicks
 - q: pismak
   a: hack
+- q: pissant
+  a: zasraniec
+- q: pissant
+  a: gnojek
+- q: pisser
+  a: kibel
+- q: pisser
+  a: cholerna robota
+- q: pizda
+  a: cunt
+- q: piórkokulkowe
+  a: ballpoint (6-7)
 - q: piąć(konia)
   a: spur (4-7)
+- q: pięciolinia
+  a: stave
+- q: piętro
+  a: storey
+- q: piłowanie
+  a: sawing
+- q: piżama
+  a: pajamas
+- q: placki
+  a: pies
+- q: placówka
+  a: establishment
 - q: plague
   a: zaraza
 - q: plama
   a: blotch
 - q: plamić
   a: blotch
+- q: plandeka
+  a: tarp
 - q: plaskać
   a: slap
+- q: plateau
+  a: płaskowyż
+- q: plateau
+  a: zastój
+- q: plateau
+  a: stabilizacja
 - q: platformtrailer
   a: laweta (8-7)
 - q: platitudes
@@ -3594,16 +6539,32 @@
   a: wiarygodny
 - q: plausible
   a: sensowny
+- q: plebania
+  a: parsonage
 - q: plewa
   a: chaff
+- q: pliers
+  a: szczypce
+- q: pliers
+  a: kombinerki
 - q: plisowany
   a: tucked
+- q: plisowany
+  a: accordion
+- q: plony
+  a: crops
 - q: pluck
   a: podroby
 - q: pluck
   a: zrywać
 - q: plugawy
   a: sordid
+- q: plunger
+  a: tłok
+- q: plunger
+  a: przepychacz
+- q: plunger
+  a: popychacz
 - q: pluskać
   a: paddle
 - q: pluskać
@@ -3612,8 +6573,14 @@
   a: firing squad (6-11)
 - q: pluśnięcie
   a: sucking sound
+- q: plywood
+  a: sklejka
+- q: plywood
+  a: dykta
 - q: plątać
   a: tangle
+- q: pneumonic
+  a: płucny
 - q: pniak
   a: stump
 - q: pnący
@@ -3624,6 +6591,10 @@
   a: casual
 - q: pobliże
   a: vicinity
+- q: pobudzenie
+  a: arousal
+- q: pocałunek
+  a: snog
 - q: pochopny
   a: rash
 - q: pochwa
@@ -3634,10 +6605,28 @@
   a: hunch (8-3)
 - q: pochyły
   a: slant
+- q: pociecha
+  a: solace
+- q: pocieszyciel
+  a: comforter
+- q: pociskrakietowy
+  a: missile (6-9)
+- q: pociskirakietowe
+  a: missiles (7-9)
+- q: pociąg"overland"
+  a: overland (6-10)
+- q: pociągitowarowe
+  a: freights (7-8)
 - q: poczęty
   a: conceived
+- q: podarty/pociętynastrzępy
+  a: shredded (15-2-7)
+- q: podbity
+  a: conquered
 - q: podchodzićwgórę
   a: well (10-1-4)
+- q: podcienia
+  a: arcade
 - q: podciągać
   a: hike
 - q: podciągnąć
@@ -3646,6 +6635,10 @@
   a: well (7-1-4)
 - q: podgłówek
   a: bolster
+- q: podniecenie
+  a: arousal
+- q: podniesiony
+  a: cocked
 - q: podnieść
   a: hike
 - q: podnieśćkrzyk
@@ -3660,6 +6653,8 @@
   a: clamor (8-5)
 - q: podnosićwrzawę
   a: clamor (8-6)
+- q: podobno
+  a: reportedly
 - q: podpora
   a: prop
 - q: podpórka
@@ -3670,6 +6665,10 @@
   a: flitted
 - q: podskórny
   a: hypodermic
+- q: podstawowy
+  a: cardinal
+- q: podszyty
+  a: laced
 - q: podtrzymywać
   a: bolster
 - q: podwładny
@@ -3680,10 +6679,22 @@
   a: shabby
 - q: podły
   a: vicious
+- q: podły
+  a: abject
+- q: podły
+  a: vile
+- q: pogarda
+  a: contempt
+- q: pogardzany
+  a: despised
 - q: pogięty
   a: bunched
 - q: pognieciony
   a: crumpled
+- q: pogodny
+  a: serene
+- q: pogromcy
+  a: busters
 - q: pogruchotać
   a: mangle
 - q: pogłaskać
@@ -3692,32 +6703,63 @@
   a: mangle
 - q: poirytowany
   a: peevish
+- q: poise
+  a: opanowanie
+- q: poise
+  a: równowaga
 - q: pojemnik
   a: jug
+- q: pojemniki
+  a: jugs
 - q: pojęty
   a: conceived
+- q: 'pokazać[arch.]'
+  a: shew (7-7)
 - q: poklepać
   a: pat
+- q: pokojewakademiku
+  a: dorms (6-1-9)
+- q: pokonany
+  a: conquered
 - q: pokrycie
   a: cladding
+- q: pokryty
+  a: strewn
+- q: pokrytyśluzem
+  a: slimy (7-6)
+- q: pokrywa
+  a: manhole
+- q: pokrywastudni/otworu/odwiertu
+  a: wellcap (7-22)
 - q: pokrzyżować
   a: confound
 - q: pokręcony
   a: batty
 - q: pokwitowanie
   a: receipt
+- q: pokójwakademiku
+  a: dorm (5-1-9)
+- q: >-
+    polano,kłoda(dosłownie"długośćpieca",tzn.kawałekdrewnaopałowego,któryzmieścisięwpiecu)
+  a: stovelength (7-5-10-8-7-4-7-6-10-5-7-3-1-6)
 - q: polegolfowe
   a: links (4-7)
 - q: poletko
   a: acre
+- q: pomagier
+  a: swamper
 - q: pomiot
   a: brood
 - q: pomiot
   a: brood
 - q: pomiędzy
   a: amid
+- q: 'pomiędzy[lit.]'
+  a: betwixt (8-6)
 - q: pomylić
   a: confound
+- q: 'pomysł,myśl[formacharakterystycznawrejonieappalachów]'
+  a: idear (7-4-6-17-1-7-11)
 - q: pomyłkalekarska
   a: malpractice (7-8)
 - q: ponura
@@ -3725,41 +6767,123 @@
 - q: ponure
   a: sombre
 - q: ponury
+  a: brooding
+- q: ponury
   a: sombre
 - q: ponury
-  a: brooding
+  a: somber
+- q: poodle
+  a: pudel
+- q: poosh
+  a: >-
+    [prawdopodobnie chodzi o slangową/regionalną formę słowa 'push'
+    oznaczającego remis w grze w blackjacka]
+- q: popapranie
+  a: fuckwittage
+- q: pope
+  a: papież
+- q: pope
+  a: '[w cytatach - imię bohatera, właśc. popé]'
 - q: popełniaćgafę
   a: blunder (9-4)
 - q: popełniaćnietakt
   a: blunder (9-7)
+- q: popielaty
+  a: ashen
 - q: popiersie
   a: bust
 - q: popieścić
   a: caress
+- q: popijawa
+  a: binge
+- q: poppy
+  a: mak
+- q: poppy
+  a: maczek
+- q: poprzedza
+  a: precedes
 - q: popsuć
   a: bust
+- q: populace
+  a: ludność
+- q: populace
+  a: populacja
+- q: populace
+  a: tłum
+- q: populacja
+  a: populace
+- q: popychacz
+  a: plunger
 - q: porkers
   a: tucznik
+- q: port-o-san
+  a: portable toilet
+- q: port-o-san
+  a: mobile toilet
+- q: port-o-san
+  a: thunderbox
+- q: port-o-san
+  a: portaloo
+- q: port-o-san
+  a: porta-john
+- q: port-o-san
+  a: porta-potty
+- q: porta-john
+  a: port-o-san
+- q: porta-potty
+  a: port-o-san
+- q: portabletoilet
+  a: port-o-san (8-6)
+- q: portaloo
+  a: port-o-san
 - q: poruszyć
   a: budge
+- q: porwanie
+  a: snatch
+- q: 'porywacz[pot.]'
+  a: babynapper (8-6)
+- q: porywać
+  a: snatch
 - q: porywisty
   a: sheer
 - q: porywisty
   a: vicious
+- q: posh
+  a: luksusowy
+- q: posh
+  a: ekskluzywny
+- q: posh
+  a: z wyższych sfer
 - q: pospieszny
   a: snap
+- q: pospolity
+  a: vulgar
 - q: postawićwstanoskarżenia
   a: indict (8-1-4-10)
+- q: postrzegać
+  a: perceive
 - q: postrzępiony
   a: scraggly
+- q: postura
+  a: stature
 - q: posypywaćpiaskiem
   a: grit (9-8)
+- q: poszatkowany
+  a: shredded
 - q: posępna
   a: sombre
 - q: posępne
   a: sombre
 - q: posępny
   a: sombre
+- q: posępnynastrój
+  a: sulk (7-7)
+- q: potent
+  a: mocny
+- q: potent
+  a: silny
+- q: potent
+  a: skuteczny
 - q: potknięcie
   a: stumbled
 - q: potknąćsię
@@ -3778,6 +6902,10 @@
   a: formidable
 - q: pouch
   a: sakiewka
+- q: poważny
+  a: severe
+- q: powielać
+  a: replicate
 - q: powiernik
   a: trustee
 - q: powierzchniowy
@@ -3786,8 +6914,14 @@
   a: shallow
 - q: powierzchowny
   a: superficial
+- q: powietrzny
+  a: aerial
 - q: powiązanie
   a: connexion
+- q: 'powtórzenia(podczaswykonywaniaćwiczeń)[pot.]'
+  a: reps (11-8-11-8-6)
+- q: powóz
+  a: chaise
 - q: powędrować
   a: hike
 - q: powłoka
@@ -3796,14 +6930,24 @@
   a: restraint
 - q: powściągliwy
   a: stolid
+- q: pozbywaćsię
+  a: dump (8-3)
 - q: pozew
   a: summons
 - q: pozostać
   a: lingered
 - q: pozostałość
   a: remnants
+- q: pozycjaspołeczna
+  a: stature (7-9)
+- q: pozór
+  a: pretence
 - q: pozłota
   a: gilt
+- q: położna
+  a: midwife
+- q: poły
+  a: flaps
 - q: połączenie
   a: composite
 - q: połączenie
@@ -3812,12 +6956,60 @@
   a: buttock
 - q: pośladki
   a: buttocks
+- q: pożar
+  a: blaze
+- q: pracadorywcza
+  a: gig (5-8)
+- q: pracedorywcze
+  a: gigs (5-8)
+- q: pracownik
+  a: attendant
+- q: pracownikfizyczny
+  a: swamper (9-8)
+- q: pracowniksklepu
+  a: stockboy (9-6)
+- q: praczka
+  a: washerwoman
+- q: pragnienia
+  a: cravings
+- q: pragnienie
+  a: craving
+- q: pragnąć
+  a: crave
 - q: prawaręka
   a: aide (5-4)
+- q: prawie
+  a: nigh
 - q: prawowity
   a: legitimate
 - q: prawy
   a: righteous
+- q: precedes
+  a: poprzedza
+- q: predestination
+  a: predestynacja
+- q: predestination
+  a: przeznaczenie
+- q: predestinator
+  a: 'ktoś, kto predestynuje'
+- q: predestynacja
+  a: predestination
+- q: predispose
+  a: predysponować
+- q: predispose
+  a: czynić podatnym
+- q: predysponować
+  a: predispose
+- q: pretence
+  a: pretensja
+- q: pretence
+  a: pozór
+- q: pretence
+  a: obłuda
+- q: pretensja
+  a: rancor
+- q: pretensja
+  a: pretence
 - q: prevail
   a: dominować
 - q: prevail
@@ -3838,20 +7030,54 @@
   a: słup
 - q: prism
   a: graniastosłup
+- q: prism
+  a: pryzmat
+- q: prithee
+  a: 'proszę [arch.]'
 - q: probate
   a: urzędowe zatwierdzenie testamentu
 - q: probate
   a: uwierzytelnić
 - q: probate
   a: uwierzytelniać
+- q: probostwo
+  a: parsonage
 - q: proboszcz
   a: parson
+- q: proboszcz
+  a: provost
 - q: proboszcze
   a: parsons
+- q: proca
+  a: slingshot
+- q: procrastinating
+  a: prokrastynowanie
+- q: procrastinating
+  a: odkładanie na później
+- q: procrastination
+  a: prokrastynacja
+- q: procrastination
+  a: odkładanie na później
+- q: proctor
+  a: osoba nadzorująca przebieg egzaminu
+- q: prodigies
+  a: geniusze
+- q: prodigies
+  a: genialne dzieci
+- q: profanacja
+  a: sacrilege
+- q: profesh
+  a: 'profesjonalista, spec [slang]'
+- q: 'profesjonalista,spec[slang]'
+  a: profesh (16-4-7)
 - q: progeny
   a: potomstwo
 - q: progeny
   a: latorośl
+- q: prokrastynacja
+  a: procrastination
+- q: prokrastynowanie
+  a: procrastinating
 - q: prole
   a: robol
 - q: prole
@@ -3880,12 +7106,30 @@
   a: śmigło
 - q: prop
   a: filar skrzydłowy
+- q: prostacki
+  a: vulgar
+- q: prostration
+  a: skrajne wyczerpanie
+- q: prostration
+  a: płaszczenie się
+- q: 'proszę[arch.]'
+  a: prithee (6-7)
 - q: provocateur
   a: prowokantka
 - q: provocateur
   a: prowokator
+- q: provost
+  a: rektor
+- q: provost
+  a: proboszcz
+- q: provost
+  a: administrator
+- q: prowadzeniedziennika
+  a: journaling (11-9)
 - q: prowizja
   a: commission
+- q: prowizoryczny
+  a: makeshift
 - q: prowokantka
   a: provocateur
 - q: prowokator
@@ -3896,8 +7140,12 @@
   a: unravel
 - q: prychnąć
   a: snort
+- q: prycza
+  a: cot
 - q: prymitywny
   a: primordial
+- q: pryzmat
+  a: prism
 - q: pryzmat
   a: prism
 - q: przaśny
@@ -3910,22 +7158,40 @@
   a: flit
 - q: przebiegł
   a: flitted
+- q: przebity
+  a: pierced
 - q: przecieranie
   a: ripping
 - q: przeciąg
   a: draft
 - q: przeciąg
   a: draught
+- q: przeczesywanie
+  a: raking
 - q: przeczucie
   a: hunch
 - q: przed
   a: ere
 - q: przedświtem
   a: ere break of day (5-6)
+- q: przedniaszyba(wsamochodzie)
+  a: windshield (8-5-2-12)
+- q: przedrzeźniać
+  a: mock
+- q: przedsięwzięcie
+  a: endeavour
+- q: 'przedstawiciel[pot.]'
+  a: rep (14-6)
 - q: przedtem
   a: ere now
 - q: przedziałek
   a: cleft
+- q: przeformułowanie
+  a: reframing
+- q: przeformułować
+  a: reframe
+- q: przegroda
+  a: bulkhead
 - q: przejmujący
   a: vicious
 - q: przejrzysty
@@ -3936,52 +7202,112 @@
   a: aisles
 - q: przejście
   a: aisle
+- q: przekazywać
+  a: convey
 - q: przeklęty
   a: wretched
 - q: przekonanie
   a: conviction
+- q: przekręt
+  a: con
+- q: przekręt
+  a: graft
+- q: przekręty
+  a: cons
+- q: przekręty
+  a: grafts
 - q: przekładać
   a: adjourned
 - q: przekłamać
   a: mangle
+- q: przelecieć
+  a: shag
+- q: przelewanie
+  a: decanting
+- q: przelewaniezpustegowpróżne
+  a: circumlocution (11-1-7-1-6)
 - q: przemknąć
   a: flit
 - q: przemknął
   a: flitted
+- q: przemoczony
+  a: drenched
 - q: przemykać
   a: flit
+- q: przepierzenie
+  a: bulkhead
 - q: przepięcie
   a: surge
 - q: przepustnica
   a: throttle
+- q: przepychacz
+  a: plunger
+- q: przepychać(się)
+  a: shove (10-5)
+- q: przerażający
+  a: gruesome
+- q: przerażony
+  a: dismayed
 - q: przerwać
   a: adjourned
 - q: przerywany
   a: intermittent
 - q: przerywać
   a: adjourned
+- q: przesiedleniec
+  a: migrant
+- q: przesiedleńcy
+  a: migrants
 - q: przesuwać
   a: adjourned
 - q: przeszkoda
   a: drag
+- q: przeszukiwanie
+  a: raking
+- q: przeszukiwać
+  a: rummaging
+- q: przeszyty
+  a: pierced
+- q: przewozy
+  a: freights
+- q: przewoźnik
+  a: carrier
+- q: przewracaćdogórynogami
+  a: rummaging (10-2-4-6)
+- q: przewóz
+  a: freight
+- q: przeznaczenie
+  a: predestination
 - q: przełożyć
   a: adjourned
 - q: przeświadczenie
   a: conviction
 - q: przybity
   a: dejected
+- q: przyborykuchenne
+  a: cookware (8-8)
 - q: przybrzeżny
   a: offshore
+- q: przybrzeżny
+  a: seacoast
+- q: przychylnenastawienie
+  a: agreeableness (10-11)
+- q: przyczaićsię
+  a: crouch (9-3)
 - q: przyczepa
   a: trailer
 - q: przygnębienie
   a: gloom
+- q: przyjazny
+  a: amiable
 - q: przykazania
   a: commandments
 - q: przykazanie
   a: commandment
 - q: przykucnąć
   a: squat
+- q: przykucnąć
+  a: crouch
 - q: przykucnął
   a: squatted
 - q: przykucnęła
@@ -3996,6 +7322,8 @@
   a: slick
 - q: przypaśćdoziemi
   a: squat (8-2-5)
+- q: przypisykońcowe
+  a: endnotes (8-7)
 - q: przypuszczalny
   a: alleged
 - q: przypuszczalny
@@ -4010,20 +7338,44 @@
   a: squat
 - q: przysiad
   a: squat
+- q: przysiad
+  a: crouch
+- q: przystań
+  a: wharf
+- q: przystojniak
+  a: hunky
 - q: przysłowie
   a: maxim
 - q: przytomność
   a: lucid
 - q: przytułek
   a: flophouse
+- q: przywary
+  a: vices
 - q: przywierać
   a: cling
 - q: przywołać
   a: summon
 - q: przywrzeć
   a: cling
+- q: przywódca
+  a: patriarch
 - q: przyzwoitość
   a: decorum
+- q: próba
+  a: ordeal
+- q: próbny
+  a: mock
+- q: próżny
+  a: smug
+- q: prątek
+  a: bacillus
+- q: pręgowce
+  a: chipmunks
+- q: pręt
+  a: rod
+- q: pręty
+  a: rods
 - q: prężyć
   a: flex
 - q: psiakość
@@ -4038,6 +7390,14 @@
   a: shrinks
 - q: psychoanalityk
   a: shrinks
+- q: pudel
+  a: poodle
+- q: pueblo
+  a: pueblo
+- q: pueblo
+  a: pueblo
+- q: pueblo
+  a: małe miasteczko
 - q: pulley
   a: koło pasowe
 - q: pulley
@@ -4054,24 +7414,60 @@
   a: gówniarz
 - q: punk
   a: smarkacz
+- q: pupa
+  a: arse
+- q: pups
+  a: szczeniaki
+- q: pups
+  a: młode
+- q: purty
+  a: 'ładny [slang]'
+- q: pustelnik
+  a: recluse
 - q: pustka
   a: desolation
 - q: pustkowie
   a: desolation
 - q: puszka
   a: tin
+- q: puszkowany
+  a: canned
+- q: pyre
+  a: stos pogrzebowy
 - q: pyszałkowaty
   a: conceited
 - q: pył
   a: grit
+- q: półkole
+  a: crescent
+- q: półksiężyc
+  a: crescent
+- q: pączek
+  a: doughnut
 - q: pękaty
   a: squat
+- q: pęknięcia
+  a: fractures
 - q: pętla
   a: noose
+- q: płaca
+  a: wage
+- q: płaskowyż
+  a: plateau
+- q: płaszczeniesię
+  a: prostration (11-3)
+- q: płatekucha
+  a: earlobe (6-4)
 - q: płetwa
   a: paddle
+- q: płucny
+  a: pneumonic
+- q: płukaćgardło
+  a: gargle (6-6)
 - q: płycizna
   a: shallow
+- q: płyndopłukaniagardła
+  a: gargle (4-2-8-6)
 - q: płytagipsowo-kartonowa
   a: wallboard (5-17)
 - q: płytaregipsowa
@@ -4082,8 +7478,16 @@
   a: slick
 - q: płytki
   a: superficial
+- q: płytychodnikowe
+  a: flags (5-10)
 - q: pływowy
   a: tidal
+- q: quaint
+  a: osobliwy
+- q: quaint
+  a: uroczy
+- q: quantify
+  a: określić ilościowo
 - q: quarry
   a: kamieniołom
 - q: quarry
@@ -4094,12 +7498,52 @@
   a: zaspokoić
 - q: quench
   a: ugasić pragnienie
+- q: quid
+  a: 'funciak [pot.]'
+- q: quilt
+  a: kołdra
+- q: quilt
+  a: narzuta
+- q: quilts
+  a: kołdry
+- q: quilts
+  a: narzuty
+- q: quoth
+  a: 'rzekł [arch.]'
+- q: rabarbar
+  a: rhubarb
+- q: raca
+  a: flare
+- q: radny
+  a: councillor
 - q: radość
   a: elation
+- q: radzićsobie
+  a: cope (6-5)
+- q: raffle
+  a: loteria
+- q: raffle
+  a: oddać na loterię
+- q: rafinować
+  a: refine
 - q: ragbag
   a: a collection of things that appear to have little connection with each other
+- q: raids
+  a: naloty
+- q: raids
+  a: ataki
+- q: raids
+  a: rajdy
+- q: rajdy
+  a: raids
 - q: rakietkadotenisastołowego
   a: paddle (8-2-6-9)
+- q: raking
+  a: przeszukiwanie
+- q: raking
+  a: grabienie
+- q: raking
+  a: przeczesywanie
 - q: ramaoknaotwieranegopionowo
   a: sash (4-4-11-7)
 - q: ramble
@@ -4108,12 +7552,30 @@
   a: wędrować
 - q: ramięwramię
   a: abreast (5-1-5)
+- q: rancor
+  a: uraza
+- q: rancor
+  a: pretensja
+- q: rand
+  a: jednostka monetarna w rpa
+- q: rand
+  a: '[w cytatach - nazwisko bohatera]'
+- q: rands
+  a: jednostka monetarna w rpa (l. mn.)
+- q: rands
+  a: '[w cytatach - nazwisko bohaterów]'
 - q: rash
   a: wysypka
 - q: rash
   a: pochopny
 - q: rash
   a: nierozważny
+- q: ratownikmedyczny
+  a: paramedic (8-8)
+- q: ravages
+  a: zniszczenia
+- q: ravages
+  a: spustoszenie
 - q: ravine
   a: wąwóz
 - q: receipt
@@ -4124,6 +7586,14 @@
   a: kwit
 - q: receipt
   a: pokwitowanie
+- q: receptors
+  a: receptory
+- q: receptory
+  a: receptors
+- q: recluse
+  a: samotnik
+- q: recluse
+  a: pustelnik
 - q: redherring
   a: fałszywy trop (3-7)
 - q: redherring
@@ -4136,6 +7606,20 @@
   a: rudy
 - q: redhead
   a: ruda
+- q: refine
+  a: doskonalić
+- q: refine
+  a: oczyszczać
+- q: refine
+  a: rafinować
+- q: reframe
+  a: przeformułować
+- q: reframe
+  a: '[dosłownie] ponownie oprawiać w ramy'
+- q: reframing
+  a: przeformułowanie
+- q: reframing
+  a: '[dosłownie] ponowne oprawienie w ramy'
 - q: registrar
   a: kierownik urzędu stanu cywilnego
 - q: registrar'soffice
@@ -4144,10 +7628,36 @@
   a: sekrtariat (11-6)
 - q: rehab
   a: odwyk
+- q: reinforce
+  a: wzmacniać
+- q: reinforced
+  a: wzmocniony
+- q: reinforcement
+  a: wzmocnienie
+- q: reklamówka
+  a: carrier
+- q: rektor
+  a: provost
 - q: rekwizyt
   a: prop
+- q: relieve
+  a: uśmierzyć
+- q: relieve
+  a: ulżyć
+- q: remembrance
+  a: wspomnienie
+- q: remembrance
+  a: pamiątka
+- q: remembrance
+  a: cześć
+- q: remiza
+  a: firehouse
 - q: remnants
   a: pozostałość
+- q: renoma
+  a: stature
+- q: rep
+  a: 'przedstawiciel [pot.]'
 - q: repellent
   a: odrażający
 - q: repellent
@@ -4158,10 +7668,36 @@
   a: obmierzły
 - q: repellent
   a: impregnat
+- q: repetitions
+  a: reps
+- q: replicate
+  a: replikować
+- q: replicate
+  a: powielać
+- q: replikować
+  a: replicate
+- q: reportedly
+  a: rzekomo
+- q: reportedly
+  a: podobno
+- q: reprezentacjaszkoły
+  a: varsity (13-6)
+- q: reps
+  a: 'powtórzenia (podczas wykonywania ćwiczeń) [pot.]'
+- q: reps
+  a: repetitions
 - q: resentfulness
   a: rozżalenie
 - q: resentfulness
   a: rozgoryczenie
+- q: resentment
+  a: niechęć
+- q: resentment
+  a: uraza
+- q: reservation
+  a: rezerwat (indian)
+- q: reservoir
+  a: '[dosłownie] rezerwuar, zbiornik'
 - q: restraint
   a: umiar
 - q: restraint
@@ -4172,12 +7708,24 @@
   a: skrępowanie
 - q: restraint
   a: zahamowanie
+- q: resztki
+  a: scraps
+- q: reticule
+  a: mała ozdobna torebka
+- q: retreat
+  a: wycofać się
+- q: retreat
+  a: odwrót
 - q: reverie
   a: zaduma
 - q: reverie
   a: zamyślenie
 - q: reviving
   a: ożywczy
+- q: rezerwat(indian)
+  a: reservation (8-8)
+- q: rhubarb
+  a: rabarbar
 - q: rickety
   a: krzywiczny
 - q: rickety
@@ -4188,10 +7736,14 @@
   a: rozklekotany
 - q: rickety
   a: kiwający się
+- q: ridge
+  a: grzbiet górski
 - q: righteous
   a: sprawiedliwy
 - q: righteous
   a: prawy
+- q: ringbolt
+  a: śruba oczkowa z pierścieniem
 - q: ripping
   a: przecieranie
 - q: ripping
@@ -4210,6 +7762,10 @@
   a: nit
 - q: rivets
   a: nity
+- q: robak
+  a: worm
+- q: robaki
+  a: worms
 - q: robiącywrażenie
   a: formidable (7-8)
 - q: robićprzerwę
@@ -4222,16 +7778,44 @@
   a: proles
 - q: robotnik
   a: prole
+- q: rocker
+  a: fotel bujany
+- q: rocznik(szczególniewina)
+  a: vintage (7-12-5)
+- q: rod
+  a: wędka
+- q: rod
+  a: pręt
+- q: rod
+  a: kij
+- q: rods
+  a: drągi
+- q: rods
+  a: pręty
+- q: rods
+  a: wiązary (w parowozach)
 - q: rodzajdrinka
   a: toddy (6-6)
 - q: rodzajłodzi
   a: chalana (6-5)
+- q: rogatka
+  a: turnpike
 - q: rookie
   a: żółtodziób
 - q: rookie
   a: niwicjusz
 - q: rouge
   a: róż
+- q: rounders
+  a: rounders (gra podobna do palanta)
+- q: rounders(grapodobnadopalanta)
+  a: rounders (8-4-7-2-8)
+- q: rounds
+  a: naboje
+- q: rozbity
+  a: busted
+- q: rozbłysnąć
+  a: flare
 - q: rozgoryczenie
   a: resentfulness
 - q: rozgorączkowany
@@ -4246,10 +7830,14 @@
   a: rickety
 - q: rozkoszowaćsię
   a: delight (11-3)
+- q: rozmowa
+  a: discourse
 - q: rozmyślać
   a: brood
 - q: rozmyślać
   a: brood
+- q: rozmówca
+  a: interlocutor
 - q: rozpacz
   a: desolation
 - q: rozpadlina
@@ -4264,6 +7852,8 @@
   a: wanton
 - q: rozrywać
   a: ripping
+- q: rozrzucony
+  a: strewn
 - q: rozsiąśćsię
   a: lounge (8-3)
 - q: rozszczepienieatomu
@@ -4280,6 +7870,10 @@
   a: resentfulness
 - q: rubaszny
   a: coarse
+- q: rubble
+  a: gruzy
+- q: rubble
+  a: rumowisko
 - q: ruda
   a: redhead
 - q: rudy
@@ -4290,42 +7884,100 @@
   a: redhead
 - q: ruina
   a: desolation
+- q: rummaging
+  a: przeszukiwać
+- q: rummaging
+  a: przewracać do góry nogami
+- q: rumowisko
+  a: rubble
 - q: rumpel
   a: tiller
 - q: rumpus
   a: awantura
 - q: runda
   a: lap
+- q: rundawbaseballu
+  a: inning (5-1-9)
+- q: rundywbaseballu
+  a: innings (5-1-9)
+- q: rung
+  a: szczebel (np. drabiny)
+- q: rung
+  a: '[forma przeszła od] dzwonić'
+- q: rung
+  a: '[forma przeszła od] nabijać na kasę fiskalną [+ up]'
+- q: rupiecie
+  a: clutter
+- q: rustle
+  a: szelest
+- q: rustle
+  a: szmer
 - q: ruszyć
   a: budge
+- q: ruts
+  a: koleiny
 - q: rwaćsię
   a: ripping (4-3)
+- q: rychły
+  a: nigh
+- q: rynna
+  a: gutter
+- q: rynna
+  a: trough
+- q: rynsztok
+  a: gutter
 - q: rytm
   a: cadences
+- q: rzeczywisty
+  a: intrinsic
+- q: rzekomo
+  a: reportedly
 - q: rzekomy
   a: alleged
 - q: rzekomy
   a: alleged
+- q: 'rzekł[arch.]'
+  a: quoth (5-7)
 - q: rzemień
   a: lash
 - q: rzeźnia
   a: slaughterhouse
 - q: rzeźnikkoński
   a: knacker (7-6)
+- q: rzucićniedbale
+  a: shove (6-8)
 - q: rzęsy
   a: lashes
+- q: równina
+  a: bajada
+- q: równowaga
+  a: poise
 - q: róż
   a: rouge
 - q: rąbać
   a: hack
 - q: rżnąć
   a: hack
+- q: sacrilege
+  a: świętokradztwo
+- q: sacrilege
+  a: profanacja
+- q: saddle
+  a: siodło
+- q: saddle
+  a: siodłać
+- q: sadza
+  a: soot
 - q: sadzićsusami
   a: lope (6-6)
 - q: sakiewka
   a: pouch
 - q: sala
   a: lounge
+- q: sallow
+  a: blady
+- q: sallow
+  a: ziemisty
 - q: salmon
   a: łosoś
 - q: salomon
@@ -4334,14 +7986,28 @@
   a: lounge
 - q: samiec
   a: buck
+- q: 'samiecjelenia,byk'
+  a: stag (6-8-3)
+- q: samotnik
+  a: recluse
 - q: samotność
   a: desolation
 - q: samowolniezajmować
   a: squat (10-8)
 - q: samowolniezająć
   a: squat (10-5)
+- q: samozwańczystróżeprawa
+  a: vigilantes (11-6-5)
+- q: sandman
+  a: piaskowy dziadek
+- q: sandman
+  a: piaskun
+- q: sanie
+  a: sleigh
 - q: sanitariusz
   a: orderly
+- q: sapać
+  a: gasp
 - q: sash
   a: szarfa
 - q: sash
@@ -4352,14 +8018,32 @@
   a: rama okna otwieranego pionowo
 - q: satchel
   a: torba na ramię
+- q: sawing
+  a: piłowanie
 - q: scabbard
   a: pochwa
+- q: scales
+  a: waga
+- q: scaly
+  a: łuszczący się
+- q: scaly
+  a: łuskowaty
+- q: scaly
+  a: suchy
+- q: sceptycznie
+  a: incredulously
 - q: schorzenia
   a: afflictions
+- q: schron
+  a: bunker
 - q: schroniskodlaubogich
   a: flophouse (10-3-7)
 - q: schylony
   a: stooped
+- q: scooped
+  a: nabierać coś (np. łyżką)
+- q: scooped
+  a: zgarniać
 - q: scraggly
   a: postrzępiony
 - q: scrap
@@ -4374,6 +8058,16 @@
   a: złomować
 - q: scrap
   a: zezłomować
+- q: scraps
+  a: strzępy
+- q: scraps
+  a: fragmenty
+- q: scraps
+  a: resztki
+- q: scraps
+  a: odpadki
+- q: scraps
+  a: złom
 - q: scrawled
   a: nasmarować
 - q: scrawled
@@ -4400,6 +8094,14 @@
   a: aparat tlenowy
 - q: scythe
   a: kosa
+- q: sczerniały
+  a: blackened
+- q: seacoast
+  a: wybrzeże
+- q: seacoast
+  a: przybrzeżny
+- q: seafront
+  a: bulwar nadmorski
 - q: seam
   a: szew
 - q: seam
@@ -4422,12 +8124,48 @@
   a: wieszcz
 - q: sekrtariat
   a: registrar's office
+- q: sensory
+  a: sensoryczny
+- q: sensory
+  a: czuciowy
+- q: sensoryczny
+  a: sensory
 - q: sensowny
   a: plausible
 - q: sentencja
   a: maxim
+- q: sentries
+  a: wartownicy
+- q: sentries
+  a: strażnicy
+- q: sentry
+  a: wartownik
+- q: sentry
+  a: strażnik
 - q: sercowy
   a: cardiac
+- q: serene
+  a: pogodny
+- q: serene
+  a: łagodny
+- q: serene
+  a: spokojny
+- q: serum
+  a: surowica
+- q: serum
+  a: serum
+- q: serum
+  a: serum
+- q: serum
+  a: szczepionka
+- q: severe
+  a: poważny
+- q: severe
+  a: surowy
+- q: severe
+  a: ciężki
+- q: severe
+  a: ostry (np. ból)
 - q: sfaulować
   a: foul
 - q: shabby
@@ -4440,6 +8178,18 @@
   a: wyświechtany
 - q: shabby
   a: niechlujny
+- q: shacks
+  a: szopa
+- q: shacks
+  a: buda
+- q: shacks
+  a: 'hamulcowi [slang]'
+- q: shag
+  a: bzykanko
+- q: shag
+  a: bzykać
+- q: shag
+  a: przelecieć
 - q: shah
   a: szach
 - q: shallow
@@ -4482,6 +8232,26 @@
   a: urywisty
 - q: sheer
   a: porywisty
+- q: sheeting
+  a: tkanina pościelowa
+- q: sheeting
+  a: folia
+- q: sheeting
+  a: blacha
+- q: shew
+  a: 'pokazać [arch.]'
+- q: shove
+  a: (po)pchnięcie
+- q: shove
+  a: (po)pchnąć
+- q: shove
+  a: przepychać (się)
+- q: shove
+  a: rzucić niedbale
+- q: shredded
+  a: podarty/pocięty na strzępy
+- q: shredded
+  a: poszatkowany
 - q: shrimp
   a: krewetka
 - q: shrinks
@@ -4502,6 +8272,8 @@
   a: wysuszyć
 - q: shriveled
   a: wyschnąć
+- q: shrouded
+  a: 'okryty [szczególnie okryty całunem]'
 - q: shutter
   a: żaluzja
 - q: shutter
@@ -4510,34 +8282,76 @@
   a: okiennica
 - q: shutter
   a: migawka
+- q: siać
+  a: sow
+- q: sideshow
+  a: impreza towarzysząca
+- q: sideshow
+  a: cyrk
+- q: sideshow
+  a: dodatkowa atrakcja
 - q: sidła
   a: noose
 - q: siedziećnagrzędzie
   a: perch (8-2-8)
+- q: siege
+  a: oblężenie
 - q: siekać
   a: hack
 - q: siekiera
   a: chopper
 - q: sikawka
   a: sprinkler
+- q: silny
+  a: potent
+- q: singery
+  a: śpiewalnia
+- q: siodłać
+  a: saddle
+- q: siodło
+  a: saddle
 - q: sięgać
   a: strove
 - q: sięgnąć
   a: strove
-- q: skamlać
-  a: yelp
+- q: skafander
+  a: anorak
+- q: skamielina
+  a: fossil
 - q: skamlać
   a: whimper
+- q: skamlać
+  a: yelp
 - q: skamlał
   a: whimpered
 - q: skamlenie
   a: yelp
 - q: skamleć
   a: yelp
+- q: skandal
+  a: outrage
+- q: skarb
+  a: hoard
+- q: skarbiec
+  a: hoard
+- q: skarpa
+  a: embankment
 - q: skater
   a: łyżwiarz
 - q: skazanie
   a: conviction
+- q: ski
+  a: narta
+- q: ski
+  a: narciarski
+- q: ski
+  a: jeździć na nartach
+- q: skierowanienaobowiązkoweleczeniepsychiatryczne
+  a: committal (11-2-11-8-14)
+- q: skinner
+  a: garbarz
+- q: skinner
+  a: parobek
 - q: skinąć
   a: bob
 - q: skirting
@@ -4546,20 +8360,28 @@
   a: listewka
 - q: skirting
   a: materiał na spódnicę
+- q: sklejka
+  a: plywood
 - q: sknocić
   a: mangle
 - q: skomlał
   a: whimpered
 - q: skomleć
-  a: yelp
-- q: skomleć
   a: whimper
+- q: skomleć
+  a: yelp
 - q: skomlący
   a: yelping
+- q: skomplikowany
+  a: elaborate
 - q: skomplikować
   a: compound
 - q: skonfundować
   a: confound
+- q: skonsternowany
+  a: dismayed
+- q: skorupa
+  a: crust
 - q: skowyczeć
   a: yelp
 - q: skowyczący
@@ -4570,34 +8392,50 @@
   a: yelp
 - q: skośny
   a: slant
+- q: skrajnewyczerpanie
+  a: prostration (7-11)
 - q: skrawek
   a: scrap
 - q: skreślić
   a: to cross out
 - q: skrobia
   a: starch
+- q: skromność
+  a: modesty
 - q: skromny
   a: scrawny
 - q: skrucha
   a: contrition
+- q: skrucha
+  a: penitence
+- q: skrytka
+  a: hoard
 - q: skrywany
   a: pent
 - q: skrzydłookienne
   a: sash (8-7)
+- q: skrzynki
+  a: crates
+- q: skrzypce
+  a: fiddle
 - q: skrzypiący
   a: rickety
+- q: skrótod"itis"
+  a: tis (5-2-3-3)
 - q: skręcony
   a: kinky
 - q: skrępowanie
   a: restraint
+- q: 'skręt,fajka'
+  a: joint (6-5)
 - q: skulony
   a: hunched
 - q: skumulowany
   a: pent
 - q: skumulowaćsię
-  a: surged (10-3)
-- q: skumulowaćsię
   a: surge (10-3)
+- q: skumulowaćsię
+  a: surged (10-3)
 - q: skurcz
   a: pang
 - q: skurcze
@@ -4606,8 +8444,18 @@
   a: lure
 - q: skusił
   a: lured
+- q: skuteczny
+  a: potent
 - q: skórcz
   a: cramp
+- q: skórka
+  a: crust
+- q: skład
+  a: stockroom
+- q: skłonność
+  a: disposition
+- q: skłonnydoczegoś
+  a: apt (7-2-6)
 - q: slamm
   a: trzaśnięcie
 - q: slant
@@ -4636,8 +8484,14 @@
   a: dawać klapsa
 - q: slaughterhouse
   a: rzeźnia
+- q: slay
+  a: zabić
+- q: slay
+  a: zgładzić
 - q: sleepingdraught
   a: nasenny (8-7)
+- q: sleigh
+  a: sanie
 - q: slick
   a: udany
 - q: slick
@@ -4658,6 +8512,22 @@
   a: cwany
 - q: slick
   a: płytki
+- q: slime
+  a: muł
+- q: slime
+  a: osad
+- q: slime
+  a: lizus
+- q: slimy
+  a: pokryty śluzem
+- q: slimy
+  a: oślizgły
+- q: slimy
+  a: zamulony
+- q: slimy
+  a: obleśny
+- q: slingshot
+  a: proca
 - q: slit
   a: szczelina
 - q: slit
@@ -4678,8 +8548,16 @@
   a: bałaganiara (8-5)
 - q: smagać
   a: lash
+- q: smardze
+  a: morels
 - q: smarkacz
   a: punk
+- q: smoczek
+  a: comforter
+- q: smród
+  a: stench
+- q: smug
+  a: próżny
 - q: smętny
   a: lugubrious
 - q: snag
@@ -4694,6 +8572,14 @@
   a: pstrykanie
 - q: snapping
   a: trzaskanie
+- q: snatch
+  a: kradzież
+- q: snatch
+  a: porwanie
+- q: snatch
+  a: kraść
+- q: snatch
+  a: porywać
 - q: sneered
   a: szyderczy uśmiech
 - q: sneered
@@ -4704,6 +8590,14 @@
   a: drwić sobie
 - q: sneered
   a: naśmiewać się
+- q: snog
+  a: pieszczoty
+- q: snog
+  a: pocałunek
+- q: snog
+  a: całować się
+- q: snog
+  a: migdalić się
 - q: snort
   a: fuknąć
 - q: snort
@@ -4722,10 +8616,22 @@
   a: zlekceważony
 - q: snubbed
   a: odtrącony
+- q: snuff
+  a: tabaka
 - q: sofa
   a: couch
+- q: solace
+  a: pociecha
+- q: solace
+  a: ulga
+- q: solitaire
+  a: pasjans
 - q: solomon
   a: salomon
+- q: somber
+  a: ponury
+- q: somber
+  a: mroczny
 - q: sombre
   a: ponury
 - q: sombre
@@ -4744,12 +8650,32 @@
   a: złowieszcza
 - q: sombre
   a: złowieszcze
+- q: sonic
+  a: dźwiękowy
+- q: sonic
+  a: soniczny
+- q: soniczny
+  a: sonic
+- q: soot
+  a: sadza
 - q: sordid
   a: plugawy
 - q: sordid
   a: brudny
 - q: sordid
   a: wstrętny
+- q: sorrel
+  a: kasztanowy (koń)
+- q: sorrel
+  a: szczaw
+- q: sospieczeniowy
+  a: gravy (3-11)
+- q: sow
+  a: locha
+- q: sow
+  a: maciora
+- q: sow
+  a: siać
 - q: spadkobierca
   a: heir
 - q: spadkobiercy
@@ -4760,6 +8686,12 @@
   a: mangle
 - q: spazm
   a: throe
+- q: spears
+  a: włócznie
+- q: spears
+  a: dzidy
+- q: spears
+  a: harpuny
 - q: spectators
   a: widzowie
 - q: spienić
@@ -4792,6 +8724,8 @@
   a: lasek
 - q: spiżarnia
   a: larder
+- q: spleciony
+  a: laced
 - q: splątany
   a: tangled
 - q: splątać
@@ -4800,10 +8734,14 @@
   a: seam
 - q: spoiny
   a: seams
+- q: spokojny
+  a: serene
 - q: sporadycznie
   a: intermittently
 - q: sporadyczny
   a: intermittent
+- q: spostrzec
+  a: behold
 - q: sprawiedliwy
   a: righteous
 - q: sprinkler
@@ -4818,12 +8756,22 @@
   a: tryskacz
 - q: sprinkler
   a: zraszacz
+- q: sprowadzaćnazłądrogę
+  a: derail (10-2-3-5)
+- q: sprośność
+  a: obscenity
 - q: sprośny
   a: kinky
 - q: spryskiwacz
   a: sprinkler
 - q: sprytny
   a: slick
+- q: sprzeciw(wgłosowaniu)
+  a: nay (8-2-11)
+- q: sprzyjać
+  a: foster
+- q: sprzęgający
+  a: coupling
 - q: sprzężenie
   a: connexion
 - q: sprężystykrok
@@ -4834,10 +8782,18 @@
   a: piąć (konia)
 - q: spustoszenie
   a: desolation
+- q: spustoszenie
+  a: ravages
 - q: sputter
   a: bełkot
 - q: sputter
   a: charkot
+- q: spódzkruchegociasta
+  a: crust (4-1-8-6)
+- q: spóźniony
+  a: belated
+- q: spłata
+  a: payoff
 - q: spłowiały
   a: dingy
 - q: squat
@@ -4880,12 +8836,30 @@
   a: kucnęło
 - q: squealer
   a: kapuś
+- q: squid
+  a: kalmar
+- q: squid
+  a: kałamarnica
+- q: squids
+  a: kalmary
+- q: squids
+  a: kałamarnice
 - q: srać
   a: crap
 - q: srogi
   a: harsh
 - q: ssać
   a: sucking
+- q: stabilizacja
+  a: plateau
+- q: stacja
+  a: depot
+- q: stacjonarny
+  a: stationary
+- q: stag
+  a: 'samiec jelenia, byk'
+- q: stag
+  a: wieczór kawalerski
 - q: stall
   a: zagroda
 - q: stall
@@ -4912,8 +8886,16 @@
   a: zająkał się
 - q: stammered
   a: wykrztusił
+- q: staranie
+  a: endeavour
+- q: staranny
+  a: diligent
+- q: staranny
+  a: elaborate
 - q: staraćsię
   a: strove (6-3)
+- q: staraćsię
+  a: endeavour (6-3)
 - q: starch
   a: skrobia
 - q: starch
@@ -4930,30 +8912,98 @@
   a: biddy
 - q: stateczny
   a: stolid
+- q: stationary
+  a: stacjonarny
+- q: stature
+  a: postura
+- q: stature
+  a: renoma
+- q: stature
+  a: pozycja społeczna
+- q: stave
+  a: pięciolinia
+- q: stave
+  a: zwrotka
+- q: stave
+  a: szczebel
 - q: stekbzdur
   a: bunk (4-5)
 - q: stempel
   a: prop
+- q: stench
+  a: smród
+- q: sterczący
+  a: jutting
 - q: sternik
   a: helmsman
+- q: sterta
+  a: dump
+- q: steward
+  a: attendant
+- q: stickers
+  a: naklejki
+- q: stiffs
+  a: 'włóczędzy [slang]'
 - q: stifled
   a: stłumiony
 - q: stifled
   a: zduszony
+- q: stimuli
+  a: bodźce
+- q: stimulus
+  a: bodziec
+- q: stitches
+  a: szwy
+- q: stoats
+  a: gronostaje
+- q: stockboy
+  a: magazynier
+- q: stockboy
+  a: wykładacz towaru
+- q: stockboy
+  a: pracownik sklepu
+- q: stockroom
+  a: magazyn
+- q: stockroom
+  a: skład
 - q: stoisko
   a: stall
+- q: stokrotka
+  a: daisy
 - q: stolid
   a: stateczny
 - q: stolid
   a: powściągliwy
 - q: stoliknakółkach
   a: trolley (6-2-7)
+- q: stomatologiczny
+  a: dental
+- q: stooges
+  a: marionetki
+- q: stooges
+  a: figuranci
+- q: stooges
+  a: asystenci komików
+- q: stooges
+  a: '[w cytatach - odniesienie do grupy kabaretowej]'
 - q: stooped
   a: schylony
 - q: stooped
   a: zgarbiony
 - q: stora
   a: shutter
+- q: storey
+  a: piętro
+- q: storey
+  a: kondygnacja
+- q: stospogrzebowy
+  a: pyre (4-10)
+- q: stovelength
+  a: >-
+    polano, kłoda (dosłownie "długość pieca", tzn. kawałek drewna opałowego,
+    który zmieści się w piecu)
+- q: stołówka
+  a: commissary
 - q: stragan
   a: stall
 - q: stragan
@@ -4964,8 +9014,40 @@
   a: turnover
 - q: stratagems
   a: fortel
+- q: strażobywatelska
+  a: vigilantes (5-11)
+- q: strażnicy
+  a: sentries
+- q: strażnik
+  a: sentry
+- q: strażnikwięzienny
+  a: turnkey (8-9)
+- q: streak
+  a: passa
+- q: streak
+  a: pasmo
 - q: strefa
   a: compound
+- q: strewn
+  a: zasypany
+- q: strewn
+  a: zasłany
+- q: strewn
+  a: pokryty
+- q: strewn
+  a: rozrzucony
+- q: strikers
+  a: uczestnicy strajku
+- q: stroik
+  a: wreath
+- q: strojącfochy
+  a: sulkily (7-5)
+- q: stronniczość
+  a: partiality
+- q: stropping
+  a: ostrzenie brzytwy na pasku
+- q: stropping
+  a: '[prawdopodobnie w kontekście z cytatów - chłostanie/lanie pasem]'
 - q: strove
   a: dążyć
 - q: strove
@@ -4980,16 +9062,31 @@
   a: usiłować
 - q: struga
   a: filament
+- q: >-
+    strukturamózguodpowiedzialnazazapamiętywanie,pamięćdługotrwałą,myślenieabstrakcyjneorazemocje
+  a: hippocampus (9-5-14-2-15-6-12-8-12-4-6)
 - q: stryczek
   a: noose
+- q: strzelaćfochy
+  a: sulk (8-5)
 - q: strzyc
   a: shear
 - q: strzykawka
   a: syringe
 - q: strzępić
   a: unravel
+- q: strzępy
+  a: scraps
+- q: studenci/absolwencikoledżu
+  a: collegians (19-7)
+- q: student/absolwentkoledżu
+  a: collegian (17-7)
 - q: studnia
   a: well
+- q: studzienka
+  a: manhole
+- q: stuk
+  a: peck
 - q: stuknięty
   a: batty
 - q: stukotanie
@@ -5026,18 +9123,46 @@
   a: stifled
 - q: stłumiony
   a: pent
+- q: stłumiony
+  a: suppressed
+- q: stłumionyokrzyk
+  a: gasp (9-6)
 - q: subaltern
   a: podwładny
 - q: subaltern
   a: młodszy oficer
 - q: subaltern
   a: młodszy rangą
+- q: suchy
+  a: scaly
 - q: sucking
   a: ssać
 - q: sucking
   a: być do dupy
 - q: suckingsound
   a: pluśnięcie (7-5)
+- q: sukno
+  a: baize
+- q: sulk
+  a: posępny nastrój
+- q: sulk
+  a: foch
+- q: sulk
+  a: dąsać się
+- q: sulk
+  a: strzelać fochy
+- q: sulkily
+  a: chmurnie
+- q: sulkily
+  a: z wyrzutem
+- q: sulkily
+  a: dąsając się
+- q: sulkily
+  a: strojąc fochy
+- q: sumienność
+  a: conscientiousness
+- q: sumienny
+  a: diligent
 - q: summon
   a: wezwać
 - q: summon
@@ -5052,6 +9177,8 @@
   a: pozew
 - q: summons
   a: wezwanie
+- q: sunken
+  a: zatopiony
 - q: superficial
   a: powierzchowny
 - q: superficial
@@ -5064,6 +9191,10 @@
   a: dyrektor
 - q: superintendent
   a: komisarz
+- q: suppressed
+  a: stłumiony
+- q: suppressed
+  a: zahamowany
 - q: surge
   a: kipiel
 - q: surge
@@ -5092,14 +9223,38 @@
   a: wezbrać
 - q: surged
   a: gwałtowanie wzrosnąć
+- q: surogat
+  a: surrogate
+- q: suroweciasto
+  a: dough (6-6)
 - q: surowica
   a: antivenin
+- q: surowica
+  a: serum
 - q: surowy
   a: harsh
+- q: surowy
+  a: severe
+- q: surrogate
+  a: surogat
+- q: surrogate
+  a: zastępstwo
+- q: surrogate
+  a: zastępczy
+- q: suspenders
+  a: szelki
 - q: susy
   a: lope
+- q: susza
+  a: drought
 - q: suszarka
   a: dryer
+- q: sutek
+  a: nipple
+- q: swag
+  a: zdobycz
+- q: swag
+  a: łup
 - q: swamp
   a: bagno
 - q: swamp
@@ -5108,12 +9263,42 @@
   a: mokradło
 - q: swamp
   a: zalać
+- q: swamper
+  a: '[dosłownie] ktoś mieszkający na bagnach'
+- q: swamper
+  a: pracownik fizyczny
+- q: swamper
+  a: pomagier
 - q: swawolny
   a: wanton
+- q: sway
+  a: kołysać się
+- q: sway
+  a: wpływać na kogoś
+- q: sway
+  a: '[+ hold] dzierżyć władzę'
+- q: sweatshirt
+  a: bluza
+- q: sweatshirt
+  a: sweter
 - q: swerve
   a: gwałtownie skręcić
+- q: sweter
+  a: sweatshirt
+- q: swig
+  a: haust
+- q: swig
+  a: łyk
 - q: syf
   a: crap
+- q: sygnał
+  a: cue
+- q: symbole
+  a: cues
+- q: sypialnia
+  a: dorm
+- q: sypialnie
+  a: dorms
 - q: syringe
   a: strzykawka
 - q: szach
@@ -5122,12 +9307,18 @@
   a: cabinets
 - q: szafagrająca
   a: jukebox (5-7)
+- q: szafkazszufladami
+  a: pedestal (6-1-10)
 - q: szal
   a: shawl
+- q: szal
+  a: comforter
 - q: szaleństwo
   a: folly
 - q: szarfa
   a: sash
+- q: szarpać
+  a: twitch
 - q: szarpaćsię
   a: fumble (7-3)
 - q: szarpnięcie
@@ -5136,10 +9327,38 @@
   a: yanked
 - q: szarpnąć
   a: jerk
+- q: szary
+  a: ashen
+- q: szał
+  a: binge
+- q: szczaw
+  a: sorrel
+- q: szczebel
+  a: stave
+- q: szczebel(np.drabiny)
+  a: rung (8-4-8)
 - q: szczelina
   a: slit
+- q: szczeniaki
+  a: pups
+- q: szczepionka
+  a: serum
+- q: szczotkadoubrań
+  a: whisk (8-2-5)
 - q: szczupak
   a: spike
+- q: szczypce
+  a: pliers
+- q: szczęk
+  a: clang
+- q: szczęk
+  a: clanging
+- q: szczęście
+  a: felicity
+- q: szelest
+  a: rustle
+- q: szelki
+  a: suspenders
 - q: szeląg
   a: farthings
 - q: szerszeń
@@ -5150,18 +9369,42 @@
   a: casket
 - q: szkielet
   a: carcass
+- q: szlachetny
+  a: vintage
+- q: szlug
+  a: fag
+- q: szlugi
+  a: fags
+- q: szmal
+  a: gravy
+- q: szmer
+  a: rustle
+- q: szoppracz
+  a: coon (4-5)
+- q: szopa
+  a: shacks
 - q: szorstki
   a: coarse
 - q: szpic
   a: spike
 - q: szpikulec
   a: spike
+- q: szubienica
+  a: gallows
+- q: szufelka
+  a: dustpan
 - q: szumowina
   a: frothing
 - q: szurnięty
   a: batty
+- q: szwindel
+  a: con
+- q: szwindle
+  a: cons
 - q: szwy
   a: seams
+- q: szwy
+  a: stitches
 - q: szyderczyuśmiech
   a: sneered (9-7)
 - q: szyna
@@ -5170,20 +9413,40 @@
   a: vicinity
 - q: sęp
   a: vultures
+- q: sęp
+  a: vulture
+- q: słabostki
+  a: vices
 - q: słabowitość
   a: frailty
 - q: słabość
   a: frailty
+- q: słabość
+  a: partiality
+- q: słaby
+  a: feeble
 - q: sługus
   a: lackey
 - q: sługusi
   a: lackeys
 - q: słup
   a: prism
+- q: służalczy
+  a: abject
+- q: tabaka
+  a: snuff
 - q: tabletka
   a: pellet
+- q: tacos
+  a: tacos (potrawa)
+- q: tacos(potrawa)
+  a: tacos (5-9)
+- q: tailor
+  a: krawiec
 - q: tajemniczy
   a: brooding
+- q: tajemniczy
+  a: eerie
 - q: tandeta
   a: crap
 - q: tangle
@@ -5206,14 +9469,34 @@
   a: cysterna
 - q: tankowiec
   a: tanker
+- q: tarcie
+  a: friction
+- q: tarczyca
+  a: thyroid
+- q: tarp
+  a: brezent
+- q: tarp
+  a: plandeka
 - q: taut
   a: napiety
+- q: teething
+  a: ząbkowanie
+- q: teething
+  a: 'gryzak dla dziecka [+ ring]'
 - q: teksas
   a: denim
 - q: tematzastępczy
   a: red herring (5-9)
+- q: temple
+  a: świątynia
 - q: tempo
   a: cadences
+- q: tensor
+  a: tensor
+- q: tensor
+  a: tensor
+- q: tensor
+  a: '[w cytatach - nazwa własna]'
 - q: tentatively
   a: niepewnie
 - q: tentatively
@@ -5223,6 +9506,8 @@
   a: favourability (3-7-2-5-4-3-9-3-6-2-6-2-2-10-2-4-2-9)
 - q: thigh
   a: udo
+- q: thinner
+  a: chudszy
 - q: thresh
   a: młócić
 - q: threshingmachine
@@ -5249,6 +9534,10 @@
   a: przepustnica
 - q: throttle
   a: zawór dławiący
+- q: thud
+  a: łomot
+- q: thud
+  a: łupnięcie
 - q: thug
   a: zbój
 - q: thug
@@ -5267,10 +9556,14 @@
   a: walić
 - q: thump
   a: tupać
+- q: thunderbox
+  a: port-o-san
 - q: thwart
   a: ławka
 - q: thwart
   a: udaremnić
+- q: thyroid
+  a: tarczyca
 - q: tidal
   a: pływowy
 - q: tidings
@@ -5307,8 +9600,14 @@
   a: konserwowy
 - q: tippler
   a: pijak
+- q: tis
+  a: skrót od "it is"
+- q: tit
+  a: cycek
 - q: tkaninaflagowa
   a: bunting (7-7)
+- q: tkaninapościelowa
+  a: sheeting (7-10)
 - q: tocrossout
   a: skreślić (2-5-3)
 - q: toleavesbinthelurch
@@ -5317,16 +9616,32 @@
   a: zdradzić tajemnicę (2-5-4)
 - q: toaleta
   a: lavatory
+- q: toaleta
+  a: loo
+- q: tobołek
+  a: bindle
 - q: toczeniec
   a: pebble
 - q: toddy
   a: rodzaj drinka
+- q: toll
+  a: żniwo (śmierci)
+- q: toll
+  a: opłata
+- q: tolling
+  a: bijący (o dzwonie)
 - q: 'tooquick,easyorsimple;notseemingnaturalorrealistic'
   a: pat (3-6-4-2-7-3-7-7-2-9)
+- q: tootsie
+  a: laleczka
+- q: tootsie
+  a: paluszek
 - q: toporny
   a: coarse
 - q: topór
   a: chopper
+- q: torba
+  a: carrier
 - q: torbanaramię
   a: satchel (5-2-5)
 - q: torf
@@ -5335,6 +9650,8 @@
   a: peat
 - q: torturować
   a: pang
+- q: towarowy(np.pociąg)
+  a: freight (8-4-7)
 - q: towarzystwo
   a: entourage
 - q: tracker
@@ -5345,14 +9662,28 @@
   a: tropiciele
 - q: trackers
   a: elementy śledzące
+- q: trafność
+  a: felicity
+- q: trafny
+  a: apt
 - q: trailer
   a: przyczepa
 - q: trailer
   a: zwiastun filmowy
+- q: trait
+  a: cecha (np. charakteru)
+- q: traits
+  a: cechy (np. charakteru)
+- q: tramps
+  a: włóczędzy
 - q: tramwaj
   a: trolley
 - q: trapić
   a: afflict
+- q: trening
+  a: workout
+- q: treningi
+  a: workouts
 - q: tributaries
   a: lennik
 - q: tributaries
@@ -5383,6 +9714,10 @@
   a: nóżka (np. w galarecie)
 - q: trotter
   a: kopyto
+- q: trough
+  a: koryto
+- q: trough
+  a: rynna
 - q: trudged
   a: kroczyć ciężko do celu
 - q: trumna
@@ -5401,8 +9736,14 @@
   a: snap
 - q: trzaskanie
   a: snapping
+- q: trzaskanie
+  a: cracking
 - q: trzaśnięcie
   a: slamm
+- q: trzcina
+  a: cane
+- q: trzepaczka
+  a: whisk
 - q: trzewia
   a: entrails
 - q: trzmiel
@@ -5411,8 +9752,12 @@
   a: bunting
 - q: trzymaćsię
   a: cling (7-3)
+- q: trzęsawisko
+  a: bog
 - q: trójca
   a: trinity
+- q: trądzik
+  a: acne
 - q: tub
   a: balia
 - q: tub
@@ -5447,14 +9792,38 @@
   a: dupek
 - q: turd
   a: gnojek
+- q: turnkey
+  a: dozorca
+- q: turnkey
+  a: strażnik więzienny
+- q: turnout
+  a: frekwencja
 - q: turnover
   a: obrót
 - q: turnover
   a: strata
+- q: turnpike
+  a: autostrada
+- q: turnpike
+  a: rogatka
 - q: twierdzenia
   a: allegations
+- q: twinkies
+  a: '[nazwa własna - ciasteczka z kremem]'
+- q: twitch
+  a: drżeć
+- q: twitch
+  a: wykrzywiać się
+- q: twitch
+  a: szarpać
 - q: tyłek
   a: buttocks
+- q: tyłek
+  a: arse
+- q: tłok
+  a: plunger
+- q: tłum
+  a: populace
 - q: tłumiony
   a: pent
 - q: ubikacja
@@ -5465,6 +9834,12 @@
   a: butt
 - q: uciecha
   a: delight
+- q: ucieleśniać
+  a: embody
+- q: uczeniesiępodczassnu
+  a: hypnopaedia (7-3-7-3)
+- q: uczestnicystrajku
+  a: strikers (10-7)
 - q: udany
   a: slick
 - q: udaremniać
@@ -5473,6 +9848,8 @@
   a: thwart
 - q: udaremnić
   a: confound
+- q: udawany
+  a: mock
 - q: uderzać
   a: thump
 - q: uderzać
@@ -5493,20 +9870,34 @@
   a: confound (9-14)
 - q: udowy
   a: femoral
+- q: udręka
+  a: hassle
+- q: udręka
+  a: anguish
+- q: udręka
+  a: vexation
 - q: uduszenie
   a: asphyxiation
 - q: udziwniony
   a: kinky
 - q: ugasićpragnienie
   a: quench (6-10)
+- q: ugodowość
+  a: agreeableness
 - q: ujadający
   a: baying
 - q: ujawniać
   a: divulge
 - q: ujawnić
   a: divulge
+- q: ujrzeć
+  a: behold
 - q: ukrywaćsię
   a: holed (7-3)
+- q: układ
+  a: bargain
+- q: układanka
+  a: jigsaw
 - q: ukłucie
   a: pang
 - q: ulcer
@@ -5515,6 +9906,14 @@
   a: owrzodzenie
 - q: ulecodroczeniu
   a: adjourned (4-10)
+- q: ulewa
+  a: downpour
+- q: ulga
+  a: solace
+- q: ulotki
+  a: flyers
+- q: ulżyć
+  a: relieve
 - q: umacniać
   a: wedge
 - q: umbrella
@@ -5523,10 +9922,22 @@
   a: restraint
 - q: umorusany
   a: grimy
+- q: umowa
+  a: bargain
 - q: unanimously
   a: jednogłośnie
+- q: unavailing
+  a: bezskuteczny
+- q: unavailing
+  a: daremny
+- q: uni
+  a: 'uniwersytet [skrótowo]'
 - q: unik
   a: evasion
+- q: 'uniwersytet[skrótowo]'
+  a: uni (11-10)
+- q: unprecedented
+  a: bezprecedensowy
 - q: unravel
   a: odkręcić
 - q: unravel
@@ -5541,10 +9952,26 @@
   a: odklejać
 - q: unsummoned
   a: niewzywany
+- q: upiorny
+  a: eerie
 - q: upojony
   a: elated
+- q: uprawy
+  a: crops
+- q: uprzejmość
+  a: courtesy
+- q: uprzejmość
+  a: civility
+- q: uprzejmy
+  a: amiable
 - q: upychać
   a: tuck
+- q: uraza
+  a: resentment
+- q: uraza
+  a: rancor
+- q: uroczy
+  a: quaint
 - q: urwis
   a: wretch
 - q: urywisty
@@ -5555,8 +9982,18 @@
   a: probate (8-13-10)
 - q: usiłować
   a: strove
+- q: usiłować
+  a: endeavour
 - q: usmolony
   a: grimy
+- q: uspokojenie
+  a: lull
+- q: usposobienie
+  a: disposition
+- q: ustalonyporządek
+  a: establishment (8-8)
+- q: uszczypnięty
+  a: pinched
 - q: uszczypnąć
   a: nip
 - q: uszczypnął
@@ -5579,22 +10016,60 @@
   a: perpetuating
 - q: utrzymywaćsię
   a: lingered (10-3)
+- q: uwarunkowany
+  a: conditioned
 - q: uwierzytelniać
   a: probate
 - q: uwierzytelnić
   a: probate
+- q: uwięzienie
+  a: committal
 - q: uwięziony
   a: pent
 - q: uzależnienie
   a: addictions
+- q: uzda
+  a: halter
 - q: uzyskać
   a: elicited
+- q: uzyskać
+  a: attain
+- q: ułamki
+  a: fractions
+- q: uściski
+  a: clenches
+- q: uśmierzyć
+  a: relieve
 - q: varicose
   a: żylakowaty
 - q: varicose
   a: żylakowy
+- q: varsity
+  a: reprezentacja szkoły
 - q: veal
   a: cielęcina
+- q: vengeance
+  a: zemsta
+- q: vest
+  a: kamizelka
+- q: vexation
+  a: udręka
+- q: vicar
+  a: pastor
+- q: vicar
+  a: wikariusz
+- q: vicars
+  a: pastorzy
+- q: vicars
+  a: wikiariusze
+- q: viceroys
+  a: wicekrólowie
+- q: vices
+  a: wady
+- q: vices
+  a: słabostki
+- q: vices
+  a: przywary
 - q: vicinity
   a: sąsiedztwo
 - q: vicinity
@@ -5633,12 +10108,50 @@
   a: bestialski
 - q: vicious
   a: zjadliwy
+- q: vigilantes
+  a: samozwańczy stróże prawa
+- q: vigilantes
+  a: straż obywatelska
+- q: vile
+  a: nikczemny
+- q: vile
+  a: podły
+- q: vile
+  a: wstrętny
+- q: vintage
+  a: rocznik (szczególnie wina)
+- q: vintage
+  a: szlachetny
+- q: vintage
+  a: klasyczny
+- q: vintage
+  a: '[w cytatach - nazwa wydawnictwa]'
+- q: visor
+  a: daszek czapki
+- q: visor
+  a: osłona oczu
+- q: vulgar
+  a: wulgarny
+- q: vulgar
+  a: prostacki
+- q: vulgar
+  a: pospolity
+- q: vulture
+  a: sęp
 - q: vultures
   a: sęp
 - q: wsumie
   a: overall (1-5)
+- q: wady
+  a: vices
+- q: waga
+  a: scales
 - q: wagarować
   a: bunk off
+- q: wage
+  a: płaca
+- q: wage
+  a: zarobki
 - q: wagon
   a: wóz
 - q: wagon
@@ -5653,6 +10166,8 @@
   a: zrzeczenie się
 - q: walić
   a: thump
+- q: walkie
+  a: '[skrót od] walkie-talkie'
 - q: wallboard
   a: płyta gipsowo-kartonowa
 - q: wallboard
@@ -5679,14 +10194,32 @@
   a: swawolny
 - q: wapniak
   a: geezer
+- q: wards
+  a: oddziały szpitalne
 - q: wariactwo
   a: folly
+- q: warkocz
+  a: braid
+- q: wartownicy
+  a: sentries
+- q: wartownik
+  a: sentry
+- q: washerwoman
+  a: praczka
+- q: wał
+  a: embankment
+- q: wałach
+  a: gelding
 - q: wałek
   a: bolster
 - q: wałkować
   a: mangle
+- q: weasels
+  a: łasice
 - q: weathervane
   a: wiatrowskaz
+- q: webbed
+  a: 'z błoną [np. między palcami]'
 - q: wedge
   a: klin
 - q: wedge
@@ -5695,6 +10228,8 @@
   a: umacniać
 - q: wedged
   a: zaklinowany
+- q: weights
+  a: ciężary
 - q: well
   a: zbierać się
 - q: well
@@ -5711,20 +10246,30 @@
   a: wzbierać
 - q: well
   a: studnia
+- q: wellcap
+  a: pokrywa studni/otworu/odwiertu
 - q: welled
   a: zebrany
 - q: welled
   a: wezbrany
+- q: wetbacks
+  a: 'meksykańscy robotnicy, nielegalnie pracujący w usa [obraźliwe]'
+- q: wewnętrzny
+  a: intrinsic
 - q: wezbrany
   a: welled
 - q: wezbrać
-  a: surged
-- q: wezbrać
   a: surge
+- q: wezbrać
+  a: surged
 - q: wezwanie
   a: summons
 - q: wezwać
   a: summon
+- q: wharf
+  a: nabrzeże
+- q: wharf
+  a: przystań
 - q: whereon
   a: 'martin eden: podczas, gdy'
 - q: whimper
@@ -5755,34 +10300,68 @@
   a: wodny kociokwik
 - q: whirlpool
   a: zawirowania
+- q: whisk
+  a: trzepaczka
+- q: whisk
+  a: szczotka do ubrań
+- q: whisk
+  a: miotełka
 - q: whiskingtail
   a: machać ogonem (8-4)
+- q: wianek
+  a: wreath
 - q: wiarygodny
   a: plausible
 - q: wiata
   a: carport
 - q: wiatrowskaz
   a: weathervane
+- q: wicekrólowie
+  a: viceroys
 - q: widmo
   a: wraith
 - q: widzowie
   a: spectators
+- q: wieczórkawalerski
+  a: stag (7-10)
 - q: wiedźma
   a: witch
 - q: wiedźmy
   a: witches
+- q: wielkirozmiar
+  a: bulk (6-7)
 - q: wielkoduszny
   a: magnanimous
+- q: wielmożnypan
+  a: esquire (9-3)
+- q: wieniec
+  a: wreath
+- q: wieprz
+  a: hog
+- q: wierność
+  a: fidelity
+- q: wierzchołek
+  a: apex
 - q: wierzgać
   a: buck
 - q: wierzgnięcie
   a: buck
 - q: wieszcz
   a: seer
+- q: wiewiórkiamerykańskie
+  a: chipmunks (9-12)
 - q: wieści
   a: tidings
+- q: wieśniak
+  a: cottagers
+- q: wikariusz
+  a: vicar
+- q: wikiariusze
+  a: vicars
 - q: wilgotny
   a: humid
+- q: windshield
+  a: przednia szyba (w samochodzie)
 - q: wiosło
   a: paddle
 - q: wiosłować
@@ -5811,8 +10390,14 @@
   a: baby jagi
 - q: withers
   a: kłąb
+- q: wiązanie
+  a: bundling
 - q: wiązanka
   a: bunch
+- q: wiązary(wparowozach)
+  a: rods (7-2-11)
+- q: większość
+  a: bulk
 - q: więź
   a: connexion
 - q: wkrótce
@@ -5823,10 +10408,28 @@
   a: elated
 - q: wnętrzności
   a: entrails
+- q: wodazlodem
+  a: icewater (4-1-5)
 - q: wodnykociokwik
   a: whirlpool (5-9)
 - q: wodorost
   a: algae
+- q: workout
+  a: trening
+- q: workout
+  a: ćwiczenia fizyczne
+- q: workouts
+  a: treningi
+- q: workouts
+  a: ćwiczenia fizyczne
+- q: worm
+  a: robak
+- q: worm
+  a: dżdżownica
+- q: worms
+  a: robaki
+- q: worms
+  a: dżdżownice
 - q: wołać
   a: summon
 - q: wprawiaćweuforycznynastrój
@@ -5837,12 +10440,20 @@
   a: confound (7-1-12)
 - q: wpychać
   a: tuck
+- q: wpływaćnakogoś
+  a: sway (7-2-5)
 - q: wraith
   a: zjawa
 - q: wraith
   a: widmo
 - q: wraith
   a: zmora
+- q: wreath
+  a: wianek
+- q: wreath
+  a: wieniec
+- q: wreath
+  a: stroik
 - q: wretch
   a: biedak
 - q: wretch
@@ -5855,6 +10466,10 @@
   a: nędznik
 - q: wretch
   a: drań
+- q: wretch
+  a: nieszczęśnik
+- q: wretch
+  a: łajdak
 - q: wretched
   a: nędzny
 - q: wretched
@@ -5869,38 +10484,86 @@
   a: żałosny
 - q: wretched
   a: przeklęty
+- q: wrodzony
+  a: intrinsic
 - q: wrzask
   a: screech
 - q: wrzawa
   a: din
+- q: wrzenie
+  a: ebullition
+- q: wrzos
+  a: heather
 - q: wrzód
   a: ulcer
 - q: wspaniały
   a: exquisite
+- q: wspaniały
+  a: gorgeous
+- q: wsparty
+  a: cantilevered
+- q: wspierać
+  a: foster
+- q: wspomnienie
+  a: remembrance
+- q: wspornikowy
+  a: cantilevered
+- q: wspólnota
+  a: communion
+- q: współczucie
+  a: compassion
+- q: współudział
+  a: complicity
+- q: współwina
+  a: complicity
+- q: wstrętny
+  a: abominable
 - q: wstrętny
   a: sordid
 - q: wstrętny
-  a: abominable
+  a: vile
 - q: wstęga
   a: sash
 - q: wstępnie
   a: tentatively
 - q: wsuwać
   a: tuck
+- q: wulgarny
+  a: vulgar
 - q: wybełkotał
   a: stammered
 - q: wybieg
   a: evasion
+- q: wybitny
+  a: eminent
+- q: wybitny
+  a: illustrious
 - q: wyblakły
   a: dingy
 - q: wybrakowany
   a: scrap
 - q: wybroczyna
   a: blotch
+- q: wybrzeże
+  a: seacoast
+- q: wybuch
+  a: blaze
+- q: wybuch
+  a: ebullition
 - q: wycieczka
   a: ramble
+- q: wycieraczka
+  a: mats
+- q: wycinek
+  a: clip
+- q: wycinka
+  a: logging
+- q: wycofaćsię
+  a: retreat (7-3)
 - q: wydalenie
   a: expulsion
+- q: wydra
+  a: otter
 - q: wydziałkanclerski
   a: chancery (7-10)
 - q: wydzierającysię
@@ -5917,46 +10580,76 @@
   a: gloom (8-6)
 - q: wyglądaćposępnie
   a: gloom (8-8)
+- q: wygnanie
+  a: exile
 - q: wygrzewaćsię
   a: bask (9-3)
 - q: wyjawić
   a: divulge
 - q: wyjący
   a: baying
+- q: wyjątkowy
+  a: eminent
 - q: wykidajło
   a: bouncer
+- q: wykolejać
+  a: derail
 - q: wykonywaćakwafortę
   a: etch (9-9)
+- q: wykop
+  a: dugout
 - q: wykrochmalony
   a: starched
 - q: wykrztusić
   a: stammer
 - q: wykrztusił
   a: stammered
+- q: wykrzywiaćsię
+  a: twitch (10-3)
 - q: wykręt
   a: evasion
 - q: wykwintny
   a: exquisite
+- q: wykładacztowaru
+  a: stockboy (9-6)
 - q: wylegiwaćsię
   a: lounge (9-3)
 - q: wyląg
   a: brood
 - q: wyląg
   a: brood
+- q: wylęgarnie
+  a: hatcheries
 - q: wymaglować
   a: mangle
 - q: wymizerowany
   a: haggard
+- q: wynikać
+  a: ensue
+- q: wyniosłość
+  a: haughtiness
 - q: wyniosły
   a: lofty
 - q: wyobrażalny
   a: conceivable
 - q: wypierdek
   a: turd
+- q: wypłata
+  a: payoff
+- q: wyrazisty
+  a: expressive
+- q: wyrażać
+  a: convey
+- q: wyrażać
+  a: embody
 - q: wyrwać
   a: yanked
 - q: wyrwać
   a: jerk
+- q: wyrzucać
+  a: dump
+- q: wyrąb
+  a: logging
 - q: wyschnąć
   a: shriveled
 - q: wysiadywać
@@ -5967,10 +10660,18 @@
   a: exertion
 - q: wysoki
   a: lofty
+- q: wystający
+  a: jutting
+- q: występ
+  a: gig
+- q: występy
+  a: gigs
 - q: wysuszyć
   a: shriveled
 - q: wysypka
   a: rash
+- q: wyszukany
+  a: elaborate
 - q: wytarty
   a: shabby
 - q: wytrawiać
@@ -5985,6 +10686,8 @@
   a: loll
 - q: wywieszony
   a: lolling
+- q: wywiązywaćsię
+  a: ensue (10-3)
 - q: wywołać
   a: elicited
 - q: wywrzeć
@@ -6013,6 +10716,12 @@
   a: downs
 - q: wzmacniać
   a: bolster
+- q: wzmacniać
+  a: reinforce
+- q: wzmocnienie
+  a: reinforcement
+- q: wzmocniony
+  a: reinforced
 - q: wzniosły
   a: lofty
 - q: wzrost
@@ -6027,18 +10736,50 @@
   a: frail
 - q: wąwóz
   a: ravine
-- q: wędrować
-  a: ramble
+- q: wąwóz
+  a: gulch
+- q: wąwóz
+  a: gorge
+- q: wążogrodowy/strażacki
+  a: hose (3-18)
+- q: wędka
+  a: rod
 - q: wędrować
   a: hike
+- q: wędrować
+  a: ramble
+- q: wędrowny
+  a: migrant
+- q: 'węglowodan[pot.]'
+  a: carb (10-6)
+- q: władzemiasta
+  a: municipality (6-6)
+- q: właz
+  a: hatch
+- q: włazkanalizacyjny
+  a: manhole (4-13)
+- q: włócznie
+  a: spears
+- q: włóczędzy
+  a: hoboes
+- q: włóczędzy
+  a: tramps
+- q: 'włóczędzy[slang]'
+  a: stiffs (9-7)
 - q: włóczęga
   a: hobo
+- q: włóczęga
+  a: bindle
 - q: włóknisty
   a: filamentous
 - q: włókno
   a: filament
 - q: wściekły
   a: vicious
+- q: xylophone
+  a: ksylofon
+- q: xylophone
+  a: cymbałki
 - q: yanked
   a: szarpnąć
 - q: yanked
@@ -6061,12 +10802,24 @@
   a: skomlący
 - q: yelping
   a: skowyczący
+- q: 'zbłoną[np.międzypalcami]'
+  a: webbed (1-5-4-6-8)
 - q: zklasą
   a: classy (1-5)
+- q: zniedowierzaniem
+  a: incredulously (1-15)
 - q: zpobłażaniem
   a: indulgently (1-11)
 - q: ztyłu
   a: astern (1-4)
+- q: zwyrzutem
+  a: sulkily (1-8)
+- q: zwyższychsfer
+  a: posh (1-8-4)
+- q: zabielaczdokawy
+  a: creamer (9-2-4)
+- q: zabić
+  a: slay
 - q: zablokować
   a: barred
 - q: zablokować
@@ -6081,6 +10834,8 @@
   a: perpetuating
 - q: zachowujący
   a: perpetuating
+- q: zachwycający
+  a: gorgeous
 - q: zachwyt
   a: delight
 - q: zaciekłość
@@ -6089,6 +10844,10 @@
   a: cramp
 - q: zacinaćsię
   a: stumbled (7-3)
+- q: zacisk
+  a: clip
+- q: zaciski
+  a: clenches
 - q: zaciąćsię
   a: stumbled (6-3)
 - q: zaczep
@@ -6113,6 +10872,8 @@
   a: acre
 - q: zagracony
   a: cluttered
+- q: zagracony
+  a: messy
 - q: zagraniczny
   a: offshore
 - q: zagroda
@@ -6121,10 +10882,14 @@
   a: paddock (7-3-7-4)
 - q: zahamowanie
   a: restraint
+- q: zahamowany
+  a: suppressed
 - q: zahamować
   a: throttle
 - q: zajebisty
   a: helluva
+- q: zajezdnia
+  a: depot
 - q: zająkałsię
   a: stammered (7-3)
 - q: zakapior
@@ -6143,8 +10908,12 @@
   a: well (8-3)
 - q: zakłopotany
   a: confounded
+- q: zakłócać
+  a: derail
 - q: zalać
   a: swamp
+- q: zamieć
+  a: blizzard
 - q: zamknięty
   a: pent
 - q: zamkniętyteren
@@ -6153,32 +10922,54 @@
   a: coop (7-1-5)
 - q: zamożny
   a: affluent
+- q: zamulony
+  a: slimy
 - q: zamyślenie
   a: reverie
 - q: zamyślony
   a: brooding
 - q: zanieczyścić
   a: foul
+- q: zaniepokojony
+  a: dismayed
 - q: zanikać
   a: shrinks
 - q: zaniknąć
   a: shrinks
 - q: zanim
   a: ere
+- q: zapach
+  a: odor
 - q: zapanować
   a: prevail
+- q: zapasy
+  a: hoard
 - q: zapluskać
   a: tinkle
 - q: zaplątany
   a: tangled
+- q: zapole(częśćboiskadobaseballa)
+  a: outfield (6-6-6-2-10)
+- q: 'zapuszkowany/wsadzonydowięzienia[pot.]'
+  a: canned (21-2-9-6)
 - q: zapędzać
   a: compelled
 - q: zapędzić
   a: compelled
+- q: zapładnianie
+  a: fertilizing
 - q: zaraza
   a: disease
 - q: zaraza
   a: plague
+- q: zaraza
+  a: contagion
+- q: zaraza
+  a: pestilence
+- q: zarażenie
+  a: contagion
+- q: zarobki
+  a: wage
 - q: zaryglować
   a: barred
 - q: zaryglować
@@ -6191,32 +10982,80 @@
   a: decree
 - q: zasadny
   a: legitimate
+- q: zasady
+  a: morals
+- q: 'zasiłekdlabezrobotnych[pot.]'
+  a: dole (7-3-12-6)
 - q: zasobny
   a: affluent
 - q: zaspokoić
   a: quench
+- q: zasraniec
+  a: pissant
 - q: zastawiać
   a: pawn
 - q: zastawić
   a: pawn
+- q: zastraszony
+  a: daunted
+- q: zastój
+  a: plateau
+- q: zastępczy
+  a: foster
+- q: zastępczy
+  a: surrogate
+- q: zastępczy
+  a: makeshift
+- q: zastępstwo
+  a: surrogate
+- q: zasuwki
+  a: latches
+- q: zasypany
+  a: strewn
+- q: zasłany
+  a: strewn
+- q: zatopiony
+  a: sunken
+- q: zatrzaski
+  a: latches
+- q: zauroczenie
+  a: crush
+- q: zauważać
+  a: perceive
 - q: zawezwać
   a: summon
 - q: zawiesić
   a: adjourned
+- q: zawieszenia
+  a: deferrals
+- q: zawieszenie
+  a: deferral
 - q: zawirowania
   a: whirlpool
+- q: zawiść
+  a: jaundice
 - q: zawyrokować
   a: decreed
 - q: zawyrokować
   a: decree
 - q: zawórdławiący
   a: throttle (5-8)
+- q: zazdrościć
+  a: begrudge
 - q: zaśmiecony
   a: cluttered
+- q: zaśmiecony
+  a: littered
+- q: zbieractwo
+  a: foraging
+- q: 'zbieracze(np.owoców,grzybów)'
+  a: pickers (9-4-7-8)
 - q: zbieraćsię
   a: well (7-3)
 - q: zbiornikowiec
   a: tanker
+- q: zbiory
+  a: crops
 - q: zbir
   a: goon
 - q: zbir
@@ -6235,14 +11074,26 @@
   a: casual
 - q: zdobienie
   a: adornment
+- q: zdobienie
+  a: embroidery
 - q: zdobić
   a: adorn
 - q: zdobycz
   a: quarry
+- q: zdobycz
+  a: swag
+- q: zdobyć
+  a: attain
+- q: zdrada
+  a: infidelity
 - q: zdradzićtajemnicę
   a: to spill guts (8-9)
+- q: zdrapki
+  a: instants
 - q: zdrobnienie
   a: diminiutive
+- q: zdumiewający
+  a: astounding
 - q: zduszony
   a: stifled
 - q: zdyskredytować
@@ -6255,24 +11106,40 @@
   a: welled
 - q: zebraćsię
   a: well (6-3)
+- q: zemsta
+  a: vengeance
 - q: zepsuty
   a: vicious
+- q: zepsuty
+  a: busted
 - q: zepsuć
   a: bust
+- q: zesłanie
+  a: exile
+- q: zesłaniec
+  a: exile
 - q: zesłać
   a: afflict
+- q: zesłańcy
+  a: exiles
 - q: zeznaniepodprzysięgą
   a: deposition (8-3-9)
 - q: zezłomować
   a: scrap
 - q: zgarbiony
   a: stooped
+- q: zgarniać
+  a: scooped
 - q: zgiełk
   a: din
 - q: zginać
   a: flex
 - q: zginać
   a: stump
+- q: zgniotek(chrząszcz)
+  a: cucujus (8-11)
+- q: zgodniezplanem
+  a: duly (7-1-6)
 - q: zgrabny
   a: slick
 - q: zgred
@@ -6285,14 +11152,22 @@
   a: screech
 - q: zgrzytaćzębami
   a: grit (8-6)
+- q: zgładzić
+  a: slay
 - q: ziemianie
   a: earthlings
 - q: ziemianin
   a: earthling
 - q: ziemianka
   a: earthling
+- q: ziemianka
+  a: dugout
+- q: ziemisty
+  a: sallow
 - q: zignorowany
   a: snubbed
+- q: zip
+  a: dźwięk zamka błyskawicznego
 - q: zjadliwy
   a: vicious
 - q: zjawa
@@ -6305,6 +11180,8 @@
   a: snub
 - q: zlekceważony
   a: snubbed
+- q: zlewanie
+  a: decanting
 - q: zmagaćsię
   a: strove (6-3)
 - q: zmarszczony
@@ -6323,8 +11200,24 @@
   a: compelled
 - q: zmyślony
   a: bogus
+- q: znak
+  a: cue
+- q: znaki
+  a: cues
+- q: znakomity
+  a: illustrious
+- q: zniechęcony
+  a: daunted
+- q: zniekształcenie
+  a: deformity
 - q: zniekształcić
   a: mangle
+- q: zniewaga
+  a: outrage
+- q: zniszczenia
+  a: ravages
+- q: znosić
+  a: cope
 - q: znęcił
   a: lured
 - q: zostawaćdłużej
@@ -6345,6 +11238,10 @@
   a: grumble
 - q: zręczny
   a: slick
+- q: zuchwałość
+  a: audacity
+- q: zuchwały
+  a: impudent
 - q: zwabić
   a: lure
 - q: zwabił
@@ -6363,28 +11260,44 @@
   a: connexion
 - q: zwlekać
   a: lingered
+- q: zwojenerwowe
+  a: ganglia (5-7)
+- q: 'zwolnionyzpracy[pot.]'
+  a: canned (9-1-5-6)
 - q: zwrot
   a: lurch
+- q: zwrotka
+  a: stave
 - q: zwykły
   a: casual
 - q: zwyżka
   a: spike
+- q: zwózkadrewna
+  a: logging (6-6)
+- q: zwęglony
+  a: charred
+- q: ząbkowanie
+  a: teething
 - q: złamanie
   a: cleft
 - q: złocenie
   a: gilt
+- q: złom
+  a: scraps
 - q: złomować
   a: scrap
+- q: złotowłosa
+  a: goldilocks
 - q: złowieszcza
   a: sombre
 - q: złowieszcze
   a: sombre
 - q: złowieszczy
-  a: sombre
-- q: złowieszczy
   a: brooding
 - q: złowieszczy
   a: ominous
+- q: złowieszczy
+  a: sombre
 - q: złowrogi
   a: brooding
 - q: złowrogi
@@ -6401,12 +11314,40 @@
   a: vicious
 - q: złączka
   a: muff
+- q: ćwiczeniafizyczne
+  a: workout (9-8)
+- q: ćwiczeniafizyczne
+  a: workouts (9-8)
+- q: 'ładny[slang]'
+  a: purty (5-7)
+- q: łagodny
+  a: serene
 - q: łajba
   a: chalana
+- q: łajdak
+  a: wretch
 - q: łajno
   a: dung
 - q: łajno
   a: turd
+- q: łaknienia
+  a: cravings
+- q: łaknienie
+  a: craving
+- q: łaknąć
+  a: crave
+- q: łamanie
+  a: cracking
+- q: łamliwy
+  a: brittle
+- q: łania
+  a: doe
+- q: łapówka
+  a: graft
+- q: łapówki
+  a: grafts
+- q: łasice
+  a: weasels
 - q: łaskawy
   a: magnanimous
 - q: ławka
@@ -6419,8 +11360,12 @@
   a: wretch
 - q: łom
   a: crowbar
+- q: łomot
+  a: thud
 - q: łono
   a: lap
+- q: 'łono[lit.]'
+  a: bosom (4-6)
 - q: łopatka
   a: paddle
 - q: łoskot
@@ -6431,6 +11376,18 @@
   a: elk
 - q: łoś
   a: moose
+- q: łup
+  a: swag
+- q: łupanie
+  a: cracking
+- q: łupnięcie
+  a: thud
+- q: łuskowaty
+  a: scaly
+- q: łuszczącysię
+  a: scaly (9-3)
+- q: łyk
+  a: swig
 - q: łyżwiarz
   a: skater
 - q: łódka
@@ -6439,12 +11396,22 @@
   a: crib
 - q: łóżkopiętrowe
   a: bunk (5-8)
+- q: łóżkopolowe
+  a: cot (5-6)
 - q: łączenia
   a: seams
+- q: łączenie
+  a: bundling
 - q: łączność
   a: connexion
 - q: łączny
   a: composite
+- q: łączący
+  a: coupling
+- q: ściek
+  a: gutter
+- q: ścierkadomycianaczyń
+  a: dishrag (7-2-5-6)
 - q: ściągacz
   a: cuffs
 - q: ściągać
@@ -6461,28 +11428,56 @@
   a: slick
 - q: śmiałość
   a: daring
+- q: śmiałość
+  a: audacity
+- q: śmieci
+  a: litter
 - q: śmieciara
   a: sloven
 - q: śmieszniemały
   a: paltry (9-4)
+- q: śmietniczka
+  a: dustpan
+- q: śmietnisko
+  a: dump
 - q: śmigać
   a: flit
 - q: śmignął
   a: flitted
 - q: śmigło
   a: prop
+- q: śnieżyca
+  a: blizzard
+- q: śpiewalnia
+  a: singery
 - q: środowisko
   a: entourage
 - q: śruba
   a: prop
+- q: śrubaoczkowazpierścieniem
+  a: ringbolt (5-7-1-12)
 - q: śrucina
   a: pellet
+- q: śrut(gruby)
+  a: buckshot (4-7)
+- q: świecznik
+  a: candlestick
 - q: świetlistość
   a: lucid
 - q: świetlny
   a: luminous
+- q: świr
+  a: freak
 - q: świta
   a: entourage
+- q: świątynia
+  a: temple
+- q: święto
+  a: fiesta
+- q: świętokradztwo
+  a: sacrilege
+- q: żal
+  a: penitence
 - q: żalzagrzechy
   a: contrition (3-2-7)
 - q: żaluzja
@@ -6491,12 +11486,24 @@
   a: grub
 - q: żałosny
   a: wretched
+- q: żałosny
+  a: abject
+- q: żałować
+  a: begrudge
 - q: żerdka
   a: prop
 - q: żerdź
   a: perch
+- q: żniwo(śmierci)
+  a: toll (5-9)
+- q: żongler
+  a: juggler
 - q: żołnierz
   a: pawn
+- q: żołnierzmarine
+  a: marine (8-6)
+- q: żołnierzemarines
+  a: marines (9-7)
 - q: żul
   a: hoodlum
 - q: żwir
@@ -6505,9 +11512,15 @@
   a: grit
 - q: żwirować
   a: grit
+- q: życzliwość
+  a: charity
+- q: życzliwy
+  a: amiable
 - q: żylakowaty
   a: varicose
 - q: żylakowy
   a: varicose
+- q: żółtaczka
+  a: jaundice
 - q: żółtodziób
   a: rookie
