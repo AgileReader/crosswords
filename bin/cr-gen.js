@@ -10,7 +10,7 @@ const crossword = require('./../src/crossword');
 
 console.log(brandlib.brand('Crosswords Generator', '0.0.0').yellow);
 
-const NUMBER_OF_CROSSWORDS = 16;
+const NUMBER_OF_CROSSWORDS = 32;
 const DEBUG = false;
 
 const predefinedShapes = [
@@ -143,7 +143,17 @@ function generateCrossword(shapes) {
 
     crossword.resetMinMax();
     let html = null;
+
+    /*
+     * Debug info about
+     *   - level
+     *   - combination
+     * is printed inside:
+     *    .toPrint()
+     *    .fill()
+     */
     let filledCrossword = crossword.toPrint(inputCrossword, wordsForCrossword, unknownWordsToMemorize);
+
     if (!filledCrossword) {
       console.log('ERROR'.red);
       html = crossword.htmlBody(crossword.getMaxCrossword(), unknownWordsToMemorize);
