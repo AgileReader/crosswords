@@ -11,10 +11,10 @@ const fileTools = require('./../src/file-tools');
 
 const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
-const VERBOSITY = 5;
+const VERBOSITY = 0;
 
 if (VERBOSITY > 0) {
-  console.log(brandlib.brand('Crosswords Generator', '0.0.0').yellow);
+  console.log(brandlib.brand('Crosswords Generator', '0.4.0').yellow);
 }
 
 const predefinedShapes = [
