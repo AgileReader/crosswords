@@ -8,13 +8,15 @@ const nunjucks = require('nunjucks');
 const { aolib, datelib, brandlib } = require('private-libs');
 const crossword = require('./../src/crossword');
 const fileTools = require('./../src/file-tools');
+const { getOneJsonFileParsed } = require('../src/file-tools');
 
 const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
-const VERBOSITY = 0;
+const VERBOSITY = 1;
 
 if (VERBOSITY > 0) {
-  console.log(brandlib.brand('Crosswords Generator', '0.4.0').yellow);
+  let packageJson = getOneJsonFileParsed('package.json');
+  console.log(brandlib.brand('Crosswords Generator', packageJson.version).yellow);
 }
 
 const predefinedShapes = [

@@ -6,8 +6,10 @@ const fs = require('fs');
 const YAML = require('js-yaml');
 const crossword = require('./../src/crossword');
 const { brandlib } = require('private-libs');
+const { getOneJsonFileParsed } = require('../src/file-tools');
 
-console.log(brandlib.brand('Crosswords Clues Stat', '0.4.0').yellow);
+let packageJson = getOneJsonFileParsed('package.json');
+console.log(brandlib.brand('Crosswords Clues Stat', packageJson.version).yellow);
 
 generateCrossword();
 
