@@ -9,7 +9,6 @@ const { aolib, datelib, brandlib } = require('private-libs');
 const crossword = require('./../src/crossword');
 const fileTools = require('./../src/file-tools');
 
-
 const NUMBER_OF_CROSSWORDS = 16;
 const DEBUG = false;
 const VERBOSITY = 5;

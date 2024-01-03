@@ -5,5 +5,5 @@ function getOneJsonFileParsed(filename) {
 }
 
 module.exports = {
-    getOneJsonFileParsed,
+  getOneJsonFileParsed,
 };

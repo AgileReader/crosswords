@@ -438,14 +438,7 @@ function getMaxCrossword() {
  * @param reset
  * @returns {boolean|any|(boolean|any)}
  */
-function fill(
-    cr,
-    toFill,
-    words,
-    level = 0,
-    reset = false,
-    verbosity = 0
-) {
+function fill(cr, toFill, words, level = 0, reset = false, verbosity = 0) {
   if (toFill.length < minRemainingToFill) {
     maxCrossword = aolib.deepCopy(cr);
     minRemainingToFill = toFill.length;
