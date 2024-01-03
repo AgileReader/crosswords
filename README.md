@@ -14,4 +14,4 @@ npm test
 ```
 
 * input data: `example-data/crosswords-clues.yaml`
-* crossroads are generated in `crosswords/` directory
+* crosswords are generated in `crosswords/` directory
