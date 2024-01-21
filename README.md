@@ -5,6 +5,8 @@
 ```
 npm i
 npm test
+
+./ci.sh
 ```
 
 ## How to run?
