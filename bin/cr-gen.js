@@ -17,6 +17,9 @@ const VERBOSITY = 1;
 if (VERBOSITY > 0) {
   let packageJson = getOneJsonFileParsed('package.json');
   console.log(brandlib.brand('Crosswords Generator', packageJson.version).yellow);
+  console.log('');
+  console.log('Input data.........................: ' + 'example-data/crosswords-clues.yaml'.green);
+  console.log('Crosswords are generated in folder.: ' +  'crosswords/'.green);
 }
 
 const predefinedShapes = [
