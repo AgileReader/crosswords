@@ -1,7 +1,7 @@
 {
   "name": "crossword",
   "description": "Crossword generator",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "author": "Włodzimierz Gajda <gajdaw@gajdaw.pl>",
   "repository": {
     "type": "git",
