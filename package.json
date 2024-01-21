@@ -1,13 +1,13 @@
 {
   "name": "crossword",
   "description": "Crossword generator",
-  "version": "0.5.0",
+  "version": "0.5.4",
   "author": "Włodzimierz Gajda <gajdaw@gajdaw.pl>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gajdaw/crossword.git"
+    "url": "git+https://github.com/AgileReader/crosswords.git"
   },
-  "homepage": "https://github.com/gajdaw/crossword.git",
+  "homepage": "https://github.com/AgileReader/crosswords",
   "license": "MIT",
   "private": true,
   "keywords": [
